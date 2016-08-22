@@ -136,12 +136,12 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/dialog.html" timestamp="1471694705888">
+      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/dialog.html" timestamp="1471849328225">
         <mark key="'" line="6" column="48" />
-        <mark key="[" line="6" column="48" />
-        <mark key="]" line="6" column="69" />
-        <mark key="^" line="7" column="28" />
-        <mark key="." line="7" column="72" />
+        <mark key="[" line="51" column="79" />
+        <mark key="]" line="51" column="79" />
+        <mark key="^" line="51" column="79" />
+        <mark key="." line="51" column="79" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/templates/main/index.html" timestamp="1471607502202">
         <mark key="'" line="38" column="42" />
@@ -303,10 +303,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>display</text>
@@ -315,34 +315,34 @@
         <text>{{ url_for('static', filename='img/user.png' , _external=True) }}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0dG9tX21lbnVfc2hvdwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0dG9tX21lbnVfc2hvdwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm90dG9tCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wdXRlZDogeyB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm90dG9tCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -394,10 +394,10 @@
         <entry encoding="base64">JXMve1xbLzwlL2c=</entry>
         <entry encoding="base64">JXMvXX0vJT4vZw==</entry>
         <entry>%s/1s/0.5s/g</entry>
-        <entry>q</entry>
         <entry>wp</entry>
         <entry>wn</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
