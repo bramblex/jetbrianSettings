@@ -10,6 +10,9 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="22" column="28" />
       </file>
+      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" timestamp="1471853702421">
+        <mark key="'" line="42" column="20" />
+      </file>
       <file name="$USER_HOME$/Workspace/Autress/app/config.py" timestamp="1471599510515">
         <mark key="'" line="26" column="46" />
         <mark key="[" line="27" column="65" />
@@ -43,16 +46,6 @@
         <mark key="]" line="61" column="20" />
         <mark key="^" line="13" column="99" />
         <mark key="." line="61" column="20" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/address.html" timestamp="1471509957229">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Autress/requirements.txt" timestamp="1470213208827">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/order.js" timestamp="1471501474847">
         <mark key="'" line="0" column="0" />
@@ -112,15 +105,15 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/models/fake.py" timestamp="1471851001165" />
-      <file name="$USER_HOME$/Workspace/Autress/app/static/js/client.js" timestamp="1471501474330">
+      <file name="$USER_HOME$/Workspace/Autress/app/static/js/client.js" timestamp="1471853899872">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/models/order.py" timestamp="1471853511457">
+      <file name="$USER_HOME$/Workspace/Autress/app/models/order.py" timestamp="1471854017106">
         <mark key="'" line="31" column="12" />
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="23" column="6" />
-        <mark key="." line="23" column="6" />
-        <mark key="^" line="23" column="6" />
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="32" />
+        <mark key="." line="24" column="32" />
+        <mark key="^" line="24" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/werobot/robot.py" timestamp="1469892101638">
         <mark key="'" line="0" column="0" />
@@ -208,11 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="33" filename="$USER_HOME$/Workspace/Autress/app/socket/__init__.py" />
-      <jump line="5" column="50" filename="$USER_HOME$/Workspace/Autress/app/socket/__init__.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/Workspace/Autress/app/socket/__init__.py" />
-      <jump line="31" column="16" filename="$USER_HOME$/Workspace/Autress/manager.py" />
-      <jump line="35" column="9" filename="$USER_HOME$/Workspace/Autress/app/static/js/add-product.js" />
       <jump line="36" column="29" filename="$USER_HOME$/Workspace/Autress/app/static/js/add-product.js" />
       <jump line="37" column="41" filename="$USER_HOME$/Workspace/Autress/app/static/js/add-product.js" />
       <jump line="38" column="36" filename="$USER_HOME$/Workspace/Autress/app/static/js/add-product.js" />
@@ -308,13 +296,18 @@
       <jump line="43" column="54" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
       <jump line="44" column="4" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
       <jump line="31" column="12" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" />
+      <jump line="170" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" />
+      <jump line="186" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" />
+      <jump line="42" column="20" filename="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>pro</text>
