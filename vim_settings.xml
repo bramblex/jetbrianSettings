@@ -136,8 +136,8 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/dialog.html" timestamp="1471849328225">
-        <mark key="'" line="6" column="48" />
+      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/dialog.html" timestamp="1471849608524">
+        <mark key="'" line="74" column="0" />
         <mark key="[" line="51" column="79" />
         <mark key="]" line="51" column="79" />
         <mark key="^" line="51" column="79" />
@@ -200,8 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="54" filename="$USER_HOME$/Workspace/Autress/app/socket/__init__.py" />
-      <jump line="51" column="25" filename="$USER_HOME$/Workspace/Autress/app/socket/__init__.py" />
       <jump line="52" column="26" filename="$USER_HOME$/Workspace/Autress/app/socket/__init__.py" />
       <jump line="55" column="19" filename="$USER_HOME$/Workspace/Autress/app/socket/__init__.py" />
       <jump line="56" column="11" filename="$USER_HOME$/Workspace/Autress/app/socket/__init__.py" />
@@ -300,6 +298,8 @@
       <jump line="40" column="0" filename="$USER_HOME$/Workspace/Autress/app/__init__.py" />
       <jump line="50" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/base_new.html" />
       <jump line="8" column="0" filename="$USER_HOME$/Workspace/Autress/app/website/main/views/index.py" />
+      <jump line="27" column="17" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/dialog.html" />
+      <jump line="74" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/dialog.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
