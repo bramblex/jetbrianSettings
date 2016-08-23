@@ -99,7 +99,7 @@
         <mark key="^" line="48" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/templates/main/order.html" timestamp="1471935136020">
-        <mark key="'" line="108" column="0" />
+        <mark key="'" line="110" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/wechat/config.py" timestamp="1471933816584" />
       <file name="$USER_HOME$/Workspace/Autress/app/templates/main/app_framework.html" timestamp="1471503490985">
@@ -125,8 +125,8 @@
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/client.js" timestamp="1471856332670">
         <mark key="'" line="136" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/models/order.py" timestamp="1471945559561">
-        <mark key="'" line="75" column="4" />
+      <file name="$USER_HOME$/Workspace/Autress/app/models/order.py" timestamp="1471949355297">
+        <mark key="'" line="58" column="29" />
         <mark key="[" line="56" column="41" />
         <mark key="]" line="56" column="41" />
         <mark key="." line="56" column="41" />
@@ -302,7 +302,6 @@
       <jump line="40" column="12" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
       <jump line="57" column="4" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
       <jump line="39" column="54" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
-      <jump line="58" column="4" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
       <jump line="27" column="8" filename="$USER_HOME$/Workspace/Autress/manager.py" />
       <jump line="19" column="4" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
@@ -313,6 +312,7 @@
       <jump line="53" column="34" filename="$USER_HOME$/Workspace/Autress/app/models/__init__.py" />
       <jump line="26" column="55" filename="$USER_HOME$/Workspace/Autress/manager.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Workspace/Autress/app/models/product.py" />
+      <jump line="58" column="29" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
