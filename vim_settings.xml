@@ -52,12 +52,11 @@
       <file name="$USER_HOME$/Workspace/Autress/requirements.txt" timestamp="1471943246437">
         <mark key="[" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/models/product.py" timestamp="1471947799290">
+      <file name="$USER_HOME$/Workspace/Autress/app/models/product.py" timestamp="1471948936429">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="45" column="22" />
-        <mark key="]" line="42" column="6" />
-        <mark key="^" line="42" column="5" />
-        <mark key="." line="42" column="6" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/templates/base.html" timestamp="1471603119293">
         <mark key="'" line="65" column="0" />
@@ -120,7 +119,7 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471945642796">
+      <file name="/Dummy.txt" timestamp="1471949074041">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/client.js" timestamp="1471856332670">
@@ -316,8 +315,8 @@
       <jump line="3" column="0" filename="$USER_HOME$/Workspace/Autress/app/models/product.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMg5p2h5b2i56CBCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -329,31 +328,31 @@
         <text>server@autress.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMg5p2h5b2i56CBCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFpbC5zZW5kKG1zZykK</text>
+        <text encoding="base64">ICAgICMgYmFyY29kZSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFpbAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFpbC5zZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFpbC5zZW5kKG1zZykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZW5kTWFpbChzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFpbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cgPSBNZXNzYWdlKCd0ZXN0JywgcmVjaXBpZW50cz1bJ3FqQGF1dHJlc3MuY29tJ10sIGJvZHk9J3RleHQgYm9keScpCiAgICAgICAgd2l0aCBjdXJyZW50X2FwcC5hcHBfY29udGV4dCgpOgogICAgICAgICAgICBtYWlsLnNlbmQobXNnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFpbC5zZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

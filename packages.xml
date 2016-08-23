@@ -15370,7 +15370,7 @@
         <entry key="bquery" value="" />
         <entry key="bquick" value="" />
         <entry key="bqx" value="" />
-        <entry key="br" value="" />
+        <entry key="br" value="0.1" />
         <entry key="br_documents" value="" />
         <entry key="brabbel" value="" />
         <entry key="brabeion" value="" />
@@ -60159,7 +60159,7 @@
         <entry key="pxp" value="" />
         <entry key="pxprocess" value="" />
         <entry key="pxul" value="" />
-        <entry key="py" value="" />
+        <entry key="py" value="1.4.31" />
         <entry key="py-4chan" value="" />
         <entry key="py-ApeTag" value="" />
         <entry key="py-Asterisk" value="" />
@@ -60516,7 +60516,7 @@
         <entry key="pyBIP0038" value="" />
         <entry key="pyBMA" value="" />
         <entry key="pyBWA" value="" />
-        <entry key="pyBarcode" value="" />
+        <entry key="pyBarcode" value="0.7" />
         <entry key="pyBaseX" value="" />
         <entry key="pyBigParser" value="" />
         <entry key="pyBigWig" value="" />
