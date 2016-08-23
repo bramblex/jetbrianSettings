@@ -117,11 +117,12 @@
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/client.js" timestamp="1471856332670">
         <mark key="'" line="136" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/models/order.py" timestamp="1471938141862">
-        <mark key="'" line="62" column="4" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Workspace/Autress/app/models/order.py" timestamp="1471941158547">
+        <mark key="'" line="60" column="4" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="43" column="110" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/werobot/robot.py" timestamp="1469892101638">
         <mark key="'" line="0" column="0" />
@@ -304,10 +305,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Fake</text>
@@ -316,31 +317,31 @@
         <text encoding="base64">dHlwZW9mIEFVVFJFU1NfRyAhPT0gJ3VuZGVmaW5lZCcgJiYgIQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodGVtcGxhdGVfZmlsZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnUHJvZHVjdERlc2MnOiBQcm9kdWN0RGVzYwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRlbXBsYXRlKCkucmVuZGVyKG9yZGVyPXNlbGYpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRlbXBsYXRlKCkucmVuZGVyKG9yZGVyPXNlbGYpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodGVtcGxhdGVfZmlsZSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAnUHJvZHVjdERlc2MnOiBQcm9kdWN0RGVzYwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRlbXBsYXRlKCkucmVuZGVyKG9yZGVyPXNlbGYpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRlbXBsYXRlKCkucmVuZGVyKG9yZGVyPXNlbGYpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
