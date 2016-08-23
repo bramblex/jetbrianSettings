@@ -88,8 +88,14 @@
         <mark key="." line="10" column="234" />
         <mark key="^" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/order.html" timestamp="1471862720412">
+      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/order.html" timestamp="1471933740647">
         <mark key="'" line="112" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Autress/app/wechat/config.py" timestamp="1471933772371">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/templates/main/app_framework.html" timestamp="1471503490985">
         <mark key="'" line="68" column="0" />
@@ -111,7 +117,6 @@
       <file name="/Dummy.txt" timestamp="1471856606439">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/models/fake.py" timestamp="1471851001165" />
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/client.js" timestamp="1471856332670">
         <mark key="'" line="136" column="0" />
       </file>
@@ -131,7 +136,6 @@
       <file name="$USER_HOME$/.ideavimrc" timestamp="1469770458128">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/migrations/versions/c1ace39ffa5d_.py" timestamp="1471856919744" />
       <file name="$USER_HOME$/Workspace/Autress/config.py" timestamp="1469424758919">
         <mark key="'" line="10" column="4" />
         <mark key="[" line="33" column="32" />
@@ -203,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Autress/app/static/js/client-order.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Workspace/Autress/app/static/js/index.js" />
       <jump line="72" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/app_framework.html" />
       <jump line="24" column="16" filename="$USER_HOME$/Workspace/Autress/app/static/js/add-product.js" />
@@ -302,6 +305,7 @@
       <jump line="79" column="24" filename="$USER_HOME$/Workspace/Autress/manager.py" />
       <jump line="172" column="4" filename="$USER_HOME$/Workspace/Autress/manager.py" />
       <jump line="28" column="53" filename="$USER_HOME$/Workspace/Autress/app/templates/main/order.html" />
+      <jump line="27" column="37" filename="$USER_HOME$/Workspace/Autress/app/templates/main/order.html" />
       <jump line="112" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/order.html" />
     </jumps>
     <registers>
