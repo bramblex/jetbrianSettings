@@ -2653,7 +2653,7 @@
         <entry key="Flask-LDAP" value="" />
         <entry key="Flask-LDAPConn" value="" />
         <entry key="Flask-Landing" value="" />
-        <entry key="Flask-Lastuser" value="" />
+        <entry key="Flask-Lastuser" value="0.3.12" />
         <entry key="Flask-Latch" value="" />
         <entry key="Flask-LazyViews" value="" />
         <entry key="Flask-Librato" value="" />
@@ -2669,7 +2669,7 @@
         <entry key="Flask-LwAdmin" value="" />
         <entry key="Flask-MAB" value="" />
         <entry key="Flask-MIME-Encoders" value="" />
-        <entry key="Flask-Mail" value="" />
+        <entry key="Flask-Mail" value="0.9.1" />
         <entry key="Flask-MailGun3" value="" />
         <entry key="Flask-Mailer" value="" />
         <entry key="Flask-Mailgun" value="" />
@@ -14694,7 +14694,7 @@
         <entry key="blink" value="" />
         <entry key="blink1" value="" />
         <entry key="blink1py" value="" />
-        <entry key="blinker" value="" />
+        <entry key="blinker" value="1.4" />
         <entry key="blinker_herald" value="" />
         <entry key="blinkt" value="" />
         <entry key="blinktrade" value="" />
