@@ -58,12 +58,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/templates/base.html" timestamp="1472006385335">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="83" column="54" />
+      <file name="$USER_HOME$/Workspace/Autress/app/templates/base.html" timestamp="1472007319995">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="40" column="87" />
+        <mark key="]" line="40" column="87" />
+        <mark key="." line="40" column="87" />
+        <mark key="^" line="40" column="87" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/app.js" timestamp="1471499946066">
         <mark key="'" line="43" column="0" />
@@ -121,7 +121,7 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471949074041">
+      <file name="/Dummy.txt" timestamp="1472008337678">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/client.js" timestamp="1471856332670">
@@ -155,12 +155,11 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/static/js/autosave.js" timestamp="1472006389310">
-        <mark key="'" line="2" column="3" />
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-        <mark key="^" line="2" column="3" />
+      <file name="$USER_HOME$/Workspace/Autress/app/static/js/autosave.js" timestamp="1472008176200">
+        <mark key="[" line="23" column="61" />
+        <mark key="]" line="23" column="77" />
+        <mark key="." line="23" column="77" />
+        <mark key="^" line="23" column="77" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/config.py" timestamp="1469424758919">
         <mark key="'" line="10" column="4" />
@@ -233,8 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="67" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/app_framework.html" />
-      <jump line="1" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/base_new.html" />
       <jump line="14" column="10" filename="$USER_HOME$/Workspace/Autress/app/website/main/views/index.py" />
       <jump line="66" column="6" filename="$USER_HOME$/Workspace/Autress/app/templates/base_new.html" />
       <jump line="66" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/base.html" />
@@ -333,49 +330,48 @@
       <jump line="109" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/order.html" />
       <jump line="2" column="3" filename="$USER_HOME$/Workspace/Autress/app/static/js/autosave.js" />
       <jump line="0" column="2" filename="$USER_HOME$/Workspace/Autress/app/static/js/order.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/base.html" />
+      <jump line="86" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/base.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>order</text>
+        <text>JSON.stringify(this.$data)</text>
       </register>
       <register name="/" type="4">
         <text>=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyB1cmxfZm9yKCdzdGF0aWMnLCBmaWxlbmFtZT0nanMvb3JkZXIuanMnLCBfZXh0ZXJuYWw9VHJ1ZSwgcmFuZD1nLnJhbmQpIH19Ij48L3NjcmlwdD4K</text>
+      <register name="0" type="4">
+        <text>cdnjs.cloudflare.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHNjcmlwdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHRoaXMuJGRhdGEpKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>app.register({
-    watch:function(){
-    }
-});</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlYWR5OiBmdW5jdGlvbigpewogICAgICAgIGlmICh0aGlzLmNhY2hhYmxlKXsKICAgICAgICAgICAgc2V0SW50ZXJ2YWwoZnVuY3Rpb24gKCkgewogICAgICAgICAgICB9LCAzMGUzKQogICAgICAgICAgICB3aW5kb3cubG9jYWxTdG9yYWdlLnNldEl0ZW0obG9jYXRpb24uaHJlZikKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvc2F2ZVNldDogZnVuY3Rpb24oKXsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHJlYWR5OiBmdW5jdGlvbigpewogICAgICAgIGlmICh0aGlzLmNhY2hhYmxlKXsKICAgICAgICAgICAgc2V0SW50ZXJ2YWwoZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0sIDMwZTMpCiAgICAgICAgICAgIHdpbmRvdy5sb2NhbFN0b3JhZ2Uuc2V0SXRlbShsb2NhdGlvbi5ocmVmKQogICAgICAgIH0KICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
