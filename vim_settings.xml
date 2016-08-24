@@ -121,7 +121,7 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472008337678">
+      <file name="/Dummy.txt" timestamp="1472010185328">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/client.js" timestamp="1471856332670">
@@ -155,11 +155,11 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/static/js/autosave.js" timestamp="1472008176200">
-        <mark key="[" line="23" column="61" />
-        <mark key="]" line="23" column="77" />
-        <mark key="." line="23" column="77" />
-        <mark key="^" line="23" column="77" />
+      <file name="$USER_HOME$/Workspace/Autress/app/static/js/autosave.js" timestamp="1472010172445">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="31" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/config.py" timestamp="1469424758919">
         <mark key="'" line="10" column="4" />
@@ -334,11 +334,11 @@
       <jump line="86" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/base.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>JSON.stringify(this.$data)</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>=</text>
