@@ -27,7 +27,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1471498476121">
+      <file name="/a.dummy" timestamp="1472004840026">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/manager.py" timestamp="1471943793907">
@@ -146,6 +146,18 @@
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1469770458128">
         <mark key="'" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Autress/app/static/js/autosave.py" timestamp="1472004830885">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Autress/app/static/js/autosave.js" timestamp="1472005378097">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+        <mark key="^" line="2" column="9" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/config.py" timestamp="1469424758919">
         <mark key="'" line="10" column="4" />
@@ -315,11 +327,11 @@
       <jump line="58" column="29" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMg5p2h5b2i56CBCg==</text>
+      <register name="&quot;" type="4">
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>=</text>
@@ -328,31 +340,31 @@
         <text>server@autress.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMg5p2h5b2i56CBCg==</text>
+        <text encoding="base64">ICAgIHJlYWR5OiBmdW5jdGlvbigpewogICAgICAgIGlmICh0aGlzLmNhY2hhYmxlKXsKICAgICAgICAgICAgc2V0SW50ZXJ2YWwoZnVuY3Rpb24gKCkgewogICAgICAgICAgICB9LCAzMGUzKQogICAgICAgICAgICB3aW5kb3cubG9jYWxTdG9yYWdlLnNldEl0ZW0obG9jYXRpb24uaHJlZikKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgYmFyY29kZSAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHJlYWR5OiBmdW5jdGlvbigpewogICAgICAgIGlmICh0aGlzLmNhY2hhYmxlKXsKICAgICAgICAgICAgc2V0SW50ZXJ2YWwoZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0sIDMwZTMpCiAgICAgICAgICAgIHdpbmRvdy5sb2NhbFN0b3JhZ2Uuc2V0SXRlbShsb2NhdGlvbi5ocmVmKQogICAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFpbC5zZW5kKG1zZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFpbAo=</text>
+        <text encoding="base64">ICAgIGRhdGE6IHsKICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFpbC5zZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
