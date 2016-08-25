@@ -13,6 +13,12 @@
       <file name="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" timestamp="1471856331799">
         <mark key="'" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Autress/app/wechat/handlers.py" timestamp="1472124832888">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+      </file>
       <file name="$USER_HOME$/Workspace/Autress/wsgi.py" timestamp="1472097376707">
         <mark key="[" line="4" column="27" />
         <mark key="]" line="5" column="11" />
@@ -29,12 +35,11 @@
       <file name="/a.dummy" timestamp="1472004840026">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/manager.py" timestamp="1472117404455">
+      <file name="$USER_HOME$/Workspace/Autress/manager.py" timestamp="1472125120837">
         <mark key="'" line="171" column="4" />
-        <mark key="[" line="26" column="55" />
-        <mark key="]" line="26" column="55" />
-        <mark key="." line="26" column="55" />
-        <mark key="^" line="26" column="66" />
+        <mark key="[" line="79" column="31" />
+        <mark key="]" line="79" column="31" />
+        <mark key="." line="79" column="31" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/migrations/script.py.mako" timestamp="1472110321937" />
       <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/toast.html" timestamp="1472102677707">
@@ -159,8 +164,8 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/config.py" timestamp="1472117338478">
-        <mark key="'" line="92" column="26" />
+      <file name="$USER_HOME$/Workspace/Autress/app/config.py" timestamp="1472124648462">
+        <mark key="'" line="12" column="15" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="12" />
         <mark key="^" line="74" column="55" />
@@ -263,9 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="4" filename="$USER_HOME$/Workspace/Autress/manager.py" />
-      <jump line="79" column="24" filename="$USER_HOME$/Workspace/Autress/manager.py" />
-      <jump line="172" column="4" filename="$USER_HOME$/Workspace/Autress/manager.py" />
       <jump line="28" column="53" filename="$USER_HOME$/Workspace/Autress/app/templates/main/order.html" />
       <jump line="27" column="37" filename="$USER_HOME$/Workspace/Autress/app/templates/main/order.html" />
       <jump line="112" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/order.html" />
@@ -363,64 +365,65 @@
       <jump line="58" column="38" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
       <jump line="63" column="8" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
+      <jump line="11" column="15" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
+      <jump line="12" column="15" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBydW4oJ0ZMQVNLX0NPTkZJRz1yZWxlYXNlIHB5dGhvbiBtYW5hZ2VyLnB5IGRiIG1pZ3JhdGUnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>test-</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>test-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYW5hZ2VyXD4=</text>
+        <text>TOKEN</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBvayA9IHRoaXMuZm9ybURpYWxvZ09rQ2FsbGJhY2sgPyB0aGlzLmZvcm1EaWFsb2dPa0NhbGxiYWNrKHRoaXMuZm9ybV9kaWFsb2dfaW5wdXRzKSA6IHRydWU7CiAgICAgICAgICAgICAgICBpZiAob2sgPT09IGZhbHNlKSByZXR1cm47Cg==</text>
+        <text encoding="base64">QG1hbmFnZXIuY29tbWFuZApkZWYgd2VjaGF0X21lbnUoY3JlYXRlPUZhbHNlKToKICAgIGZyb20gYXBwLndlY2hhdCBpbXBvcnQgY2xpZW50CiAgICBtZW51ID0gewogICAgICAgICdidXR0b24nOiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICd0eXBlJzogJ3ZpZXcnLAogICAgICAgICAgICAgICAgJ25hbWUnOiAn5byA5aeLJywKICAgICAgICAgICAgICAgICd1cmwnOiAnaHR0cDovL3Rlc3QtYXBwLmF1dHJlc3MuY29tL21haW4vJwogICAgICAgICAgICB9CiAgICAgICAgXQogICAgfQogICAgaWYgY3JlYXRlOgogICAgICAgIHJlcyA9IGNsaWVudC5jcmVhdGVfbWVudShtZW51KQogICAgICAgIGlmIHJlc1snZXJyY29kZSddID09IDA6CiAgICAgICAgICAgIHByaW50KCdcblNVQ0NFU1M6IENyZWF0ZSBtZW51IHN1Y2Nlc3NmdWxseS4nKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByaW50KCdcbkVSUk9SOiBDcmVhdGUgbWVudSBmYWlsZWQuIFBsZWFzZSBjaGVjayBvdXQgYW5kIHRyeSBhZ2FpbicpCiAgICAgICAgICAgIHJldHVybgogICAgZm9ybWF0X3N0cmluZyA9ICd7OjIwc317OjEwc317OjMwc30nCiAgICBwcmludCgnXG5DdXJyZW50IHdlY2hhdCBtZW51OicpCiAgICBwcmludChmb3JtYXRfc3RyaW5nLmZvcm1hdCgnTmFtZScsICdUeXBlJywgJ1VybCcpKQogICAgcHJpbnQoJy0nKjUwKQogICAgY3VycmVudF9tZW51ID0gY2xpZW50LmdldF9tZW51KCkKICAgIGlmICdlcnJjb2RlJyBub3QgaW4gY3VycmVudF9tZW51OgogICAgICAgIGZvciBidG4gaW4gY3VycmVudF9tZW51WydtZW51J11bJ2J1dHRvbiddOgogICAgICAgICAgICBoYXZlX3N1Ym1lbnUgPSAnc3ViX2J1dHRvbicgaW4gYnRuIGFuZCBsZW4oYnRuWydzdWJfYnV0dG9uJ10pID4gMAogICAgICAgICAgICBpZiBoYXZlX3N1Ym1lbnU6CiAgICAgICAgICAgICAgICBmb3Igc3ViIGluIGJ0blsnc3ViX2J1dHRvbiddOgogICAgICAgICAgICAgICAgICAgIHByaW50KGZvcm1hdF9zdHJpbmcuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgICAgICBidG5bJ25hbWUnXSArICcuJyArIHN1YlsnbmFtZSddLCBzdWJbJ3R5cGUnXSwKICAgICAgICAgICAgICAgICAgICAgICAgc3ViWyd1cmwnXSBpZiBzdWJbJ3R5cGUnXSA9PSAndmlldycgZWxzZSAnJykpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBwcmludChmb3JtYXRfc3RyaW5nLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICBidG5bJ25hbWUnXSwgYnRuWyd0eXBlJ10sCiAgICAgICAgICAgICAgICAgICAgYnRuWyd1cmwnXSBpZiBidG5bJ3R5cGUnXSA9PSAndmlldycgZWxzZSAnJykpCiAgICBlbHNlOgogICAgICAgIHByaW50KCdcbkVSUk9SOiBHZXQgbWVudSBmcm9tIHNlcnZlciBmYWlsZWQuIFBsZWFzZSBjaGVjayBvdXQgYW5kIHRyeSBhZ2FpbicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBydW4oJ0ZMQVNLX0NPTkZJRz1yZWxlYXNlIHB5dGhvbiBtYW5hZ2VyLnB5IGRiIG1pZ3JhdGUnKQo=</text>
+        <text encoding="base64">ZnJvbQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBydW4oJ0ZMQVNLX0NPTkZJRz1yZWxlYXNlIHB5dGhvbiBtYW5hZ2VyLnB5IGRiIHVwZ3JhZGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICBydW4oJ0ZMQVNLX0NPTkZJRz1yZWxlYXNlIHB5dGhvbiBtYW5hZ2VyLnB5IGRiIG1pZ3JhdGUnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBydW4oJ0ZMQVNLX0NPTkZJRz1yZWxlYXNlIHB5dGhvbiBtYW5hZ2VyLnB5IGRiIHVwZ3JhZGUnKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIG1hbmFnZXIoYXJnKToKICAgIHJldHVybiBydW4oJ3B5dGhvbiBtYW5hZ2VyLnB5ICVzJyAlIGFyZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBydW4oJycpCg==</text>
+        <text encoding="base64">ZGVmIG1hbmFnZXIoYXJnKToKICAgIHJldHVybiBydW4oJ3B5dGhvbiBtYW5hZ2VyLnB5ICVzJyAlIGFyZykK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBydW4oJycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aGlzLmZvcm1EaWFsb2dDYW5jZWxDYWxsYmFjayh0aGlzLmZvcm1fZGlhbG9nX2lucHV0cykgPT09IGZhbHNlKSB7IHJldHVybjsgfQo=</text>
+        <text encoding="base64">ICAgICAgICBydW4oJycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aGlzLmZvcm1EaWFsb2dDYW5jZWxDYWxsYmFjayh0aGlzLmZvcm1fZGlhbG9nX2lucHV0cykgPT09IGZhbHNlKSB7IHJldHVybjsgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYW5hZ2VyXD4=</last-search>
+      <last-search>TOKEN</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYW5hZ2VyXD4=</last-pattern>
+      <last-pattern>TOKEN</last-pattern>
       <last-replace>Cancel</last-replace>
       <last-substitute>Ok</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>toogle</entry>
-        <entry>bottomMenu</entry>
         <entry>display</entry>
         <entry>Text</entry>
         <entry>TEXT</entry>
@@ -439,6 +442,8 @@
         <entry>uw</entry>
         <entry>u</entry>
         <entry encoding="base64">XDxtYW5hZ2VyXD4=</entry>
+        <entry>Token</entry>
+        <entry>TOKEN</entry>
       </history-search>
       <history-cmd>
         <entry>%s/{[\s*\(\w+\)\s*]}/</entry>
