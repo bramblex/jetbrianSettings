@@ -215,11 +215,11 @@
       <file name="$USER_HOME$/.ideavimrc" timestamp="1469770458128">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/uwsgi.ini" timestamp="1472122819989">
+      <file name="$USER_HOME$/Workspace/Autress/uwsgi.ini" timestamp="1472123080336">
         <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="25" />
-        <mark key="." line="8" column="25" />
-        <mark key="^" line="8" column="25" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/autosave.js" timestamp="1472020104851">
         <mark key="[" line="29" column="25" />
@@ -366,10 +366,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>autress.socket</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>autress.socket</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>u</text>
