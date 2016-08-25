@@ -153,6 +153,12 @@
       <file name="$USER_HOME$/.ideavimrc" timestamp="1469770458128">
         <mark key="'" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Autress/uwsgi.ini" timestamp="1472100271353">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+      </file>
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/autosave.py" timestamp="1472004830885">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="14" />
@@ -338,11 +344,11 @@
       <jump line="61" column="16" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIERFQlVHID0gRmFsc2UK</text>
+      <register name="&quot;" type="4">
+        <text>autress.sock</text>
       </register>
       <register name="-" type="4">
-        <text>Config</text>
+        <text>autress.sock</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
@@ -351,10 +357,10 @@
         <text>JSON.stringify(localStorage.getItem(location.pathname));</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERFQlVHID0gRmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aHR0cC1zb2NrZXQgPSBhdXRyZXNzLnNvY2sK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -363,19 +369,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGNyZWF0ZV9hcHAK</text>
+        <text encoding="base64">aHR0cC1zb2NrZXQgPQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">aHR0cC1zb2NrZXQ9dHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIERFQlVHID0gRmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
