@@ -178,11 +178,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/fabfile.py" timestamp="1472118003696">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="65" column="29" />
+      <file name="$USER_HOME$/Workspace/Autress/fabfile.py" timestamp="1472124056696">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/templates/base_new.html" timestamp="1472006385947">
         <mark key="'" line="62" column="0" />
@@ -196,7 +196,7 @@
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="104" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472122825787">
+      <file name="/Dummy.txt" timestamp="1472124072646">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/models/order.py" timestamp="1471949355297">
@@ -263,12 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Autress/app/models/user.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Workspace/Autress/manager.py" />
-      <jump line="78" column="12" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/toast.html" />
-      <jump line="81" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/toast.html" />
-      <jump line="5" column="6" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/toast.html" />
-      <jump line="35" column="15" filename="$USER_HOME$/Workspace/Autress/manager.py" />
       <jump line="173" column="4" filename="$USER_HOME$/Workspace/Autress/manager.py" />
       <jump line="79" column="24" filename="$USER_HOME$/Workspace/Autress/manager.py" />
       <jump line="172" column="4" filename="$USER_HOME$/Workspace/Autress/manager.py" />
@@ -347,14 +341,10 @@
       <jump line="67" column="26" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
       <jump line="11" column="32" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
       <jump line="61" column="8" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
-      <jump line="18" column="39" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
-      <jump line="63" column="8" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
       <jump line="64" column="8" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
       <jump line="24" column="4" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
       <jump line="52" column="17" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
-      <jump line="58" column="17" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
-      <jump line="59" column="44" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
       <jump line="31" column="31" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/dialog.html" />
       <jump line="72" column="15" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/form_dialog.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/Autress/.gitignore" />
@@ -363,63 +353,72 @@
       <jump line="34" column="8" filename="$USER_HOME$/Workspace/Autress/requirements.txt" />
       <jump line="35" column="11" filename="$USER_HOME$/Workspace/Autress/requirements.txt" />
       <jump line="40" column="3" filename="$USER_HOME$/Workspace/Autress/requirements.txt" />
+      <jump line="19" column="23" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
+      <jump line="66" column="8" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
+      <jump line="65" column="8" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
+      <jump line="59" column="70" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
+      <jump line="46" column="22" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
+      <jump line="45" column="22" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
+      <jump line="18" column="10" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
+      <jump line="58" column="38" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
+      <jump line="63" column="8" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBydW4oJ0ZMQVNLX0NPTkZJRz1yZWxlYXNlIHB5dGhvbiBtYW5hZ2VyLnB5IGRiIG1pZ3JhdGUnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>u</text>
+        <text encoding="base64">XDxtYW5hZ2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBvayA9IHRoaXMuZm9ybURpYWxvZ09rQ2FsbGJhY2sgPyB0aGlzLmZvcm1EaWFsb2dPa0NhbGxiYWNrKHRoaXMuZm9ybV9kaWFsb2dfaW5wdXRzKSA6IHRydWU7CiAgICAgICAgICAgICAgICBpZiAob2sgPT09IGZhbHNlKSByZXR1cm47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBydW4oJycpCg==</text>
+        <text encoding="base64">ICAgICAgICBydW4oJ0ZMQVNLX0NPTkZJRz1yZWxlYXNlIHB5dGhvbiBtYW5hZ2VyLnB5IGRiIG1pZ3JhdGUnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBydW4oJycpCg==</text>
+        <text encoding="base64">ICAgICAgICBydW4oJ0ZMQVNLX0NPTkZJRz1yZWxlYXNlIHB5dGhvbiBtYW5hZ2VyLnB5IGRiIHVwZ3JhZGUnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aGlzLmZvcm1EaWFsb2dDYW5jZWxDYWxsYmFjayh0aGlzLmZvcm1fZGlhbG9nX2lucHV0cykgPT09IGZhbHNlKSB7IHJldHVybjsgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">fQogICAgICAgICAgICAgICAg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIG1hbmFnZXIoYXJnKToKICAgIHJldHVybiBydW4oJ3B5dGhvbiBtYW5hZ2VyLnB5ICVzJyAlIGFyZykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBydW4oJycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBydW4oJycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aGlzLmZvcm1EaWFsb2dDYW5jZWxDYWxsYmFjayh0aGlzLmZvcm1fZGlhbG9nX2lucHV0cykgPT09IGZhbHNlKSB7IHJldHVybjsgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwaXBfaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>u</last-search>
+      <last-search encoding="base64">XDxtYW5hZ2VyXD4=</last-search>
       <last-offset />
-      <last-pattern>u</last-pattern>
+      <last-pattern encoding="base64">XDxtYW5hZ2VyXD4=</last-pattern>
       <last-replace>Cancel</last-replace>
       <last-substitute>Ok</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>1s</entry>
         <entry>toogle</entry>
         <entry>bottomMenu</entry>
         <entry>display</entry>
@@ -439,6 +438,7 @@
         <entry>Ok</entry>
         <entry>uw</entry>
         <entry>u</entry>
+        <entry encoding="base64">XDxtYW5hZ2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/{[\s*\(\w+\)\s*]}/</entry>
