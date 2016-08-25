@@ -13,18 +13,18 @@
       <file name="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" timestamp="1471856331799">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/config.py" timestamp="1472095428767">
+      <file name="$USER_HOME$/Workspace/Autress/app/config.py" timestamp="1472097633372">
         <mark key="'" line="16" column="70" />
-        <mark key="[" line="58" column="6" />
-        <mark key="]" line="58" column="6" />
-        <mark key="." line="58" column="6" />
-        <mark key="^" line="58" column="9" />
+        <mark key="[" line="60" column="37" />
+        <mark key="]" line="60" column="37" />
+        <mark key="." line="60" column="37" />
+        <mark key="^" line="60" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/wsgi.py" timestamp="1472095631351">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="3" column="17" />
+      <file name="$USER_HOME$/Workspace/Autress/wsgi.py" timestamp="1472097376707">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="5" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/lib/FSM.py" timestamp="1469496949644">
         <mark key="'" line="10" column="0" />
@@ -340,10 +340,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>Config</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>Config</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
@@ -355,28 +355,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGNyZWF0ZV9hcHAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGNyZWF0ZV9hcHAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
