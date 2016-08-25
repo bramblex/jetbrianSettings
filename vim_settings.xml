@@ -159,12 +159,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/config.py" timestamp="1472127175165">
+      <file name="$USER_HOME$/Workspace/Autress/app/config.py" timestamp="1472127321997">
         <mark key="'" line="12" column="15" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
+        <mark key="[" line="69" column="54" />
+        <mark key="]" line="69" column="54" />
         <mark key="^" line="69" column="77" />
-        <mark key="." line="31" column="0" />
+        <mark key="." line="69" column="54" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/flask_werobot.py" timestamp="1469892101993">
         <mark key="'" line="83" column="29" />
@@ -367,11 +367,11 @@
       <jump line="12" column="15" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFNRTEFMQ0hFTVlfREFUQUJBU0VfVVJJID0gJ215c3FsOi8vezB9OnsxfUB7Mn0vezN9Jy5mb3JtYXQoCiAgICAgICAgREFUQUJBU0VfVVNFUk5BTUUsIERBVEFCQVNFX1BBU1NXT1JELCBEQVRBQkFTRV9IT1NUTkFNRSwgREFUQUJBU0VfREFUQUJBU0UpCg==</text>
+      <register name="&quot;" type="4">
+        <text>?charset=utf8_general_ci</text>
       </register>
       <register name="-" type="4">
-        <text>utf8</text>
+        <text>?charset=utf8_general_ci</text>
       </register>
       <register name="/" type="4">
         <text>TOKEN</text>
