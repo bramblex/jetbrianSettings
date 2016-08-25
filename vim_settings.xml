@@ -123,11 +123,6 @@
         <mark key="^" line="72" column="78" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/index.html" timestamp="1471607502202">
-        <mark key="'" line="38" column="42" />
-        <mark key="[" line="38" column="42" />
-        <mark key="]" line="38" column="109" />
-      </file>
       <file name="$USER_HOME$/Workspace/Autress/app/static/css/common.css" timestamp="1471605659693">
         <mark key="'" line="256" column="10" />
         <mark key="[" line="256" column="4" />
@@ -196,11 +191,6 @@
         <mark key="." line="10" column="234" />
         <mark key="^" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/order.html" timestamp="1472006386779">
-        <mark key="'" line="109" column="0" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="104" />
-      </file>
       <file name="/Dummy.txt" timestamp="1472124072646">
         <mark key="[" line="0" column="0" />
       </file>
@@ -214,8 +204,15 @@
       <file name="$USER_HOME$/Workspace/Autress/app/utils/wechat_authorization.py" timestamp="1471936482582">
         <mark key="'" line="52" column="46" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/models/__init__.py" timestamp="1471943793253">
-        <mark key="'" line="53" column="34" />
+      <file name="$USER_HOME$/Workspace/Autress/app/models/__init__.py" timestamp="1472125926324">
+        <mark key="'" line="55" column="34" />
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Autress/app/models/config.py" timestamp="1472125899614">
+        <mark key="." line="0" column="47" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1469770458128">
         <mark key="'" line="3" column="0" />
@@ -370,8 +367,8 @@
       <jump line="12" column="15" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>test-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>test-</text>
@@ -383,31 +380,31 @@
         <text encoding="base64">QG1hbmFnZXIuY29tbWFuZApkZWYgd2VjaGF0X21lbnUoY3JlYXRlPUZhbHNlKToKICAgIGZyb20gYXBwLndlY2hhdCBpbXBvcnQgY2xpZW50CiAgICBtZW51ID0gewogICAgICAgICdidXR0b24nOiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICd0eXBlJzogJ3ZpZXcnLAogICAgICAgICAgICAgICAgJ25hbWUnOiAn5byA5aeLJywKICAgICAgICAgICAgICAgICd1cmwnOiAnaHR0cDovL3Rlc3QtYXBwLmF1dHJlc3MuY29tL21haW4vJwogICAgICAgICAgICB9CiAgICAgICAgXQogICAgfQogICAgaWYgY3JlYXRlOgogICAgICAgIHJlcyA9IGNsaWVudC5jcmVhdGVfbWVudShtZW51KQogICAgICAgIGlmIHJlc1snZXJyY29kZSddID09IDA6CiAgICAgICAgICAgIHByaW50KCdcblNVQ0NFU1M6IENyZWF0ZSBtZW51IHN1Y2Nlc3NmdWxseS4nKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByaW50KCdcbkVSUk9SOiBDcmVhdGUgbWVudSBmYWlsZWQuIFBsZWFzZSBjaGVjayBvdXQgYW5kIHRyeSBhZ2FpbicpCiAgICAgICAgICAgIHJldHVybgogICAgZm9ybWF0X3N0cmluZyA9ICd7OjIwc317OjEwc317OjMwc30nCiAgICBwcmludCgnXG5DdXJyZW50IHdlY2hhdCBtZW51OicpCiAgICBwcmludChmb3JtYXRfc3RyaW5nLmZvcm1hdCgnTmFtZScsICdUeXBlJywgJ1VybCcpKQogICAgcHJpbnQoJy0nKjUwKQogICAgY3VycmVudF9tZW51ID0gY2xpZW50LmdldF9tZW51KCkKICAgIGlmICdlcnJjb2RlJyBub3QgaW4gY3VycmVudF9tZW51OgogICAgICAgIGZvciBidG4gaW4gY3VycmVudF9tZW51WydtZW51J11bJ2J1dHRvbiddOgogICAgICAgICAgICBoYXZlX3N1Ym1lbnUgPSAnc3ViX2J1dHRvbicgaW4gYnRuIGFuZCBsZW4oYnRuWydzdWJfYnV0dG9uJ10pID4gMAogICAgICAgICAgICBpZiBoYXZlX3N1Ym1lbnU6CiAgICAgICAgICAgICAgICBmb3Igc3ViIGluIGJ0blsnc3ViX2J1dHRvbiddOgogICAgICAgICAgICAgICAgICAgIHByaW50KGZvcm1hdF9zdHJpbmcuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgICAgICBidG5bJ25hbWUnXSArICcuJyArIHN1YlsnbmFtZSddLCBzdWJbJ3R5cGUnXSwKICAgICAgICAgICAgICAgICAgICAgICAgc3ViWyd1cmwnXSBpZiBzdWJbJ3R5cGUnXSA9PSAndmlldycgZWxzZSAnJykpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBwcmludChmb3JtYXRfc3RyaW5nLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICBidG5bJ25hbWUnXSwgYnRuWyd0eXBlJ10sCiAgICAgICAgICAgICAgICAgICAgYnRuWyd1cmwnXSBpZiBidG5bJ3R5cGUnXSA9PSAndmlldycgZWxzZSAnJykpCiAgICBlbHNlOgogICAgICAgIHByaW50KCdcbkVSUk9SOiBHZXQgbWVudSBmcm9tIHNlcnZlciBmYWlsZWQuIFBsZWFzZSBjaGVjayBvdXQgYW5kIHRyeSBhZ2FpbicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBydW4oJ0ZMQVNLX0NPTkZJRz1yZWxlYXNlIHB5dGhvbiBtYW5hZ2VyLnB5IGRiIG1pZ3JhdGUnKQo=</text>
+        <text encoding="base64">ICAgIF9fdGFibGVfYXJnc19fID0geydteXNxbF9jb2xsYXRlJzogJ3V0ZjhfZ2VuZXJhbF9jaSd9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBydW4oJ0ZMQVNLX0NPTkZJRz1yZWxlYXNlIHB5dGhvbiBtYW5hZ2VyLnB5IGRiIHVwZ3JhZGUnKQo=</text>
+        <text encoding="base64">ZnJvbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBydW4oJ0ZMQVNLX0NPTkZJRz1yZWxlYXNlIHB5dGhvbiBtYW5hZ2VyLnB5IGRiIG1pZ3JhdGUnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBydW4oJ0ZMQVNLX0NPTkZJRz1yZWxlYXNlIHB5dGhvbiBtYW5hZ2VyLnB5IGRiIHVwZ3JhZGUnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIG1hbmFnZXIoYXJnKToKICAgIHJldHVybiBydW4oJ3B5dGhvbiBtYW5hZ2VyLnB5ICVzJyAlIGFyZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBydW4oJycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBydW4oJycpCg==</text>
+        <text encoding="base64">ZGVmIG1hbmFnZXIoYXJnKToKICAgIHJldHVybiBydW4oJ3B5dGhvbiBtYW5hZ2VyLnB5ICVzJyAlIGFyZykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aGlzLmZvcm1EaWFsb2dDYW5jZWxDYWxsYmFjayh0aGlzLmZvcm1fZGlhbG9nX2lucHV0cykgPT09IGZhbHNlKSB7IHJldHVybjsgfQo=</text>
+        <text encoding="base64">ICAgICAgICBydW4oJycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
