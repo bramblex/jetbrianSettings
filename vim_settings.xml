@@ -43,7 +43,8 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/requirements.txt" timestamp="1471943246437">
+      <file name="$USER_HOME$/Workspace/Autress/requirements.txt" timestamp="1472117952581">
+        <mark key="'" line="40" column="3" />
         <mark key="[" line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/templates/base.html" timestamp="1472108779714">
@@ -177,12 +178,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/fabfile.py" timestamp="1472116154898">
-        <mark key="'" line="68" column="8" />
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
-        <mark key="^" line="19" column="32" />
+      <file name="$USER_HOME$/Workspace/Autress/fabfile.py" timestamp="1472118003696">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="66" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/templates/base_new.html" timestamp="1472006385947">
         <mark key="'" line="62" column="0" />
@@ -263,9 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" />
-      <jump line="50" column="38" filename="$USER_HOME$/Workspace/Autress/app/templates/base_new.html" />
-      <jump line="136" column="0" filename="$USER_HOME$/Workspace/Autress/app/static/js/client.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/Autress/app/models/user.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Workspace/Autress/manager.py" />
       <jump line="78" column="12" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/toast.html" />
@@ -348,7 +345,6 @@
       <jump line="36" column="86" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/form_dialog.html" />
       <jump line="2" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/form_dialog.html" />
       <jump line="67" column="26" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
       <jump line="11" column="32" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
       <jump line="61" column="8" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
       <jump line="18" column="39" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
@@ -363,55 +359,59 @@
       <jump line="72" column="15" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/form_dialog.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/Autress/.gitignore" />
       <jump line="68" column="8" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
+      <jump line="34" column="8" filename="$USER_HOME$/Workspace/Autress/requirements.txt" />
+      <jump line="35" column="11" filename="$USER_HOME$/Workspace/Autress/requirements.txt" />
+      <jump line="40" column="3" filename="$USER_HOME$/Workspace/Autress/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>venv/bin/uwsgi --ini uwsgi.ini</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBydW4oJycpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>venv/bin/uwsgi --ini uwsgi.ini</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>Ok</text>
+        <text>u</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBvayA9IHRoaXMuZm9ybURpYWxvZ09rQ2FsbGJhY2sgPyB0aGlzLmZvcm1EaWFsb2dPa0NhbGxiYWNrKHRoaXMuZm9ybV9kaWFsb2dfaW5wdXRzKSA6IHRydWU7CiAgICAgICAgICAgICAgICBpZiAob2sgPT09IGZhbHNlKSByZXR1cm47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aGlzLmZvcm1EaWFsb2dDYW5jZWxDYWxsYmFjayh0aGlzLmZvcm1fZGlhbG9nX2lucHV0cykgPT09IGZhbHNlKSB7IHJldHVybjsgfQo=</text>
+        <text encoding="base64">ICAgICAgICBydW4oJycpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBydW4oJycpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">fQogICAgICAgICAgICAgICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aGlzLmZvcm1EaWFsb2dDYW5jZWxDYWxsYmFjayh0aGlzLmZvcm1fZGlhbG9nX2lucHV0cykgPT09IGZhbHNlKSB7IHJldHVybjsgfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">fQogICAgICAgICAgICAgICAg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwaXBfaQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBydW4oJycpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZQo=</text>
+        <text encoding="base64">ICAgICAgICBwaXBfaQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Ok</last-search>
+      <last-search>u</last-search>
       <last-offset />
-      <last-pattern>Ok</last-pattern>
+      <last-pattern>u</last-pattern>
       <last-replace>Cancel</last-replace>
       <last-substitute>Ok</last-substitute>
       <last-dir>1</last-dir>
@@ -419,8 +419,6 @@
     </search>
     <history>
       <history-search>
-        <entry>]}</entry>
-        <entry>}}</entry>
         <entry>1s</entry>
         <entry>toogle</entry>
         <entry>bottomMenu</entry>
@@ -439,6 +437,8 @@
         <entry>__</entry>
         <entry>screen</entry>
         <entry>Ok</entry>
+        <entry>uw</entry>
+        <entry>u</entry>
       </history-search>
       <history-cmd>
         <entry>%s/{[\s*\(\w+\)\s*]}/</entry>
