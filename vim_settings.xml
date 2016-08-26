@@ -10,11 +10,10 @@
         <mark key="." line="72" column="77" />
         <mark key="^" line="72" column="77" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/wechat/handlers.py" timestamp="1472124832888">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="28" />
-        <mark key="." line="2" column="28" />
-        <mark key="^" line="2" column="28" />
+      <file name="$USER_HOME$/Workspace/Autress/app/wechat/handlers.py" timestamp="1472185594838">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/wsgi.py" timestamp="1472097376707">
         <mark key="[" line="4" column="27" />
@@ -341,7 +340,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>加载</text>
+        <text>subscribe</text>
       </register>
       <register name="/" type="4">
         <text>jquery</text>
@@ -353,28 +352,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">O2RpZS1vbi10ZXJtID0gdHJ1ZQo7dmFjdXVtID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAn5oSf6LCi5YWz5rOo54ix57+g6K+XLCDor7fngrnlh7tb5byA5aeLXeaMiemSrua1j+iniOaCqOeahOiuouWNleOAgicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">O2NobW9kLXNvY2tldCA9IDY2MAo=</text>
+        <text encoding="base64">IyBAcm9ib3QuaGFuZGxlcgojIGRlZiBlY2hvKG1lc3NhZ2UpOgojICAgICByZXR1cm4gJ0hlbGxvIFdvcmxkICglcyknICUgbWVzc2FnZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">QHJvYm90LnN1YnNjcmliZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICQuKCdodG1sJywgJ2EuaHJlZj0iKiInLCBmdW5jdGlvbihlKXsKICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7CiAgICB9KTsK</text>
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIOiJvue/oOivl+aYr+S4gOermeW8j+acjeijheS+m+W6lOmTvuacjeWKoeWVhu+8jOaIkeS7rOaThemVv+eUqOaVsOaNrumpseWKqOacjeijheS+m+W6lOmTvuWQhOeOr+iKgueahOWKoOmAn+WSjOaUuei/m++8jOaAu+mDqOWcqOS4reWbveW5v+W3nuOAguiJvue/oOivl+eri+i2s+WKoOmAn+WSjOaUuei/m+e6uue7h+acjeijheihjOS4mueUn+S6p+WVhuS4jueUteWVhueahOWQiOS9nOWNj+WQjOaViOeOh+WSjOaViOaenO+8jOedgOWKm+aJk+mAmue6uue7h+acjeijheihjOS4muS4iuS4i+a4uOS6p+S4mumTvu+8jOaehOW7uuS8mOi0qOmrmOaViOeahOihjOS4muS+m+W6lOmTvuS9k+ezu+OAguiJvue/oOivl+WcqOaxsuWPluS8oOe7n+ihjOS4mkIyQuW5s+WPsOS5i+aJgOmVv+eahOWQjOaXtu+8jOa3seWFpeaOoue0ouW5v+Wkp+e6uue7h+acjeijheW3peWOguaJgOmdouS4tOeahOihjOS4muWbsOWig+WPiumcgOaxgu+8jOS4uuS8l+WkmueUteWVhuS8geS4muaPkOS+m+WMheaLrOaJvuW3peWOguOAgeasvuW8j+OAgeW3peiJuui0qOmHj+etieS/oeaBr+eahOeyvuehruWMuemFjeOAgeiuouWNleWNj+WQjO+8jOWunueOsOS4gOermeW8j+eahOiuouWNleWxpeihjOacjeWKoeOAggo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICAgIGFwcC5zdGFydCgpOwogICAgJCgnYm9keScpLm9uKCdjbGljaycsICdhW2hyZWZdJywgZnVuY3Rpb24oZSl7CiAgICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgICAgIGFwcC52bS50b2FzdExvYWRpbmdTaG93KCfmraPlnKjliqDovb0nKTsKICAgICAgICB2YXIgX3RoaXMgPSB0aGlzOwogICAgICAgIHNldFRpbWVvdXQoZnVuY3Rpb24oKXtsb2NhdGlvbi5ocmVmID0gX3RoaXMuaHJlZjt9LDApOwogICAgfSk7Cjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICQoJ2JvZHknKS5vbignY2xpY2snLCAnaW5wdXRbbmFtZT0ic3VibWl0Il0nLCBmdW5jdGlvbihlKXsKICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7CiAgICAgICAgYXBwLnZtLnRvYXN0TG9hZGluZ1Nob3coJ+ato+WcqOaPkOS6pCcpOwogICAgICAgIHZhciBfdGhpcyA9IHRoaXM7CiAgICAgICAgc2V0VGltZW91dChmdW5jdGlvbigpe2xvY2F0aW9uLmhyZWYgPSBfdGhpcy5ocmVmO30sMCk7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
