@@ -24,7 +24,7 @@
         <mark key="^" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/config.py" timestamp="1472201798244">
-        <mark key="'" line="102" column="0" />
+        <mark key="'" line="104" column="0" />
         <mark key="[" line="5" column="13" />
         <mark key="]" line="6" column="21" />
         <mark key="^" line="6" column="21" />
@@ -55,9 +55,6 @@
       <file name="$USER_HOME$/Workspace/Autress/requirements.txt" timestamp="1472117952581">
         <mark key="'" line="40" column="3" />
         <mark key="[" line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/templates/base.html" timestamp="1472205941160">
-        <mark key="'" line="38" column="56" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/.gitignore" timestamp="1472115891500">
         <mark key="'" line="0" column="0" />
