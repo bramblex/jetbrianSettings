@@ -23,11 +23,9 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/config.py" timestamp="1472192105686">
+      <file name="$USER_HOME$/Workspace/Autress/app/config.py" timestamp="1472192733046">
         <mark key="'" line="14" column="34" />
-        <mark key="]" line="89" column="13" />
-        <mark key="^" line="89" column="13" />
-        <mark key="." line="89" column="13" />
+        <mark key="^" line="62" column="3" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/lib/FSM.py" timestamp="1469496949644">
         <mark key="'" line="10" column="0" />
@@ -320,7 +318,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBSRUZFUlJFRF9VUkxfU0NIRU1FID0gJ2h0dHBzJwo=</text>
       </register>
       <register name="-" type="4">
         <text>app</text>
@@ -332,28 +330,28 @@
         <text encoding="base64">ICAgIFdFQ0hBVF9UT0tFTiA9ICdiMDVMTnZrYUlmVEVSRlZzU3JuWXJPTU12S0ZGZHZTYScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBSRUZFUlJFRF9VUkxfU0NIRU1FID0gJ2h0dHBzJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgSGVscGVyKG9iamVjdCk6CiAgICBkZWYgaW5pdF9hcHAoc2VsZiwgYXBwKToKICAgICAgICBAYXBwLmNvbnRleHRfcHJvY2Vzc29yCiAgICAgICAgZGVmIHVybF9mb3Jfd2FwZXIoKToKICAgICAgICAgICAgZGVmIHVybF9mb3JfaHR0cHMK</text>
+        <text encoding="base64">ICAgIFBSRUZFUlJFRF9VUkxfU0NIRU1FID0gJ2h0dHBzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICMg5ZCv55SoIEhUVFBTCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICMg5ZCv55SoIEhUVFBTCiAgICBQUkVGRVJSRURfVVJMX1NDSEVNRSA9ICdodHRwcycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y2xhc3MgSGVscGVyKG9iamVjdCk6CiAgICBkZWYgaW5pdF9hcHAoc2VsZiwgYXBwKToKICAgICAgICBAYXBwLmNvbnRleHRfcHJvY2Vzc29yCiAgICAgICAgZGVmIHVybF9mb3Jfd2FwZXIoKToKICAgICAgICAgICAgZGVmIHVybF9mb3JfaHR0cHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
