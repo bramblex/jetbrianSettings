@@ -10,9 +10,6 @@
         <mark key="." line="72" column="77" />
         <mark key="^" line="72" column="77" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" timestamp="1471856331799">
-        <mark key="'" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Autress/app/wechat/handlers.py" timestamp="1472124832888">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="28" />
@@ -52,11 +49,11 @@
         <mark key="'" line="40" column="3" />
         <mark key="[" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/templates/base.html" timestamp="1472108779714">
-        <mark key="'" line="25" column="23" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="52" />
-        <mark key="." line="25" column="50" />
+      <file name="$USER_HOME$/Workspace/Autress/app/templates/base.html" timestamp="1472184077270">
+        <mark key="'" line="38" column="56" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/.gitignore" timestamp="1472115891500">
         <mark key="'" line="0" column="0" />
@@ -78,11 +75,8 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/static/js/index.js" timestamp="1471501471423">
+      <file name="$USER_HOME$/Workspace/Autress/app/static/js/index.js" timestamp="1472183993701">
         <mark key="'" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/website/__init__.py" timestamp="1469853529914">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/templates/main/app_framework.html" timestamp="1471503490985">
         <mark key="'" line="68" column="0" />
@@ -91,21 +85,12 @@
         <mark key="^" line="61" column="50" />
         <mark key="." line="61" column="50" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/models/user.py" timestamp="1471856333131">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Autress/app/website/wechat/views.py" timestamp="1469854162457">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/static/js/client.js" timestamp="1471856332670">
-        <mark key="'" line="136" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/werobot/robot.py" timestamp="1469892101638">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/website/main/views.py" timestamp="1470210295321">
         <mark key="[" line="0" column="0" />
@@ -123,6 +108,12 @@
         <mark key="^" line="72" column="78" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/index.html" timestamp="1472183925810">
+        <mark key="'" line="38" column="42" />
+        <mark key="[" line="38" column="42" />
+        <mark key="]" line="38" column="109" />
+        <mark key="." line="61" column="30" />
+      </file>
       <file name="$USER_HOME$/Workspace/Autress/app/static/css/common.css" timestamp="1471605659693">
         <mark key="'" line="256" column="10" />
         <mark key="[" line="256" column="4" />
@@ -136,9 +127,6 @@
         <mark key="]" line="21" column="87" />
         <mark key="." line="21" column="87" />
         <mark key="^" line="21" column="87" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/static/css/vue-animate.min.css" timestamp="1471607502042">
-        <mark key="'" line="5" column="581" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/website/main/views/index.py" timestamp="1471607505753">
         <mark key="'" line="8" column="0" />
@@ -166,12 +154,6 @@
         <mark key="^" line="69" column="77" />
         <mark key="." line="69" column="54" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/flask_werobot.py" timestamp="1469892101993">
-        <mark key="'" line="83" column="29" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/static/js/order.js" timestamp="1472006389683">
-        <mark key="'" line="0" column="2" />
-      </file>
       <file name="$USER_HOME$/Workspace/Autress/app/models/product.py" timestamp="1471948936429">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="41" column="0" />
@@ -191,7 +173,7 @@
         <mark key="." line="10" column="234" />
         <mark key="^" line="48" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472127188854">
+      <file name="/Dummy.txt" timestamp="1472127339199">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/models/order.py" timestamp="1471949355297">
@@ -200,9 +182,6 @@
         <mark key="]" line="56" column="41" />
         <mark key="." line="56" column="41" />
         <mark key="^" line="56" column="41" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/utils/wechat_authorization.py" timestamp="1471936482582">
-        <mark key="'" line="52" column="46" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/models/__init__.py" timestamp="1472126668390">
         <mark key="'" line="55" column="34" />
@@ -214,14 +193,11 @@
       <file name="$USER_HOME$/Workspace/Autress/app/models/config.py" timestamp="1472125899614">
         <mark key="." line="0" column="47" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1469770458128">
-        <mark key="'" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Autress/uwsgi.ini" timestamp="1472123080336">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="8" column="16" />
+      <file name="$USER_HOME$/Workspace/Autress/uwsgi.ini" timestamp="1472184456110">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/autosave.js" timestamp="1472020104851">
         <mark key="[" line="29" column="25" />
@@ -257,16 +233,8 @@
         <mark key="^" line="144" column="7" />
         <mark key="." line="144" column="7" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/static/js/client-order.js" timestamp="1471501462559">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/static/js/add-product.js" timestamp="1471592702672">
-        <mark key="'" line="24" column="16" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="53" filename="$USER_HOME$/Workspace/Autress/app/templates/main/order.html" />
-      <jump line="27" column="37" filename="$USER_HOME$/Workspace/Autress/app/templates/main/order.html" />
       <jump line="112" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/order.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
       <jump line="90" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/order.html" />
@@ -365,55 +333,57 @@
       <jump line="2" column="0" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
       <jump line="11" column="15" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
       <jump line="12" column="15" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
+      <jump line="90" column="6" filename="$USER_HOME$/Workspace/Autress/app/templates/base.html" />
+      <jump line="38" column="56" filename="$USER_HOME$/Workspace/Autress/app/templates/base.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>?charset=utf8_general_ci</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>?charset=utf8_general_ci</text>
+        <text>加载</text>
       </register>
       <register name="/" type="4">
-        <text>TOKEN</text>
+        <text>jquery</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNRTEFMQ0hFTVlfREFUQUJBU0VfVVJJID0gJ215c3FsOi8vezB9OnsxfUB7Mn0vezN9P2NoYXJzZXQ9dXRmOF9nZW5lcmFsX2NpJy5mb3JtYXQoCiAgICAgICAgREFUQUJBU0VfVVNFUk5BTUUsIERBVEFCQVNFX1BBU1NXT1JELCBEQVRBQkFTRV9IT1NUTkFNRSwgREFUQUJBU0VfREFUQUJBU0UpCg==</text>
+        <text encoding="base64">ICAgICQoJ2JvZHknKS5vbignY2xpY2snLCAnYVtocmVmXScsIGZ1bmN0aW9uKGUpewogICAgICAgIGUucHJldmVudERlZmF1bHQoKTsKICAgICAgICBhcHAudm0udG9hc3RMb2FkaW5nU2hvdygn5q2j5Zyo5Yqg6L29Jyk7CiAgICAgICAgdmFyIF90aGlzID0gdGhpczsKICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uKCl7bG9jYXRpb24uaHJlZiA9IF90aGlzLmhyZWY7fSwwKTsKICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFNRTEFMQ0hFTVlfREFUQUJBU0VfVVJJID0gJ215c3FsOi8vezB9OnsxfUB7Mn0vezN9Jy5mb3JtYXQoCiAgICAgICAgREFUQUJBU0VfVVNFUk5BTUUsIERBVEFCQVNFX1BBU1NXT1JELCBEQVRBQkFTRV9IT1NUTkFNRSwgREFUQUJBU0VfREFUQUJBU0UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBEQVRBQkFTRV9VU0VSTkFNRSwgREFUQUJBU0VfUEFTU1dPUkQsIERBVEFCQVNFX0hPU1ROQU1FLCBEQVRBQkFTRV9EQVRBQkFTRSkK</text>
+        <text encoding="base64">O2RpZS1vbi10ZXJtID0gdHJ1ZQo7dmFjdXVtID0gdHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">O2NobW9kLXNvY2tldCA9IDY2MAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF9fdGFibGVfYXJnc19fID0geydteXNxbF9jb2xsYXRlJzogJ3V0ZjhfZ2VuZXJhbF9jaSd9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbQo=</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBydW4oJ0ZMQVNLX0NPTkZJRz1yZWxlYXNlIHB5dGhvbiBtYW5hZ2VyLnB5IGRiIG1pZ3JhdGUnKQo=</text>
+        <text encoding="base64">ICAgICQuKCdodG1sJywgJ2EuaHJlZj0iKiInLCBmdW5jdGlvbihlKXsKICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7CiAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBydW4oJ0ZMQVNLX0NPTkZJRz1yZWxlYXNlIHB5dGhvbiBtYW5hZ2VyLnB5IGRiIHVwZ3JhZGUnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNjcmlwdD4KICAgIGFwcC5zdGFydCgpOwogICAgJCgnYm9keScpLm9uKCdjbGljaycsICdhW2hyZWZdJywgZnVuY3Rpb24oZSl7CiAgICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgICAgIGFwcC52bS50b2FzdExvYWRpbmdTaG93KCfmraPlnKjliqDovb0nKTsKICAgICAgICB2YXIgX3RoaXMgPSB0aGlzOwogICAgICAgIHNldFRpbWVvdXQoZnVuY3Rpb24oKXtsb2NhdGlvbi5ocmVmID0gX3RoaXMuaHJlZjt9LDApOwogICAgfSk7Cjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICQoJ2JvZHknKS5vbignY2xpY2snLCAnaW5wdXRbbmFtZT0ic3VibWl0Il0nLCBmdW5jdGlvbihlKXsKICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7CiAgICAgICAgYXBwLnZtLnRvYXN0TG9hZGluZ1Nob3coJ+ato+WcqOaPkOS6pCcpOwogICAgICAgIHZhciBfdGhpcyA9IHRoaXM7CiAgICAgICAgc2V0VGltZW91dChmdW5jdGlvbigpe2xvY2F0aW9uLmhyZWYgPSBfdGhpcy5ocmVmO30sMCk7CiAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TOKEN</last-search>
+      <last-search>jquery</last-search>
       <last-offset />
-      <last-pattern>TOKEN</last-pattern>
+      <last-pattern>jquery</last-pattern>
       <last-replace>Cancel</last-replace>
       <last-substitute>Ok</last-substitute>
       <last-dir>1</last-dir>
@@ -421,7 +391,6 @@
     </search>
     <history>
       <history-search>
-        <entry>display</entry>
         <entry>Text</entry>
         <entry>TEXT</entry>
         <entry>pro</entry>
@@ -441,6 +410,7 @@
         <entry encoding="base64">XDxtYW5hZ2VyXD4=</entry>
         <entry>Token</entry>
         <entry>TOKEN</entry>
+        <entry>jquery</entry>
       </history-search>
       <history-cmd>
         <entry>%s/{[\s*\(\w+\)\s*]}/</entry>
