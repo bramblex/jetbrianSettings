@@ -108,7 +108,7 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472203089661">
+      <file name="/Dummy.txt" timestamp="1472210760848">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/contract/template/template.html" timestamp="1472202591726">
@@ -138,6 +138,13 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Autress/version.py" timestamp="1472210730075">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/autosave.py" timestamp="1472004830885">
         <mark key="[" line="1" column="14" />
@@ -211,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/base.html" />
       <jump line="62" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/base_new.html" />
       <jump line="109" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/order.html" />
       <jump line="2" column="3" filename="$USER_HOME$/Workspace/Autress/app/static/js/autosave.js" />
@@ -311,6 +317,7 @@
       <jump line="161" column="4" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
       <jump line="9" column="35" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
       <jump line="146" column="0" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Autress/version.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
