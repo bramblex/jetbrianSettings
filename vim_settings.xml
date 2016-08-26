@@ -23,8 +23,8 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/config.py" timestamp="1472194513020">
-        <mark key="'" line="64" column="21" />
+      <file name="$USER_HOME$/Workspace/Autress/app/config.py" timestamp="1472198449328">
+        <mark key="'" line="101" column="0" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="^" line="85" column="21" />
@@ -114,7 +114,7 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472192229182">
+      <file name="/Dummy.txt" timestamp="1472198475644">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/models/order.py" timestamp="1471949355297">
@@ -218,8 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/Workspace/Autress/app/website/main/views/edit_order_product.py" />
-      <jump line="16" column="70" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
       <jump line="53" column="34" filename="$USER_HOME$/Workspace/Autress/app/models/__init__.py" />
       <jump line="26" column="55" filename="$USER_HOME$/Workspace/Autress/manager.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Workspace/Autress/app/models/product.py" />
@@ -318,6 +316,8 @@
       <jump line="208" column="65" filename="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/flask/helpers.py" />
       <jump line="14" column="34" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
       <jump line="64" column="21" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
