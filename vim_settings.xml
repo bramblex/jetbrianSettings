@@ -10,11 +10,11 @@
         <mark key="." line="72" column="77" />
         <mark key="^" line="72" column="77" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/wechat/handlers.py" timestamp="1472294374821">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="29" />
-        <mark key="." line="10" column="29" />
-        <mark key="^" line="10" column="29" />
+      <file name="$USER_HOME$/Workspace/Autress/app/wechat/handlers.py" timestamp="1472295141403">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="11" />
+        <mark key="." line="13" column="11" />
+        <mark key="^" line="13" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/app_framework.html" timestamp="1471624423137">
         <mark key="'" line="29" column="67" />
@@ -343,11 +343,11 @@
       <jump line="104" column="8" filename="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(self)</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>(self)</text>
       </register>
       <register name="/" type="4">
         <text>inclu</text>
