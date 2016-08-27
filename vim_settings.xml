@@ -23,8 +23,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" timestamp="1472270224973">
-        <mark key="'" line="103" column="12" />
+      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" timestamp="1472271086020">
+        <mark key="'" line="110" column="8" />
+        <mark key="[" line="82" column="44" />
+        <mark key="]" line="82" column="47" />
+        <mark key="^" line="82" column="47" />
+        <mark key="." line="82" column="47" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/config.py" timestamp="1472201798244">
         <mark key="'" line="104" column="0" />
@@ -59,10 +63,10 @@
         <mark key="'" line="40" column="3" />
         <mark key="[" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" timestamp="1472270178103">
+      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" timestamp="1472271054041">
         <mark key="'" line="111" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="124" />
+        <mark key="[" line="2" column="51" />
+        <mark key="]" line="2" column="91" />
         <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/.gitignore" timestamp="1472115891500">
@@ -241,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="23" filename="$USER_HOME$/Workspace/Autress/app/templates/base.html" />
       <jump line="30" column="8" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/form_dialog.html" />
       <jump line="10" column="42" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/form_dialog.html" />
       <jump line="19" column="30" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/form_dialog.html" />
@@ -341,19 +344,20 @@
       <jump line="115" column="0" filename="$USER_HOME$/Workspace/test/area_selector.html" />
       <jump line="117" column="0" filename="$USER_HOME$/Workspace/test/area_selector.html" />
       <jump line="103" column="12" filename="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" />
+      <jump line="104" column="8" filename="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC0tPg==</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tPg==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>include</text>
+        <text>inclu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDwhLS08cD48JSBhcmVhX3NlbGVjdG9yX3NlbGVjdGVkX3Byb3YgJT4vPCUgYXJlYV9zZWxlY3Rvcl9zZWxlY3RlZF9jaXR5ICU+LzwlIGFyZWFfc2VsZWN0b3Jfc2VsZWN0ZWRfZGlzdHJpY3QgJT48L3A+IC0tPgo=</text>
+      <register name="0" type="4">
+        <text>v-show=&quot;dis == 1 ? true : false&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -387,9 +391,9 @@
       </register>
     </registers>
     <search>
-      <last-search>include</last-search>
+      <last-search>inclu</last-search>
       <last-offset />
-      <last-pattern>include</last-pattern>
+      <last-pattern>inclu</last-pattern>
       <last-replace>}}</last-replace>
       <last-substitute encoding="base64">JT4=</last-substitute>
       <last-dir>1</last-dir>
@@ -397,7 +401,6 @@
     </search>
     <history>
       <history-search>
-        <entry>uw</entry>
         <entry>u</entry>
         <entry encoding="base64">XDxtYW5hZ2VyXD4=</entry>
         <entry>Token</entry>
@@ -417,6 +420,7 @@
         <entry encoding="base64">PCU=</entry>
         <entry encoding="base64">JT4=</entry>
         <entry>include</entry>
+        <entry>inclu</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0NvbmZpcm0vRm9ybS8=</entry>
