@@ -10,11 +10,11 @@
         <mark key="." line="72" column="77" />
         <mark key="^" line="72" column="77" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/wechat/handlers.py" timestamp="1472186951883">
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="8" column="31" />
-        <mark key="." line="8" column="31" />
-        <mark key="^" line="8" column="31" />
+      <file name="$USER_HOME$/Workspace/Autress/app/wechat/handlers.py" timestamp="1472294374821">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="29" />
+        <mark key="." line="10" column="29" />
+        <mark key="^" line="10" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/app_framework.html" timestamp="1471624423137">
         <mark key="'" line="29" column="67" />
@@ -343,11 +343,11 @@
       <jump line="104" column="8" filename="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>inclu</text>
@@ -356,19 +356,19 @@
         <text>v-show=&quot;dis == 1 ? true : false&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS08cD48JSBhcmVhX3NlbGVjdG9yX3NlbGVjdGVkX3Byb3YgJT4vPCUgYXJlYV9zZWxlY3Rvcl9zZWxlY3RlZF9jaXR5ICU+LzwlIGFyZWFfc2VsZWN0b3Jfc2VsZWN0ZWRfZGlzdHJpY3QgJT48L3A+IC0tPgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIDwhLS08cD48JSBhcmVhX3NlbGVjdG9yX3NlbGVjdGVkX3Byb3YgJT4vPCUgYXJlYV9zZWxlY3Rvcl9zZWxlY3RlZF9jaXR5ICU+LzwlIGFyZWFfc2VsZWN0b3Jfc2VsZWN0ZWRfZGlzdHJpY3QgJT48L3A+IC0tPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIDwhLS08cD48JSBhcmVhX3NlbGVjdG9yX3NlbGVjdGVkX3Byb3YgJT4vPCUgYXJlYV9zZWxlY3Rvcl9zZWxlY3RlZF9jaXR5ICU+LzwlIGFyZWFfc2VsZWN0b3Jfc2VsZWN0ZWRfZGlzdHJpY3QgJT48L3A+IC0tPgo=</text>
@@ -380,7 +380,7 @@
         <text encoding="base64">ICAgIDwhLS08cD48JSBhcmVhX3NlbGVjdG9yX3NlbGVjdGVkX3Byb3YgJT4vPCUgYXJlYV9zZWxlY3Rvcl9zZWxlY3RlZF9jaXR5ICU+LzwlIGFyZWFfc2VsZWN0b3Jfc2VsZWN0ZWRfZGlzdHJpY3QgJT48L3A+IC0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS08cD48JSBhcmVhX3NlbGVjdG9yX3NlbGVjdGVkX3Byb3YgJT4vPCUgYXJlYV9zZWxlY3Rvcl9zZWxlY3RlZF9jaXR5ICU+LzwlIGFyZWFfc2VsZWN0b3Jfc2VsZWN0ZWRfZGlzdHJpY3QgJT48L3A+IC0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
