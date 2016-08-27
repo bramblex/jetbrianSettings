@@ -63,11 +63,11 @@
         <mark key="'" line="40" column="3" />
         <mark key="[" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" timestamp="1472262002662">
+      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" timestamp="1472262903604">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/.gitignore" timestamp="1472115891500">
         <mark key="'" line="0" column="0" />
@@ -341,43 +341,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFByb21pc2UoZnVuY3Rpb24oKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Promise</text>
+        <text>prov</text>
       </register>
       <register name="/" type="4">
         <text>=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgICAgICAgX3RoaXMuYXJlYV9zZWxlY3Rvcl9kYXRhID0gZGF0YTsjfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFRpbWVvdXQoZnVuY3Rpb24oKXsKICAgICAgICAgICAgICAgIH0sIHRpbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFByb21pc2UoZnVuY3Rpb24oKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgX3RoaXMuYXJlYV8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgXwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICAgICAgICAgICAgIHNldFRpbWVvdXQoZnVuY3Rpb24oKXsKICAgICAgICAgICAgICAgICAgICAgICAgfSwgdGltZSk7CiAgICAgICAgICAgICAgICAgICAgfSwgdGltZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFZ1ZS51c2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgX3RoaXMuYXJlYVNlbGVjdG9yU2V0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxwPumAieaLqTwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJlYV9zZWxlY3Rvcl9pbml0X2NpdHk6ICfmt7HlnLPluIInLAogICAgICAgICAgICBhcmVhX3NlbGVjdG9yX2luaXRfZGlzdHJpY3Q6ICfpvpnlspfljLonLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmN0aW9uKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
