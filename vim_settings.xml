@@ -63,11 +63,12 @@
         <mark key="'" line="40" column="3" />
         <mark key="[" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" timestamp="1472262903604">
-        <mark key="'" line="25" column="0" />
+      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" timestamp="1472265756240">
+        <mark key="'" line="113" column="0" />
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
+        <mark key="^" line="86" column="61" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/.gitignore" timestamp="1472115891500">
         <mark key="'" line="0" column="0" />
@@ -77,7 +78,7 @@
         <mark key="." line="12" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/templates/base.html" timestamp="1472261203087">
-        <mark key="'" line="92" column="0" />
+        <mark key="'" line="96" column="0" />
         <mark key="[" line="33" column="24" />
         <mark key="]" line="33" column="34" />
         <mark key="." line="33" column="34" />
@@ -128,7 +129,7 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472242080608">
+      <file name="/Dummy.txt" timestamp="1472265416803">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/contract/template/template.html" timestamp="1472202591726">
@@ -238,12 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="21" filename="$USER_HOME$/Workspace/Autress/manager.py" />
-      <jump line="88" column="46" filename="$USER_HOME$/Workspace/Autress/manager.py" />
-      <jump line="171" column="4" filename="$USER_HOME$/Workspace/Autress/manager.py" />
-      <jump line="4" column="10" filename="$USER_HOME$/Workspace/Autress/app/__init__.py" />
-      <jump line="5" column="20" filename="$USER_HOME$/Workspace/Autress/app/__init__.py" />
-      <jump line="22" column="15" filename="$USER_HOME$/Workspace/Autress/app/__init__.py" />
       <jump line="24" column="34" filename="$USER_HOME$/Workspace/Autress/app/__init__.py" />
       <jump line="25" column="11" filename="$USER_HOME$/Workspace/Autress/app/__init__.py" />
       <jump line="61" column="16" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
@@ -338,64 +333,68 @@
       <jump line="25" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
       <jump line="57" column="33" filename="$USER_HOME$/Workspace/Autress/app/templates/base.html" />
       <jump line="90" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/base.html" />
+      <jump line="85" column="24" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
+      <jump line="82" column="61" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
+      <jump line="92" column="24" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
+      <jump line="89" column="20" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
+      <jump line="113" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocHJvdik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>prov</text>
+        <text encoding="base64">OyA7IA==</text>
       </register>
       <register name="/" type="4">
-        <text>=</text>
+        <text>has</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFRpbWVvdXQoZnVuY3Rpb24oKXsKICAgICAgICAgICAgICAgIH0sIHRpbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJzInKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocHJvdik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coY2l0eSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICAgICAgICAgICAgIHNldFRpbWVvdXQoZnVuY3Rpb24oKXsKICAgICAgICAgICAgICAgICAgICAgICAgfSwgdGltZSk7CiAgICAgICAgICAgICAgICAgICAgfSwgdGltZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coZGlzdHJpY3QpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdW5jdGlvbigpeyAvKnN0YXJ0Ki8gfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0aW1lID0gMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgX3RoaXMuYXJlYVNlbGVjdG9yU2V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmlnaHQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdW5jdGlvbigpeyAvKnN0YXJ0Ki8gfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmN0aW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>=</last-search>
+      <last-search>has</last-search>
       <last-offset />
-      <last-pattern>=</last-pattern>
-      <last-replace>:</last-replace>
-      <last-substitute>=</last-substitute>
+      <last-pattern>has</last-pattern>
+      <last-replace>includes</last-replace>
+      <last-substitute>has</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Confirm</entry>
-        <entry>dialogForm</entry>
         <entry>__</entry>
         <entry>screen</entry>
         <entry>Ok</entry>
@@ -414,12 +413,10 @@
         <entry>cities</entry>
         <entry>:</entry>
         <entry>=</entry>
+        <entry>prov</entry>
+        <entry>has</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
-        <entry encoding="base64">JzwsJz5zL0Zha2Uv</entry>
-        <entry encoding="base64">JzwsJz5zL0Zha2UvL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLzouKi8vZw==</entry>
         <entry encoding="base64">JzwsJz5zLzouKi89L2c=</entry>
         <entry encoding="base64">JzwsJz5zLz0vID0v</entry>
         <entry encoding="base64">JzwsJz5zL0NvbmZpcm0vRm9ybS8=</entry>
@@ -435,6 +432,10 @@
         <entry encoding="base64">JzwsJz5zL2NpdGllcy9kaXN0cmljdHMvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzovPQ==</entry>
         <entry encoding="base64">JzwsJz5zLz0vOg==</entry>
+        <entry encoding="base64">JzwsJz5zL3Byb3YvY2l0eQ==</entry>
+        <entry encoding="base64">JzwsJz5zL3Byb3YvY2l0eS9n</entry>
+        <entry encoding="base64">JzwsJz5zL3Byb3YvZGlzdHJpY3QvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2hhcy9pbmNsdWRlcy8=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
