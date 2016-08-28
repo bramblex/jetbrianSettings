@@ -26,6 +26,13 @@
       <file name="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" timestamp="1472271086020">
         <mark key="'" line="104" column="8" />
       </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/app.js" timestamp="1472405455141">
+        <mark key="'" line="23" column="18" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Autress/app/config.py" timestamp="1472201798244">
         <mark key="'" line="104" column="0" />
         <mark key="[" line="5" column="13" />
@@ -55,10 +62,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/requirements.txt" timestamp="1472117952581">
-        <mark key="'" line="40" column="3" />
-        <mark key="[" line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" timestamp="1472271054041">
         <mark key="'" line="111" column="0" />
         <mark key="[" line="2" column="51" />
@@ -85,12 +88,23 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/package.json" timestamp="1472401298115">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Autress/app/__init__.py" timestamp="1472117320557">
         <mark key="'" line="25" column="11" />
         <mark key="[" line="11" column="35" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/logger.js" timestamp="1472405920804">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/fabfile.py" timestamp="1472124056696">
         <mark key="'" line="10" column="0" />
@@ -110,6 +124,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/.gitignore" timestamp="1472405993724">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Autress/app/templates/main/app_framework.html" timestamp="1471503490985">
         <mark key="'" line="68" column="0" />
         <mark key="[" line="68" column="0" />
@@ -123,6 +140,12 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/bin/run.js" timestamp="1472405176252">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="11" column="47" />
       </file>
       <file name="/Dummy.txt" timestamp="1472265416803">
         <mark key="[" line="0" column="0" />
@@ -154,6 +177,13 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/config.js" timestamp="1472405946989">
+        <mark key="k" line="12" column="8" />
+        <mark key="[" line="13" column="50" />
+        <mark key="]" line="13" column="50" />
+        <mark key="." line="13" column="50" />
+        <mark key="^" line="13" column="50" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/version.py" timestamp="1472210730075">
         <mark key="'" line="0" column="0" />
@@ -241,11 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="8" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/form_dialog.html" />
-      <jump line="10" column="42" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/form_dialog.html" />
-      <jump line="19" column="30" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/form_dialog.html" />
-      <jump line="51" column="18" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/form_dialog.html" />
-      <jump line="69" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/form_dialog.html" />
       <jump line="46" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/form_dialog.html" />
       <jump line="5" column="66" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/form_dialog.html" />
       <jump line="48" column="38" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/form_dialog.html" />
@@ -341,43 +366,48 @@
       <jump line="117" column="0" filename="$USER_HOME$/Workspace/test/area_selector.html" />
       <jump line="103" column="12" filename="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" />
       <jump line="104" column="8" filename="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" />
+      <jump line="13" column="15" filename="$USER_HOME$/Workspace/betogether.today/config.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/Workspace/betogether.today/config.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Workspace/betogether.today/config.js" />
+      <jump line="18" column="4" filename="$USER_HOME$/Workspace/betogether.today/config.js" />
+      <jump line="11" column="18" filename="$USER_HOME$/Workspace/betogether.today/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>inclu</text>
+        <text encoding="base64">XDxyZXFcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>v-show=&quot;dis == 1 ? true : false&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">InVzZSBzdHJpY3QiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS08cD48JSBhcmVhX3NlbGVjdG9yX3NlbGVjdGVkX3Byb3YgJT4vPCUgYXJlYV9zZWxlY3Rvcl9zZWxlY3RlZF9jaXR5ICU+LzwlIGFyZWFfc2VsZWN0b3Jfc2VsZWN0ZWRfZGlzdHJpY3QgJT48L3A+IC0tPgo=</text>
+        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi9jb25maWcnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgRmlsZVN0cmVhbVJvdGF0b3IgPSByZXF1aXJlKCdmaWxlLXN0cmVhbS1yb3RhdG9yJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwhLS08cD48JSBhcmVhX3NlbGVjdG9yX3NlbGVjdGVkX3Byb3YgJT4vPCUgYXJlYV9zZWxlY3Rvcl9zZWxlY3RlZF9jaXR5ICU+LzwlIGFyZWFfc2VsZWN0b3Jfc2VsZWN0ZWRfZGlzdHJpY3QgJT48L3A+IC0tPgo=</text>
+        <text encoding="base64">aWYgKGNvbmZpZy5kZWJ1Zyl7CiAgICAKfSBlbHNlIHsKICAgIAp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS08cD48JSBhcmVhX3NlbGVjdG9yX3NlbGVjdGVkX3Byb3YgJT4vPCUgYXJlYV9zZWxlY3Rvcl9zZWxlY3RlZF9jaXR5ICU+LzwlIGFyZWFfc2VsZWN0b3Jfc2VsZWN0ZWRfZGlzdHJpY3QgJT48L3A+IC0tPgo=</text>
+        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMgPSBtb3JnYW4oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS08cD48JSBhcmVhX3NlbGVjdG9yX3NlbGVjdGVkX3Byb3YgJT4vPCUgYXJlYV9zZWxlY3Rvcl9zZWxlY3RlZF9jaXR5ICU+LzwlIGFyZWFfc2VsZWN0b3Jfc2VsZWN0ZWRfZGlzdHJpY3QgJT48L3A+IC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS08cD48JSBhcmVhX3NlbGVjdG9yX3NlbGVjdGVkX3Byb3YgJT4vPCUgYXJlYV9zZWxlY3Rvcl9zZWxlY3RlZF9jaXR5ICU+LzwlIGFyZWFfc2VsZWN0b3Jfc2VsZWN0ZWRfZGlzdHJpY3QgJT48L3A+IC0tPgo=</text>
+        <text encoding="base64">aWYgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -387,17 +417,16 @@
       </register>
     </registers>
     <search>
-      <last-search>inclu</last-search>
+      <last-search encoding="base64">XDxyZXFcPg==</last-search>
       <last-offset />
-      <last-pattern>inclu</last-pattern>
+      <last-pattern encoding="base64">XDxyZXFcPg==</last-pattern>
       <last-replace>}}</last-replace>
       <last-substitute encoding="base64">JT4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>u</entry>
         <entry encoding="base64">XDxtYW5hZ2VyXD4=</entry>
         <entry>Token</entry>
         <entry>TOKEN</entry>
@@ -417,13 +446,13 @@
         <entry encoding="base64">JT4=</entry>
         <entry>include</entry>
         <entry>inclu</entry>
+        <entry encoding="base64">XDxyZXFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0NvbmZpcm0vRm9ybS8=</entry>
         <entry encoding="base64">JzwsJz5zL2RpYWxvZ0Zvcm0vZm9ybURpYWxvZy8=</entry>
         <entry encoding="base64">JzwsJz5zL19fLy9n</entry>
         <entry>s/Ok/Cancel</entry>
-        <entry>wn</entry>
         <entry>wp</entry>
         <entry encoding="base64">JzwsJz5zL3t7Lzwl</entry>
         <entry encoding="base64">JzwsJz5zL319LyU+</entry>
@@ -438,6 +467,7 @@
         <entry encoding="base64">JzwsJz5zL2hhcy9pbmNsdWRlcy8=</entry>
         <entry encoding="base64">JXMvPCUve3svZw==</entry>
         <entry encoding="base64">JXMvJT4vfX0vZw==</entry>
+        <entry>wn</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
