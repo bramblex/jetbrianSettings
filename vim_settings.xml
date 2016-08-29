@@ -12,12 +12,36 @@
       <file name="/a.dummy" timestamp="1472004840026">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Autress/manager.py" timestamp="1472125120837">
+        <mark key="'" line="171" column="4" />
+        <mark key="[" line="79" column="31" />
+        <mark key="]" line="79" column="31" />
+        <mark key="." line="79" column="31" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/toast.html" timestamp="1472188191124">
+        <mark key="'" line="5" column="6" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" timestamp="1472271054041">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="2" column="51" />
+        <mark key="]" line="2" column="91" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/api/auth.js" timestamp="1472438176924">
         <mark key="'" line="63" column="8" />
         <mark key="[" line="21" column="36" />
         <mark key="]" line="21" column="36" />
         <mark key="." line="21" column="36" />
         <mark key="^" line="21" column="36" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Autress/app/static/js/app.js" timestamp="1471499946066">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/package.json" timestamp="1472444127450">
         <mark key="'" line="75" column="0" />
@@ -38,12 +62,11 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/index.html" timestamp="1472448333170">
+      <file name="$USER_HOME$/Workspace/betogether.today/client/index.html" timestamp="1472475354713">
         <mark key="'" line="0" column="1" />
-        <mark key="[" line="26" column="6" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/model/model.js" timestamp="1472415304388">
         <mark key="[" line="12" column="40" />
@@ -116,6 +139,12 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
+      <file name="$USER_HOME$/Workspace/Autress/app/website/main/views/index.py" timestamp="1471607505753">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="38" column="40" />
+        <mark key="]" line="38" column="41" />
+        <mark key="." line="38" column="41" />
+      </file>
       <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/input_dialog.html" timestamp="1472102665107">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="20" column="6" />
@@ -159,6 +188,18 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Autress/fabfile.py" timestamp="1472124056696">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/main.js" timestamp="1472475722727">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/website/index.html" timestamp="1472442791402">
         <mark key="[" line="1" column="4" />
@@ -214,11 +255,11 @@
         <mark key="^" line="66" column="20" />
         <mark key="." line="66" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/components/Hello.vue" timestamp="1472446385870">
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="24" />
-        <mark key="^" line="14" column="24" />
-        <mark key="." line="14" column="24" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/components/Hello.vue" timestamp="1472476242278">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="26" column="34" />
+        <mark key="." line="26" column="34" />
+        <mark key="^" line="26" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -325,10 +366,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgVG9hc3QoewogICAgICAgIG1lc3NhZ2U6ICfmj5DnpLonLAogICAgICAgIHBvc2l0aW9uOiAnYm90dG9tJywKICAgICAgICBkdXJhdGlvbjogNTAwMAogICAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>@keydown=&quot;&quot;</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>dist</text>
@@ -337,31 +378,31 @@
         <text encoding="base64">ICAgIDxsaW5rIGhyZWY9InN0YXRpYy9jc3MvIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgVG9hc3QoewogICAgICAgIG1lc3NhZ2U6ICfmj5DnpLonLAogICAgICAgIHBvc2l0aW9uOiAnYm90dG9tJywKICAgICAgICBkdXJhdGlvbjogNTAwMAogICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9InN0YXRpYy9jc3MvIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUoJ3N0YXRpYy9jc3MvYXNkZicpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Ii9mYXZpY29uLmljbyIgcmVsPSJpY29uIiB0eXBlPSJpbWFnZS94LWljb24iIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2V0c1Jvb3Q6IHJvb3RfY29uZmlnLmNsaWVudF9yb290LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2V0c1Jvb3Q6IHJvb3RfY29uZmlnLmNsaWVudF9yb290LAo=</text>
+        <text encoding="base64">PCEtLTxkaXYgY2xhc3M9Imxpc3QiPi0tPgogIDwhLS08ZGl2IGNsYXNzPSJpdGVtIHJhbmdlIHJhbmdlLXBvc2l0aXZlIj4tLT4KICAgIDwhLS08aSBjbGFzcz0iaWNvbiBpb24taW9zLXN1bm55LW91dGxpbmUiPjwvaT4tLT4KICAgIDwhLS08aW5wdXQgdHlwZT0icmFuZ2UiIG5hbWU9InZvbHVtZSIgbWluPSIwIiBtYXg9IjEwMCIgdmFsdWU9IjMzIj4tLT4KICAgIDwhLS08aSBjbGFzcz0iaWNvbiBpb24taW9zLXN1bm55Ij48L2k+LS0+CiAgPCEtLTwvZGl2Pi0tPgo8IS0tPC9kaXY+LS0+Cgo8IS0tPGFwcD48L2FwcD4tLT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
