@@ -19,6 +19,13 @@
         <mark key="." line="21" column="36" />
         <mark key="^" line="21" column="36" />
       </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/package.json" timestamp="1472444127450">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="47" />
+        <mark key="^" line="11" column="61" />
+        <mark key="." line="10" column="27" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/logger.js" timestamp="1472422102052">
         <mark key="[" line="5" column="56" />
         <mark key="]" line="5" column="56" />
@@ -37,7 +44,7 @@
         <mark key="^" line="12" column="40" />
         <mark key="." line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/bin/run.js" timestamp="1472422778680">
+      <file name="$USER_HOME$/Workspace/betogether.today/bin/run.js" timestamp="1472444028693">
         <mark key="[" line="10" column="30" />
         <mark key="]" line="10" column="30" />
         <mark key="." line="10" column="30" />
@@ -56,11 +63,6 @@
         <mark key="." line="12" column="6" />
         <mark key="^" line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/bin/init.js" timestamp="1472422825833">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Autress/app/website/main/views.py" timestamp="1470210295321">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,6 +71,12 @@
         <mark key="]" line="8" column="20" />
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" timestamp="1472446431335">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/autosave.py" timestamp="1472004830885">
         <mark key="[" line="1" column="14" />
@@ -94,18 +102,25 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/build/webpack.base.conf.js" timestamp="1472445799401">
+        <mark key="'" line="4" column="48" />
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+        <mark key="^" line="8" column="34" />
+      </file>
       <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/input_dialog.html" timestamp="1472102665107">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="20" column="6" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/app.js" timestamp="1472441831628">
-        <mark key="'" line="22" column="71" />
-        <mark key="[" line="28" column="57" />
-        <mark key="]" line="28" column="65" />
-        <mark key="^" line="28" column="65" />
-        <mark key="." line="28" column="65" />
+      <file name="$USER_HOME$/Workspace/betogether.today/app.js" timestamp="1472445251112">
+        <mark key="'" line="23" column="71" />
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="32" column="45" />
+        <mark key="." line="32" column="45" />
+        <mark key="^" line="32" column="45" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/model/milestone.js" timestamp="1472439793574">
         <mark key="'" line="5" column="36" />
@@ -120,10 +135,11 @@
         <mark key="." line="22" column="95" />
         <mark key="^" line="22" column="95" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/api/user.js" timestamp="1472411454514">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/build/webpack.dev.conf.js" timestamp="1472446148184">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+        <mark key="^" line="30" column="43" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/api/milestone.js" timestamp="1472441226275">
         <mark key="'" line="67" column="0" />
@@ -132,10 +148,16 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/helper/__init__.py" timestamp="1472191586819">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/config/index.js" timestamp="1472446068931">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/website/index.html" timestamp="1472442791402">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="9" />
       </file>
       <file name="/Dummy.txt" timestamp="1472440361740">
         <mark key="[" line="0" column="0" />
@@ -152,11 +174,11 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/config.js" timestamp="1472441765437">
-        <mark key="[" line="24" column="32" />
-        <mark key="]" line="24" column="38" />
-        <mark key="." line="24" column="38" />
-        <mark key="^" line="24" column="38" />
+      <file name="$USER_HOME$/Workspace/betogether.today/config.js" timestamp="1472445218325">
+        <mark key="[" line="26" column="57" />
+        <mark key="]" line="26" column="57" />
+        <mark key="." line="26" column="57" />
+        <mark key="^" line="26" column="57" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/model/base.js" timestamp="1472409812485">
         <mark key="[" line="4" column="0" />
@@ -178,16 +200,21 @@
         <mark key="." line="22" column="13" />
         <mark key="^" line="22" column="13" />
       </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/build/dev-server.js" timestamp="1472444664561">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="64" column="5" />
+        <mark key="]" line="66" column="20" />
+        <mark key="^" line="66" column="20" />
+        <mark key="." line="66" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/components/Hello.vue" timestamp="1472446385870">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="24" />
+        <mark key="^" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/Workspace/Autress/fabfile.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
-      <jump line="11" column="15" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
-      <jump line="12" column="15" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
-      <jump line="38" column="56" filename="$USER_HOME$/Workspace/Autress/app/templates/base.html" />
-      <jump line="14" column="9" filename="$USER_HOME$/Workspace/Autress/app/static/js/index.js" />
-      <jump line="4" column="25" filename="$USER_HOME$/Workspace/Autress/app/wechat/handlers.py" />
-      <jump line="6" column="32" filename="$USER_HOME$/Workspace/Autress/app/wechat/handlers.py" />
       <jump line="5" column="22" filename="$USER_HOME$/Workspace/Autress/app/wechat/handlers.py" />
       <jump line="76" column="4" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
       <jump line="37" column="4" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
@@ -280,55 +307,63 @@
       <jump line="53" column="27" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
       <jump line="78" column="0" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
       <jump line="22" column="71" filename="$USER_HOME$/Workspace/betogether.today/app.js" />
+      <jump line="35" column="4" filename="$USER_HOME$/Workspace/betogether.today/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/betogether.today/package.json" />
+      <jump line="1" column="0" filename="$USER_HOME$/Workspace/betogether.today/package.json" />
+      <jump line="53" column="24" filename="$USER_HOME$/Workspace/betogether.today/package.json" />
+      <jump line="72" column="0" filename="$USER_HOME$/Workspace/betogether.today/package.json" />
+      <jump line="58" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/build/dev-server.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/build/dev-server.js" />
+      <jump line="3" column="48" filename="$USER_HOME$/Workspace/betogether.today/client/build/webpack.base.conf.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>24 * 3600</text>
+        <text>Hello World! Vue!</text>
       </register>
       <register name="-" type="4">
-        <text>24 * 3600</text>
+        <text>Hello World! Vue!</text>
       </register>
       <register name="/" type="4">
-        <text>static</text>
+        <text>dist</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyZWF0ZWRBdDogeyAkbHRlOiBzdGFydF9kYXRlIH0sCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">cm9vdF9jb25maWcuY2xpZW50X3Jvb3QgKyA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAgIGFzc2V0c1Jvb3Q6IHJvb3RfY29uZmlnLmNsaWVudF9yb290LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2V0c1Jvb3Q6IHJvb3RfY29uZmlnLmNsaWVudF9yb290LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cm91dGVyLnVzZShhdXRoLnJlcXVpcmVBdXRoZWQpOwo=</text>
+        <text encoding="base64">dmFyIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cm91dGVyLnVzZShhdXRoLnJlcXVpcmVBdXRoZWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyZWF0ZWRBdDogeyAkbHRlOiBzdGFydF9kYXRlIH0sCiAgICAgICAgICAgICAgICBjb250ZW50OiAsCiAgICAgICAgICAgICAgICB0eXBlOiAndGV4dCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{ $like: search_key }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gaWYgKGNvbmZpZy5kZWJ1Zyl7fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJvb3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgY29uZmlnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>static</last-search>
+      <last-search>dist</last-search>
       <last-offset />
-      <last-pattern>static</last-pattern>
+      <last-pattern>dist</last-pattern>
       <last-replace>query</last-replace>
       <last-substitute>user.id</last-substitute>
       <last-dir>1</last-dir>
@@ -336,7 +371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>area</entry>
         <entry>\$key</entry>
         <entry>cities</entry>
         <entry>:</entry>
@@ -356,6 +390,7 @@
         <entry encoding="base64">c2Vzc2lvbi51c2VyIA==</entry>
         <entry>user.id</entry>
         <entry>static</entry>
+        <entry>dist</entry>
       </history-search>
       <history-cmd>
         <entry>wp</entry>
@@ -403,6 +438,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
