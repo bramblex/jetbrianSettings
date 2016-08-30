@@ -102,11 +102,12 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" timestamp="1472492837372">
-        <mark key="[" line="27" column="21" />
-        <mark key="]" line="27" column="23" />
-        <mark key="." line="27" column="23" />
-        <mark key="^" line="27" column="23" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" timestamp="1472495406274">
+        <mark key="'" line="23" column="30" />
+        <mark key="[" line="53" column="17" />
+        <mark key="]" line="53" column="18" />
+        <mark key="." line="53" column="18" />
+        <mark key="^" line="53" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/autosave.py" timestamp="1472004830885">
         <mark key="[" line="1" column="14" />
@@ -259,17 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="44" filename="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/flask/helpers.py" />
-      <jump line="231" column="14" filename="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/flask/helpers.py" />
-      <jump line="237" column="59" filename="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/flask/helpers.py" />
-      <jump line="192" column="4" filename="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/flask/helpers.py" />
-      <jump line="203" column="8" filename="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/flask/helpers.py" />
-      <jump line="208" column="65" filename="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/flask/helpers.py" />
-      <jump line="14" column="34" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
-      <jump line="64" column="21" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
-      <jump line="101" column="0" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
-      <jump line="129" column="38" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
       <jump line="155" column="4" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
       <jump line="8" column="18" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
@@ -359,46 +349,57 @@
       <jump line="30" column="17" filename="$USER_HOME$/Workspace/betogether.today/client/build/webpack.base.conf.js" />
       <jump line="31" column="17" filename="$USER_HOME$/Workspace/betogether.today/client/build/webpack.base.conf.js" />
       <jump line="45" column="17" filename="$USER_HOME$/Workspace/betogether.today/client/build/webpack.base.conf.js" />
+      <jump line="9" column="9" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="3" column="15" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="140" column="2" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="10" column="25" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="11" column="32" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="40" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="59" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="53" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="8" column="19" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="23" column="30" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>25</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>25</text>
       </register>
       <register name="/" type="4">
         <text>vue</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG10LWJ1dHRvbihpY29uPSdsZWZ0JyBzbG90PSdsZWZ0Jykg6YeM56iL56KRCg==</text>
+        <text encoding="base64">ICAgICAgPG10LWJ1dHRvbj48L210LWJ1dHRvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luLXRvcDoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdWwodi1pbmZpbml0ZS1zY3JvbGw9J2xvYWRNb3JlKCknIGluZmluaXRlLXNjcm9sbC1kaXNhYmxlZD0nbG9hZGluZycgaW5maW5pdGUtc2Nyb2xsLWRpc3RhbmNlPScxMCcpCiAgICAgICAgbGkodi1mb3I9J2l0ZW0gaW4gbGlzdCcpIHt7IGl0ZW0gfX0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICA8IS0tPGRpdiBpZD0iYXBwIj4tLT4KICAgIDwhLS08bXQtaGVhZGVyIDp0aXRsZT0ndGl0bGUnPi0tPgogICAgICA8IS0tPG10LWJ1dHRvbj48L210LWJ1dHRvbj4tLT4KICAgIDwhLS08L210LWhlYWRlcj4tLT4KICA8IS0tPC9kaXY+LS0+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDwhLS08bXQtaGVhZGVyIDp0aXRsZT0ndGl0bGUnPi0tPgogICAgICA8IS0tPG10LWJ1dHRvbj48L210LWJ1dHRvbj4tLT4KICAgIDwhLS08L210LWhlYWRlcj4tLT4KICA8IS0tPC9kaXY+LS0+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBhCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNhcmQK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGl2Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
