@@ -105,11 +105,11 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/main.js" timestamp="1472529178905">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="16" />
-        <mark key="." line="13" column="16" />
-        <mark key="^" line="13" column="16" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/main.js" timestamp="1472530781783">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="15" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/index.html" timestamp="1472530532537">
         <mark key="'" line="0" column="1" />
@@ -151,11 +151,11 @@
         <mark key="." line="12" column="6" />
         <mark key="^" line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/router.js" timestamp="1472530739171">
-        <mark key="[" line="13" column="3" />
-        <mark key="]" line="13" column="2" />
-        <mark key="." line="13" column="2" />
-        <mark key="^" line="13" column="2" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/router.js" timestamp="1472530789261">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/model/db.js" timestamp="1472409864764">
         <mark key="[" line="6" column="42" />
@@ -371,8 +371,8 @@
       <jump line="18" column="2" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">VnVlLnVzZShWdWVSb3V0ZXIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -384,31 +384,31 @@
         <text encoding="base64">ICAgIDxhIHYtbGluaz0ieyBwYXRoOiAnL2hlbGxvJyB9Ij5HbyB0byBIZWxsbzwvYT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VnVlLnVzZShWdWVSb3V0ZXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">cm91dGVyCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cm91dGVyCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">cm91dGVyLm1hcCh7CiAgJy9mb28nOiB7CiAgICBjb21wb25lbnQ6IEZvbwogIH0sCiAgJy9IZWxsbyc6IHsKICAgIGNvbXBvbmVudDogSGVsbG8KICB9Cn0pCg==</text>
+        <text encoding="base64">PAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEhlbGxvIGZyb20gJ2NvbXBvbmVudHMvSGVsbG8udnVlJwppbXBvcnQgRm9vIGZyb20gJ0ZvbycKaW1wb3J0IFZ1ZVJvdXRlciBmcm9tICd2dWUtcm91dGVyJwoKY29uc3Qgcm91dGVyID0gbmV3IFZ1ZVJvdXRlcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS08aGVsbG8+PC9oZWxsbz4tLT4KICAgIDxhIHYtbGluaz0ieyBwYXRoOiAnL2hlbGxvJyB9Ij5HbyB0byBIZWxsbzwvYT4KICAgIHwKICAgIDxhIHYtbGluaz0ieyBwYXRoOiAnL2ZvbycgfSI+R28gdG8gZm9vPC9hPgoKICAgIDxyb3V0ZXItdmlldz48L3JvdXRlci12aWV3Pgo=</text>
+        <text encoding="base64">cm91dGVyLm1hcCh7CiAgJy9mb28nOiB7CiAgICBjb21wb25lbnQ6IEZvbwogIH0sCiAgJy9IZWxsbyc6IHsKICAgIGNvbXBvbmVudDogSGVsbG8KICB9Cn0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IEhlbGxvIGZyb20gJ2NvbXBvbmVudHMvSGVsbG8udnVlJwppbXBvcnQgRm9vIGZyb20gJ0ZvbycKaW1wb3J0IFZ1ZVJvdXRlciBmcm9tICd2dWUtcm91dGVyJwoKY29uc3Qgcm91dGVyID0gbmV3IFZ1ZVJvdXRlcigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
