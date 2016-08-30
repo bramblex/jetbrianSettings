@@ -42,12 +42,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/package.json" timestamp="1472479408917">
+      <file name="$USER_HOME$/Workspace/betogether.today/package.json" timestamp="1472547814741">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/logger.js" timestamp="1472422102052">
         <mark key="[" line="5" column="56" />
@@ -157,12 +156,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Login.vue" timestamp="1472545270619">
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Login.vue" timestamp="1472547671117">
         <mark key="'" line="18" column="28" />
-        <mark key="[" line="44" column="5" />
-        <mark key="]" line="44" column="5" />
-        <mark key="." line="44" column="5" />
-        <mark key="^" line="41" column="26" />
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="31" column="15" />
+        <mark key="." line="33" column="17" />
+        <mark key="^" line="31" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/website/main/views/index.py" timestamp="1471607505753">
         <mark key="'" line="8" column="0" />
@@ -196,11 +195,23 @@
         <mark key="." line="22" column="95" />
         <mark key="^" line="22" column="95" />
       </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/store/actions.js" timestamp="1472545946110">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/build/webpack.dev.conf.js" timestamp="1472446148184">
         <mark key="[" line="29" column="17" />
         <mark key="]" line="29" column="17" />
         <mark key="." line="29" column="17" />
         <mark key="^" line="30" column="43" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/store/getters.js" timestamp="1472545783745">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="46" />
+        <mark key="." line="5" column="46" />
+        <mark key="^" line="5" column="46" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/api/milestone.js" timestamp="1472441226275">
         <mark key="'" line="67" column="0" />
@@ -220,11 +231,11 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/main.js" timestamp="1472545222328">
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/main.js" timestamp="1472545820554">
         <mark key="'" line="2" column="13" />
-        <mark key="[" line="31" column="3" />
-        <mark key="]" line="31" column="3" />
-        <mark key="." line="31" column="3" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/website/index.html" timestamp="1472442791402">
         <mark key="[" line="1" column="4" />
@@ -395,48 +406,44 @@
       <jump line="18" column="28" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Login.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJzYXNzLWxvYWRlciI6ICJeNC4wLjAiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>jade</text>
       </register>
       <register name="/" type="4">
         <text>vue</text>
       </register>
-      <register name="0" type="4">
-        <text>SET_CURREN_USER</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QoJ+eZu+W9leaIkOWKnycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlYWR5KCl7CiAgICAgIHRoaXMuc2V0VXNlcih7aWQ6IDF9KQogICAgICBjb25zb2xlLmxvZyh0aGlzLmN1cnJlbnRfdXNlcikKICAgIH0K</text>
+        <text encoding="base64">ICAgICJzYXNzLWxvYWRlciI6ICJeNC4wLjAiLAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>,
-  ready(){
-    this.setUser({id: 1})
-    console.log(this.current_user)
-  }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJub2RlLXNhc3MiOiAiXjMuOC4wIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZWFkeSgpewogICAgdGhpcy5zZXRVc2VyKHtpZDogMX0pCiAgICBjb25zb2xlLmxvZyh0aGlzLmN1cnJlbnRfdXNlcikKICB9Cg==</text>
+        <text encoding="base64">ICAgICJwdWciOiAiXjEuMTEuMCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaQo=</text>
+        <text encoding="base64">ICAgICJwdWciOiAiXjEuMTEuMCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJwdWciOiAiXjEuMTEuMCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJ1c2Ugc3RyaWN0IjsK</text>
+        <text encoding="base64">ICAgICJwdWciOiAiXjEuMTEuMCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJwdWciOiAiXjEuMTEuMCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgImphZGUiOiAiXjEuMTEuMCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgImphZGUiOiAiXjEuMTEuMCIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
