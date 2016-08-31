@@ -40,12 +40,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" timestamp="1472628227939">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="33" column="7" />
-        <mark key="." line="4" column="29" />
-        <mark key="^" line="4" column="29" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" timestamp="1472636337496">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="51" column="12" />
+        <mark key="]" line="52" column="23" />
+        <mark key="." line="52" column="23" />
+        <mark key="^" line="52" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/app.js" timestamp="1471499946066">
         <mark key="'" line="43" column="0" />
@@ -144,11 +144,10 @@
         <mark key="." line="20" column="16" />
         <mark key="^" line="20" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/middleware/logger.js" timestamp="1472439161830">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="25" />
-        <mark key="^" line="9" column="25" />
-        <mark key="." line="9" column="25" />
+      <file name="$USER_HOME$/Workspace/betogether.today/middleware/logger.js" timestamp="1472637675409">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/model/user.js" timestamp="1472439779514">
         <mark key="[" line="18" column="0" />
@@ -302,8 +301,8 @@
         <mark key="]" line="41" column="34" />
         <mark key="." line="41" column="34" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" timestamp="1472631590218">
-        <mark key="'" line="10" column="35" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" timestamp="1472635614287">
+        <mark key="'" line="46" column="0" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="58" column="2" />
         <mark key="." line="57" column="14" />
@@ -337,8 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="4" filename="$USER_HOME$/Workspace/betogether.today/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/betogether.today/package.json" />
       <jump line="1" column="0" filename="$USER_HOME$/Workspace/betogether.today/package.json" />
       <jump line="53" column="24" filename="$USER_HOME$/Workspace/betogether.today/package.json" />
       <jump line="72" column="0" filename="$USER_HOME$/Workspace/betogether.today/package.json" />
@@ -437,46 +434,48 @@
       <jump line="10" column="35" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
       <jump line="37" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Milestone.vue" />
       <jump line="5" column="76" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/MilestoneCreate.vue" />
+      <jump line="46" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="9" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXB1dGVkOiB7CiAgICAgIHNvcnRlZF9taWxlc3RvbmVzKCl7CiAgICAgIH0KICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>logDirectory</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAuaXRlbS1kYXRlIHsKICAgIHRleHQtYWxpZ246IHJpZ2h0OwogICAgYmFja2dyb3VuZC1jb2xvcjogI0VGRUZFRjsKICAgIGZvbnQtc2l6ZTogMC42MThyZW07CiAgICBwYWRkaW5nOiAycHggMTZweDsKICB9Cg==</text>
+      <register name="0" type="4">
+        <text>config.log_dir</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXB1dGVkOiB7CiAgICAgIHNvcnRlZF9taWxlc3RvbmVzKCl7CiAgICAgIH0KICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIGRhdGFfZm9ybWF0OiAnWVlZWU1NREQnLAogICAgLy8gZmlsZW5hbWU6IHBhdGguam9pbihjb25maWcubG9nX2RpciwgJ2FjY2Vzcy0lREFURSUubG9nJyksCiAgICAvLyBmcmVxdWVuY3k6ICdkYWlseScsCiAgICAvLyB2ZXJib3NlOiBmYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhX2Zvcm1hdDogJ1lZWVlNTUREJywKICAgICAgICBmaWxlbmFtZTogcGF0aC5qb2luKGNvbmZpZy5sb2dfZGlyLCAnYWNjZXNzLSVEQVRFJS5sb2cnKSwKICAgICAgICBmcmVxdWVuY3k6ICdkYWlseScsCiAgICAgICAgdmVyYm9zZTogZmFsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc29ydGVkX21pbGVzdG9uZXMoKXsKICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWkK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhX2Zvcm1hdDogJ1lZWVlNTUREJywKICAgICAgICBmaWxlbmFtZTogcGF0aC5qb2luKGNvbmZpZy5sb2dfZGlyLCAnYWNjZXNzLSVEQVRFJS5sb2cnKSwKICAgICAgICBmcmVxdWVuY3k6ICdkYWlseScsCiAgICAgICAgdmVyYm9zZTogZmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1ldGhvZHMoKXsKICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgY2xhc3M9ImZpbGUiIHR5cGU9ImZpbGUiIGFjY2VwdD0iaW1hZ2UvanBlZyxpbWFnZS9wbmcsaW1hZ2UvZ2lmIiBAY2hhbmdlPSJ1cGxvYWQoJGV2ZW50KSI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDx0ZXh0YXJlYSBwbGFjZWhvbGRlcj0i5pel6K6w5YaF5a65IiByb3dzPSIxMCIgdi1tb2RlbD0idGV4dF9jb250ZW50Ij48L3RleHRhcmVhPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
