@@ -33,11 +33,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" timestamp="1472569927799">
-        <mark key="'" line="25" column="6" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" timestamp="1472616385709">
+        <mark key="'" line="33" column="6" />
+        <mark key="[" line="24" column="10" />
+        <mark key="]" line="25" column="3" />
+        <mark key="." line="25" column="3" />
+        <mark key="^" line="25" column="3" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/app.js" timestamp="1471499946066">
         <mark key="'" line="43" column="0" />
@@ -106,10 +107,12 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" timestamp="1472613248279">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" timestamp="1472615062342">
+        <mark key="'" line="36" column="6" />
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="45" column="16" />
+        <mark key="." line="45" column="16" />
+        <mark key="^" line="45" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/action.js" timestamp="1472544771963">
         <mark key="[" line="9" column="16" />
@@ -284,12 +287,12 @@
         <mark key="]" line="41" column="34" />
         <mark key="." line="41" column="34" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" timestamp="1472572946259">
-        <mark key="'" line="125" column="0" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="42" />
-        <mark key="." line="104" column="0" />
-        <mark key="^" line="101" column="30" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" timestamp="1472616356276">
+        <mark key="'" line="2" column="14" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="32" column="15" />
+        <mark key="^" line="54" column="13" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/middleware/uploader.js" timestamp="1472439432305">
         <mark key="[" line="22" column="12" />
@@ -319,18 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="13" filename="$USER_HOME$/Workspace/betogether.today/model/recording.js" />
-      <jump line="13" column="11" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="16" column="25" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="17" column="26" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="32" column="17" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="38" column="23" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="40" column="2" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="22" column="23" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="56" column="0" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="16" column="26" filename="$USER_HOME$/Workspace/betogether.today/api/auth.js" />
-      <jump line="45" column="8" filename="$USER_HOME$/Workspace/betogether.today/api/auth.js" />
       <jump line="58" column="0" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
       <jump line="12" column="32" filename="$USER_HOME$/Workspace/betogether.today/app.js" />
       <jump line="12" column="3" filename="$USER_HOME$/Workspace/betogether.today/bin/run.js" />
@@ -419,64 +410,74 @@
       <jump line="1" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
       <jump line="65" column="22" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
       <jump line="125" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="8" column="2" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="28" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="36" column="6" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="122" column="14" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="146" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="137" column="5" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="147" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="60" column="3" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="5" column="11" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="4" column="11" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="3" column="13" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="2" column="14" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogMDsK</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="/" type="4">
-        <text>image</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjowOwogICAgcGFkZGluZzowOwogICAgd2lkdGg6MTAwJTsKICAgIGhlaWdodDoxMDAlOwogICAgb3ZlcmZsb3cteTogc2Nyb2xsOwo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogMDsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIG92ZXJmbG93LXk6IHNjcm9sbDsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG92ZXJmbG93LXk6IHNjcm9sbDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG92ZXJmbG93LXk6IHNjcm9sbDsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text encoding="base64">IHYtZm9yPSJyZWNvcmRpbmcgaW4gcmVjb3JkaW5ncyI=</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxzY3JvbGxcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJsaXN0IGNhcmQiIHYtZm9yPSJyZWNvcmRpbmcgaW4gcmVjb3JkaW5ncyI+CgogICAgICAgICAgPCEtLTxkaXYgY2xhc3M9Iml0ZW0gaXRlbS1hdmF0YXIiPi0tPgogICAgICAgICAgPCEtLTxpbWcgOnNyYz0iYXZhdG9yLmpwZyI+LS0+CiAgICAgICAgICA8IS0tPGgyPlByZXR0eSBIYXRlIE1hY2hpbmU8L2gyPi0tPgogICAgICAgICAgPCEtLTxwPk5pbmUgSW5jaCBOYWlsczwvcD4tLT4KICAgICAgICAgIDwhLS08L2Rpdj4tLT4KCiAgICAgICAgICA8IS0tPGRpdiBjbGFzcz0iaXRlbSBpdGVtLWF2YXRhciBpdGVtLWF2YXRhci1yaWdodCI+LS0+CiAgICAgICAgICA8IS0tPGgyPlByZXR0eSBIYXRlIE1hY2hpbmU8L2gyPi0tPgogICAgICAgICAgPCEtLTxwPk5pbmUgSW5jaCBOYWlsczwvcD4tLT4KICAgICAgICAgIDwhLS08aW1nIDpzcmM9ImF2YXRvci5qcGciPi0tPgogICAgICAgICAgPCEtLTwvZGl2Pi0tPgoKICAgICAgICAgIDxkaXYgY2xhc3M9Iml0ZW0gaXRlbS1pbWFnZSIgdi1pZj0icmVjb3JkaW5nLnR5cGUgPT0gJ2ltYWdlJyI+CiAgICAgICAgICAgIDwhLS08aW1nIDpzcmM9IicvYXBpL2ltYWdlLycgKyByZWNvcmRpbmcuY29udGVudCIgLz4tLT4KICAgICAgICAgICAgPGltZyB2LWxhenkuY29udGFpbmVyPSInL2FwaS9pbWFnZS8nICsgcmVjb3JkaW5nLmNvbnRlbnQiPgogICAgICAgICAgPC9kaXY+Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgPCEtLTxkaXYgY2xhc3M9Iml0ZW0gaXRlbS1hdmF0YXIiPi0tPgogICAgICA8IS0tPGltZyA6c3JjPSJhdmF0b3IuanBnIj4tLT4KICAgICAgPCEtLTxoMj5QcmV0dHkgSGF0ZSBNYWNoaW5lPC9oMj4tLT4KICAgICAgPCEtLTxwPk5pbmUgSW5jaCBOYWlsczwvcD4tLT4KICAgICAgPCEtLTwvZGl2Pi0tPgoKICAgICAgPCEtLTxkaXYgY2xhc3M9Iml0ZW0gaXRlbS1hdmF0YXIgaXRlbS1hdmF0YXItcmlnaHQiPi0tPgogICAgICA8IS0tPGgyPlByZXR0eSBIYXRlIE1hY2hpbmU8L2gyPi0tPgogICAgICA8IS0tPHA+TmluZSBJbmNoIE5haWxzPC9wPi0tPgogICAgICA8IS0tPGltZyA6c3JjPSJhdmF0b3IuanBnIj4tLT4KICAgICAgPCEtLTwvZGl2Pi0tPgoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxkaXY+CiAgICAgIDxpbWcgOnNyYz0iaW1hZ2Vfc3JjIj4KICAgIDwvZGl2Pgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgaW1nCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxpbXAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2FkaW5nID0gZmFsc2U7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8cm91dGVyLXZpZXc+PC9yb3V0ZXItdmlldz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLmxvYWRpbmcgPSBmYWxzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHRlbXBsYXRlPgogIDxyb3V0ZXItdmlldz48L3JvdXRlci12aWV3Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLmxvYWRpbmcgPSBmYWxzZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>image</last-search>
+      <last-search encoding="base64">XDxzY3JvbGxcPg==</last-search>
       <last-offset />
-      <last-pattern>image</last-pattern>
+      <last-pattern encoding="base64">XDxzY3JvbGxcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PCU=</entry>
-        <entry encoding="base64">JT4=</entry>
         <entry>include</entry>
         <entry>inclu</entry>
         <entry>Milestone</entry>
@@ -495,6 +496,8 @@
         <entry encoding="base64">IA==</entry>
         <entry>v-link</entry>
         <entry>image</entry>
+        <entry encoding="base64">XDx3YXBwZXJcPg==</entry>
+        <entry encoding="base64">XDxzY3JvbGxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NpdGllcy9kaXN0cmljdHMvZw==</entry>
