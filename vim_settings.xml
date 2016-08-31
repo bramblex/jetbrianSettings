@@ -89,11 +89,11 @@
         <mark key="^" line="12" column="40" />
         <mark key="." line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/utils/image.js" timestamp="1472657651060">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-        <mark key="^" line="6" column="27" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/utils/image.js" timestamp="1472659100527">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/bin/run.js" timestamp="1472444028693">
         <mark key="[" line="10" column="30" />
@@ -211,11 +211,11 @@
         <mark key="." line="22" column="95" />
         <mark key="^" line="22" column="95" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/store/actions.js" timestamp="1472657666133">
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/store/actions.js" timestamp="1472658968963">
         <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="7" />
-        <mark key="^" line="9" column="26" />
-        <mark key="." line="9" column="7" />
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/build/webpack.dev.conf.js" timestamp="1472446148184">
         <mark key="[" line="29" column="17" />
@@ -223,11 +223,11 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/store/getters.js" timestamp="1472657710950">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-        <mark key="^" line="4" column="20" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/store/getters.js" timestamp="1472658974642">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/api/milestone.js" timestamp="1472441226275">
         <mark key="'" line="67" column="0" />
@@ -276,8 +276,8 @@
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Milestone.vue" timestamp="1472631934903">
-        <mark key="'" line="49" column="0" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Milestone.vue" timestamp="1472658939405">
+        <mark key="'" line="39" column="18" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
@@ -334,10 +334,11 @@
         <mark key="." line="27" column="36" />
         <mark key="^" line="34" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/store/store.js" timestamp="1472657728494">
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/store/store.js" timestamp="1472658981756">
         <mark key="[" line="15" column="7" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="15" column="25" />
+        <mark key="]" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+        <mark key="^" line="15" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/router_map.js" timestamp="1472628137897">
         <mark key="[" line="19" column="24" />
@@ -347,7 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="48" filename="$USER_HOME$/Workspace/betogether.today/client/build/webpack.base.conf.js" />
       <jump line="0" column="1" filename="$USER_HOME$/Workspace/betogether.today/client/index.html" />
       <jump line="3" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/components/Hello.vue" />
       <jump line="10" column="0" filename="$USER_HOME$/Workspace/betogether.today/package.json" />
@@ -447,13 +447,14 @@
       <jump line="27" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
       <jump line="125" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
       <jump line="175" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="39" column="18" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Milestone.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
