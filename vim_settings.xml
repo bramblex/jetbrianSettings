@@ -241,6 +241,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/.editorconfig" timestamp="1472707737468" />
       <file name="$USER_HOME$/Workspace/Autress/fabfile.py" timestamp="1472124056696">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="63" column="0" />
@@ -300,19 +301,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/api/recording.js" timestamp="1472566584272">
-        <mark key="'" line="76" column="0" />
-        <mark key="j" line="0" column="0" />
-        <mark key="[" line="41" column="34" />
-        <mark key="]" line="41" column="34" />
-        <mark key="." line="41" column="34" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" timestamp="1472704694447">
-        <mark key="'" line="126" column="0" />
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="30" />
-        <mark key="." line="9" column="30" />
-        <mark key="^" line="9" column="30" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" timestamp="1472707770526">
+        <mark key="[" line="156" column="3" />
+        <mark key="]" line="156" column="3" />
+        <mark key="." line="156" column="3" />
+        <mark key="^" line="156" column="3" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/middleware/uploader.js" timestamp="1472439432305">
         <mark key="[" line="22" column="12" />
@@ -348,8 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/Workspace/betogether.today/package.json" />
-      <jump line="18" column="11" filename="$USER_HOME$/Workspace/betogether.today/client/build/webpack.base.conf.js" />
       <jump line="30" column="17" filename="$USER_HOME$/Workspace/betogether.today/client/build/webpack.base.conf.js" />
       <jump line="31" column="17" filename="$USER_HOME$/Workspace/betogether.today/client/build/webpack.base.conf.js" />
       <jump line="45" column="17" filename="$USER_HOME$/Workspace/betogether.today/client/build/webpack.base.conf.js" />
@@ -448,6 +439,8 @@
       <jump line="101" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
       <jump line="126" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
       <jump line="5" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="153" column="20" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="156" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
