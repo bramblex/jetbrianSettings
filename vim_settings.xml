@@ -102,12 +102,12 @@
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/model/recording.js" timestamp="1472439686679">
+      <file name="$USER_HOME$/Workspace/betogether.today/model/recording.js" timestamp="1472726929332">
         <mark key="'" line="11" column="13" />
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="17" column="60" />
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="26" />
+        <mark key="." line="27" column="26" />
+        <mark key="^" line="27" column="26" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/contract/template/template.html" timestamp="1472202591726">
         <mark key="[" line="12" column="7" />
@@ -151,12 +151,12 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/bin/backup.js" timestamp="1472717047781">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="26" column="62" />
-        <mark key="." line="26" column="62" />
-        <mark key="^" line="26" column="62" />
+      <file name="$USER_HOME$/Workspace/betogether.today/bin/backup.js" timestamp="1472727735881">
+        <mark key="'" line="8" column="47" />
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+        <mark key="^" line="29" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/components/Foo.vue" timestamp="1472529993455">
         <mark key="[" line="20" column="14" />
@@ -303,12 +303,12 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/config.js" timestamp="1472715341238">
+      <file name="$USER_HOME$/Workspace/betogether.today/config.js" timestamp="1472726712321">
         <mark key="'" line="0" column="2" />
-        <mark key="[" line="19" column="38" />
-        <mark key="]" line="19" column="45" />
-        <mark key="." line="19" column="45" />
-        <mark key="^" line="19" column="45" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="31" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/model/base.js" timestamp="1472409812485">
         <mark key="[" line="4" column="0" />
@@ -357,7 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="32" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
       <jump line="40" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
       <jump line="59" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
@@ -457,46 +456,47 @@
       <jump line="11" column="0" filename="$USER_HOME$/Workspace/betogether.today/bin/backup.js" />
       <jump line="15" column="2" filename="$USER_HOME$/Workspace/betogether.today/bin/backup.js" />
       <jump line="14" column="0" filename="$USER_HOME$/Workspace/betogether.today/bin/backup.js" />
+      <jump line="8" column="47" filename="$USER_HOME$/Workspace/betogether.today/bin/backup.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDkuIrkvKDmiJDlip/vvIwg5aSE55CG6L+U5Zue5YC8Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>require()</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFVzZXIuY3JlYXRlKHsKICAgICAgICB1c2VybmFtZTogJ21pYW9taWFvJywKICAgICAgICBwYXNzd29yZDogJ2Fpemh1cmVuJwogICAgfSkK</text>
+        <text encoding="base64">Ly8gcWluaXUuY29uZi5TRUNSRVRfS0VZID0gJ2hHbVdnbDZmMHdzVzJVQjFtU2d6T0lKYi1SQmNBLXZxVGFycVVqUUMnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDkuIrkvKDmiJDlip/vvIwg5aSE55CG6L+U5Zue5YC8Cg==</text>
+        <text encoding="base64">Ly8gY29uc3Qga2V5ID0gJzI0OTY3ZmZjNDQzODAyNDFlZWIxMGZlYTRhM2QzOTdmMTQ3MjY1NTc5NTc5Ni5qcGVnJzsKLy8gY29uc3QgbG9jYWxfZmlsZSA9IHBhdGguam9pbihjb25maWcudXBsb2FkX3BhdGgsIGtleSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDkuIrkvKDlpLHotKXvvIwg5aSE55CG6L+U5Zue5Luj56CBCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChlcnIpIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Ly8gcWluaXUuY29uZi5BQ0NFU1NfS0VZID0gJ2k5dXpwanpQN0g3cGdQZGlMRlJKeUhTYkMyWG9EMXMxWGNPU1hPcTEnOwovLyBxaW5pdS5jb25mLlNFQ1JFVF9LRVkgPSAnaEdtV2dsNmYwd3NXMlVCMW1TZ3pPSUpiLVJCY0EtdnFUYXJxVWpRQyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
