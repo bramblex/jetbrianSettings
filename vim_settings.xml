@@ -256,11 +256,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" timestamp="1472745456566">
-        <mark key="[" line="61" column="12" />
-        <mark key="]" line="61" column="14" />
-        <mark key="." line="61" column="27" />
-        <mark key="^" line="61" column="14" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" timestamp="1472746747664">
+        <mark key="[" line="15" column="61" />
+        <mark key="]" line="15" column="61" />
+        <mark key="." line="15" column="61" />
+        <mark key="^" line="15" column="61" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/middleware/uploader.js" timestamp="1472439432305">
         <mark key="[" line="22" column="12" />
@@ -439,7 +439,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnRXJyb3I6Jywga2V5LCBlcnIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -475,7 +475,6 @@
         <entry>img</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzovPQ==</entry>
         <entry encoding="base64">JzwsJz5zLz0vOg==</entry>
         <entry encoding="base64">JzwsJz5zL3Byb3YvY2l0eQ==</entry>
         <entry encoding="base64">JzwsJz5zL3Byb3YvY2l0eS9n</entry>
@@ -495,6 +494,7 @@
         <entry>wn</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
