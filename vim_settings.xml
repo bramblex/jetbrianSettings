@@ -3,52 +3,89 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/MilestoneCreate.vue" timestamp="1472631109492">
+        <mark key="'" line="5" column="76" />
+        <mark key="[" line="68" column="19" />
+        <mark key="]" line="68" column="22" />
+        <mark key="." line="68" column="22" />
+        <mark key="^" line="68" column="22" />
+      </file>
       <file name="$USER_HOME$/Workspace/Autress/app/wechat/handlers.py" timestamp="1472305689765">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1472004840026">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/betogether.today/app.js" timestamp="1472783778348">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="30" column="43" />
+        <mark key="]" line="30" column="52" />
+        <mark key="." line="30" column="52" />
+        <mark key="^" line="30" column="52" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/manager.py" timestamp="1472125120837">
-        <mark key="'" line="171" column="4" />
-        <mark key="[" line="79" column="31" />
-        <mark key="]" line="79" column="31" />
-        <mark key="." line="79" column="31" />
+      <file name="$USER_HOME$/Workspace/betogether.today/model/milestone.js" timestamp="1472743039796">
+        <mark key="'" line="5" column="36" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="39" />
+        <mark key="^" line="9" column="66" />
+        <mark key="." line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/toast.html" timestamp="1472188191124">
-        <mark key="'" line="5" column="6" />
+      <file name="$USER_HOME$/Workspace/betogether.today/api/config.js" timestamp="1472744254176">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="15" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/api/api.js" timestamp="1472743849560">
+        <mark key="[" line="20" column="59" />
+        <mark key="]" line="20" column="59" />
+        <mark key="." line="20" column="59" />
+        <mark key="^" line="20" column="59" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/model/config.js" timestamp="1472743045564">
         <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
+        <mark key="]" line="6" column="39" />
         <mark key="." line="6" column="0" />
+        <mark key="^" line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" timestamp="1472271054041">
-        <mark key="'" line="111" column="0" />
-        <mark key="[" line="2" column="51" />
-        <mark key="]" line="2" column="91" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/store/actions.js" timestamp="1472658968963">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/api/auth.js" timestamp="1472438176924">
-        <mark key="'" line="63" column="8" />
-        <mark key="[" line="21" column="36" />
-        <mark key="]" line="21" column="36" />
-        <mark key="." line="21" column="36" />
-        <mark key="^" line="21" column="36" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/build/webpack.dev.conf.js" timestamp="1472446148184">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+        <mark key="^" line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/static/js/app.js" timestamp="1471499946066">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/store/getters.js" timestamp="1472658974642">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/package.json" timestamp="1472444127450">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="47" />
-        <mark key="^" line="11" column="61" />
-        <mark key="." line="10" column="27" />
+      <file name="$USER_HOME$/Workspace/betogether.today/api/milestone.js" timestamp="1472743782698">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="19" column="6" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" timestamp="1472782782463">
+        <mark key="'" line="159" column="16" />
+        <mark key="[" line="80" column="12" />
+        <mark key="]" line="80" column="36" />
+        <mark key="." line="80" column="36" />
+        <mark key="^" line="80" column="36" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/package.json" timestamp="1472743586566">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="49" />
+        <mark key="." line="11" column="49" />
+        <mark key="^" line="11" column="49" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/logger.js" timestamp="1472422102052">
         <mark key="[" line="5" column="56" />
@@ -56,36 +93,65 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/store.js" timestamp="1472544746986">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="16" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="11" column="22" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/.gitignore" timestamp="1472410653123">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="5" column="5" />
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/index.html" timestamp="1472475354713">
-        <mark key="'" line="0" column="1" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/main.js" timestamp="1472570081621">
+        <mark key="'" line="4" column="13" />
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="11" />
+        <mark key="^" line="14" column="11" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/model/model.js" timestamp="1472415304388">
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="40" />
-        <mark key="^" line="12" column="40" />
-        <mark key="." line="12" column="40" />
+      <file name="$USER_HOME$/Workspace/betogether.today/model/model.js" timestamp="1472742072701">
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="13" column="53" />
+        <mark key="^" line="13" column="53" />
+        <mark key="." line="13" column="53" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/bin/run.js" timestamp="1472444028693">
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/utils/image.js" timestamp="1472659100527">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/website/index.html" timestamp="1472442791402">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/bin/run.js" timestamp="1472715356245">
+        <mark key="'" line="15" column="32" />
         <mark key="[" line="10" column="30" />
         <mark key="]" line="10" column="30" />
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/model/recording.js" timestamp="1472439686679">
+      <file name="$USER_HOME$/Workspace/betogether.today/middleware/imageview.js" timestamp="1472784207458">
+        <mark key="[" line="5" column="90" />
+        <mark key="]" line="5" column="100" />
+        <mark key="." line="5" column="100" />
+        <mark key="^" line="5" column="100" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1472745711841">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/model/recording.js" timestamp="1472726929332">
         <mark key="'" line="11" column="13" />
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="17" column="60" />
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="26" />
+        <mark key="." line="27" column="26" />
+        <mark key="^" line="27" column="26" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/contract/template/template.html" timestamp="1472202591726">
         <mark key="[" line="12" column="7" />
@@ -93,8 +159,24 @@
         <mark key="." line="12" column="6" />
         <mark key="^" line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/website/main/views.py" timestamp="1470210295321">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/betogether.today/bin/init.js" timestamp="1472716101301">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="17" column="2" />
+        <mark key="." line="17" column="2" />
+        <mark key="^" line="17" column="2" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/router.js" timestamp="1472540477776">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="16" column="24" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/model/db.js" timestamp="1472409864764">
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/api.js" timestamp="1472406982750">
         <mark key="[" line="8" column="20" />
@@ -102,11 +184,37 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" timestamp="1472446431335">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="11" />
-        <mark key="^" line="5" column="11" />
-        <mark key="." line="5" column="11" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" timestamp="1472705010800">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Autress/uwsgi.ini" timestamp="1472184456110">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/action.js" timestamp="1472544771963">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="8" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="8" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/config.js" timestamp="1472738385791">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="17" column="48" />
+        <mark key="]" line="17" column="62" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="31" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/model/base.js" timestamp="1472409812485">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="42" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/autosave.py" timestamp="1472004830885">
         <mark key="[" line="1" column="14" />
@@ -114,15 +222,25 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/middleware/logger.js" timestamp="1472439161830">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="25" />
-        <mark key="^" line="9" column="25" />
-        <mark key="." line="9" column="25" />
+      <file name="$USER_HOME$/Workspace/betogether.today/bin/backup.js" timestamp="1472745541736">
+        <mark key="'" line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/model/user.js" timestamp="1472439779514">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/components/Foo.vue" timestamp="1472529993455">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="20" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" timestamp="1472746747664">
+        <mark key="[" line="15" column="61" />
+        <mark key="]" line="15" column="61" />
+        <mark key="." line="15" column="61" />
+        <mark key="^" line="15" column="61" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/model/user.js" timestamp="1472741966428">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="2" />
         <mark key="^" line="9" column="7" />
         <mark key="." line="10" column="26" />
       </file>
@@ -132,18 +250,32 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/build/webpack.base.conf.js" timestamp="1472445799401">
-        <mark key="'" line="4" column="48" />
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="34" />
-        <mark key="." line="8" column="34" />
-        <mark key="^" line="8" column="34" />
+      <file name="$USER_HOME$/Workspace/betogether.today/middleware/uploader.js" timestamp="1472439432305">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+        <mark key="^" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/website/main/views/index.py" timestamp="1471607505753">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="38" column="40" />
-        <mark key="]" line="38" column="41" />
-        <mark key="." line="38" column="41" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/build/dev-server.js" timestamp="1472705239575">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="64" column="5" />
+        <mark key="]" line="66" column="20" />
+        <mark key="^" line="66" column="20" />
+        <mark key="." line="66" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Login.vue" timestamp="1472625674723">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="49" column="37" />
+        <mark key="]" line="49" column="37" />
+        <mark key="." line="49" column="37" />
+        <mark key="^" line="49" column="45" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/components/Hello.vue" timestamp="1472529833464">
+        <mark key="'" line="2" column="9" />
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="36" column="16" />
+        <mark key="." line="27" column="36" />
+        <mark key="^" line="34" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/input_dialog.html" timestamp="1472102665107">
         <mark key="[" line="1" column="0" />
@@ -151,286 +283,176 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/app.js" timestamp="1472445251112">
-        <mark key="'" line="23" column="71" />
-        <mark key="[" line="32" column="20" />
-        <mark key="]" line="32" column="45" />
-        <mark key="." line="32" column="45" />
-        <mark key="^" line="32" column="45" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/store/store.js" timestamp="1472658981756">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+        <mark key="^" line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/model/milestone.js" timestamp="1472439793574">
-        <mark key="'" line="5" column="36" />
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="31" />
-        <mark key="^" line="9" column="66" />
-        <mark key="." line="10" column="31" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/api/api.js" timestamp="1472441705091">
-        <mark key="[" line="22" column="92" />
-        <mark key="]" line="22" column="95" />
-        <mark key="." line="22" column="95" />
-        <mark key="^" line="22" column="95" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/build/webpack.dev.conf.js" timestamp="1472446148184">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="17" />
-        <mark key="." line="29" column="17" />
-        <mark key="^" line="30" column="43" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/api/milestone.js" timestamp="1472441226275">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/config/index.js" timestamp="1472446068931">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Autress/fabfile.py" timestamp="1472124056696">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/main.js" timestamp="1472477357663">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="30" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/website/index.html" timestamp="1472442791402">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1472478041281">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/model/db.js" timestamp="1472409864764">
-        <mark key="[" line="6" column="42" />
-        <mark key="]" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-        <mark key="^" line="8" column="19" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Autress/uwsgi.ini" timestamp="1472184456110">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/config.js" timestamp="1472445218325">
-        <mark key="[" line="26" column="57" />
-        <mark key="]" line="26" column="57" />
-        <mark key="." line="26" column="57" />
-        <mark key="^" line="26" column="57" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/model/base.js" timestamp="1472409812485">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="6" column="42" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/api/recording.js" timestamp="1472441246137">
-        <mark key="'" line="76" column="0" />
-        <mark key="j" line="0" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="25" column="87" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/middleware/uploader.js" timestamp="1472439432305">
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="13" />
-        <mark key="." line="22" column="13" />
-        <mark key="^" line="22" column="13" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/build/dev-server.js" timestamp="1472444664561">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="64" column="5" />
-        <mark key="]" line="66" column="20" />
-        <mark key="^" line="66" column="20" />
-        <mark key="." line="66" column="20" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/components/Hello.vue" timestamp="1472477895536">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="36" column="16" />
-        <mark key="]" line="36" column="16" />
-        <mark key="." line="36" column="16" />
-        <mark key="^" line="34" column="16" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/router_map.js" timestamp="1472705035335">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="19" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="4" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/flask/helpers.py" />
-      <jump line="214" column="4" filename="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/flask/helpers.py" />
-      <jump line="928" column="4" filename="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/flask/helpers.py" />
-      <jump line="213" column="27" filename="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/flask/helpers.py" />
-      <jump line="218" column="44" filename="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/flask/helpers.py" />
-      <jump line="231" column="14" filename="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/flask/helpers.py" />
-      <jump line="237" column="59" filename="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/flask/helpers.py" />
-      <jump line="192" column="4" filename="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/flask/helpers.py" />
-      <jump line="203" column="8" filename="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/flask/helpers.py" />
-      <jump line="208" column="65" filename="$USER_HOME$/Workspace/Autress/venv/lib/python3.5/site-packages/flask/helpers.py" />
-      <jump line="14" column="34" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
-      <jump line="64" column="21" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
-      <jump line="101" column="0" filename="$USER_HOME$/Workspace/Autress/app/config.py" />
-      <jump line="129" column="38" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
-      <jump line="155" column="4" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
-      <jump line="8" column="18" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
-      <jump line="136" column="29" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
-      <jump line="161" column="4" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
-      <jump line="9" column="35" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
-      <jump line="146" column="0" filename="$USER_HOME$/Workspace/Autress/app/models/order.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Autress/version.py" />
-      <jump line="20" column="4" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
-      <jump line="18" column="12" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
-      <jump line="21" column="49" filename="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" />
-      <jump line="73" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" />
-      <jump line="82" column="43" filename="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" />
-      <jump line="8" column="16" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
-      <jump line="13" column="21" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
-      <jump line="47" column="16" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
-      <jump line="70" column="16" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
-      <jump line="36" column="35" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
-      <jump line="25" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
-      <jump line="57" column="33" filename="$USER_HOME$/Workspace/Autress/app/templates/base.html" />
-      <jump line="90" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/base.html" />
-      <jump line="85" column="24" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
-      <jump line="82" column="61" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
-      <jump line="92" column="24" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
-      <jump line="89" column="20" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
-      <jump line="113" column="0" filename="$USER_HOME$/Workspace/Autress/app/templates/main/components/area_selector.html" />
-      <jump line="37" column="7" filename="$USER_HOME$/Workspace/test/area_selector.html" />
-      <jump line="114" column="0" filename="$USER_HOME$/Workspace/test/area_selector.html" />
-      <jump line="11" column="4" filename="$USER_HOME$/Workspace/test/area_selector.html" />
-      <jump line="32" column="4" filename="$USER_HOME$/Workspace/test/area_selector.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/test/area_selector.html" />
-      <jump line="106" column="12" filename="$USER_HOME$/Workspace/test/area_selector.html" />
-      <jump line="115" column="0" filename="$USER_HOME$/Workspace/test/area_selector.html" />
-      <jump line="117" column="0" filename="$USER_HOME$/Workspace/test/area_selector.html" />
-      <jump line="103" column="12" filename="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" />
-      <jump line="104" column="8" filename="$USER_HOME$/Workspace/Autress/app/templates/main/client-register.html" />
-      <jump line="4" column="0" filename="$USER_HOME$/Workspace/betogether.today/model/model.js" />
-      <jump line="5" column="36" filename="$USER_HOME$/Workspace/betogether.today/model/milestone.js" />
-      <jump line="38" column="16" filename="$USER_HOME$/Workspace/betogether.today/app.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/Workspace/betogether.today/app.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/betogether.today/app.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/Workspace/betogether.today/app.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/Workspace/betogether.today/api/milestone.js" />
-      <jump line="66" column="0" filename="$USER_HOME$/Workspace/betogether.today/api/milestone.js" />
-      <jump line="54" column="4" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="60" column="12" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="67" column="0" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="10" column="13" filename="$USER_HOME$/Workspace/betogether.today/model/recording.js" />
-      <jump line="13" column="11" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="16" column="25" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="17" column="26" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="32" column="17" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="38" column="23" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="40" column="2" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="22" column="23" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="56" column="0" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="16" column="26" filename="$USER_HOME$/Workspace/betogether.today/api/auth.js" />
-      <jump line="45" column="8" filename="$USER_HOME$/Workspace/betogether.today/api/auth.js" />
-      <jump line="58" column="0" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="12" column="32" filename="$USER_HOME$/Workspace/betogether.today/app.js" />
-      <jump line="12" column="3" filename="$USER_HOME$/Workspace/betogether.today/bin/run.js" />
-      <jump line="11" column="3" filename="$USER_HOME$/Workspace/betogether.today/bin/init.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/Workspace/betogether.today/app.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="71" column="0" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="49" column="15" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="11" column="50" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="53" column="27" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="78" column="0" filename="$USER_HOME$/Workspace/betogether.today/api/recording.js" />
-      <jump line="22" column="71" filename="$USER_HOME$/Workspace/betogether.today/app.js" />
-      <jump line="35" column="4" filename="$USER_HOME$/Workspace/betogether.today/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/betogether.today/package.json" />
-      <jump line="1" column="0" filename="$USER_HOME$/Workspace/betogether.today/package.json" />
-      <jump line="53" column="24" filename="$USER_HOME$/Workspace/betogether.today/package.json" />
-      <jump line="72" column="0" filename="$USER_HOME$/Workspace/betogether.today/package.json" />
-      <jump line="58" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/build/dev-server.js" />
-      <jump line="57" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/build/dev-server.js" />
-      <jump line="3" column="48" filename="$USER_HOME$/Workspace/betogether.today/client/build/webpack.base.conf.js" />
-      <jump line="0" column="1" filename="$USER_HOME$/Workspace/betogether.today/client/index.html" />
-      <jump line="3" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/components/Hello.vue" />
+      <jump line="12" column="17" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="2" column="9" filename="$USER_HOME$/Workspace/betogether.today/client/src/components/Hello.vue" />
+      <jump line="17" column="18" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="20" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="32" column="3" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="63" column="13" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="77" column="18" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="81" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="18" column="2" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="16" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/router.js" />
+      <jump line="2" column="13" filename="$USER_HOME$/Workspace/betogether.today/client/src/main.js" />
+      <jump line="18" column="28" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Login.vue" />
+      <jump line="29" column="4" filename="$USER_HOME$/Workspace/betogether.today/package.json" />
+      <jump line="31" column="7" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Login.vue" />
+      <jump line="44" column="18" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Login.vue" />
+      <jump line="61" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Login.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="16" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Milestone.vue" />
+      <jump line="38" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Milestone.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Milestone.vue" />
+      <jump line="24" column="32" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="23" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="12" column="19" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="63" column="6" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="27" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="78" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="22" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="18" column="8" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="82" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="33" column="2" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="18" column="84" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="5" column="76" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="71" column="4" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="3" column="61" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="25" column="6" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="36" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="11" column="38" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="90" column="5" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="1" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="65" column="22" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="125" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="8" column="2" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="28" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="36" column="6" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="122" column="14" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="146" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="147" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="60" column="3" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="5" column="11" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="4" column="11" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="3" column="13" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="2" column="14" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="85" column="28" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="103" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="21" column="43" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="1" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="19" column="44" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="31" column="32" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="132" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="104" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="13" column="24" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="116" column="32" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="139" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="10" column="35" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="37" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Milestone.vue" />
+      <jump line="5" column="76" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/MilestoneCreate.vue" />
+      <jump line="46" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="9" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="134" column="42" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="0" column="3" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="27" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="125" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="175" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="39" column="18" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Milestone.vue" />
+      <jump line="101" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="126" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="5" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="153" column="20" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="156" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="10" column="32" filename="$USER_HOME$/Workspace/betogether.today/bin/run.js" />
+      <jump line="0" column="2" filename="$USER_HOME$/Workspace/betogether.today/config.js" />
+      <jump line="15" column="32" filename="$USER_HOME$/Workspace/betogether.today/bin/run.js" />
+      <jump line="137" column="18" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="11" column="0" filename="$USER_HOME$/Workspace/betogether.today/bin/backup.js" />
+      <jump line="15" column="2" filename="$USER_HOME$/Workspace/betogether.today/bin/backup.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Workspace/betogether.today/bin/backup.js" />
+      <jump line="8" column="47" filename="$USER_HOME$/Workspace/betogether.today/bin/backup.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/Workspace/betogether.today/bin/backup.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/Workspace/betogether.today/bin/backup.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/Workspace/betogether.today/bin/backup.js" />
+      <jump line="2" column="26" filename="$USER_HOME$/Workspace/betogether.today/model/user.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/betogether.today/model/user.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Workspace/betogether.today/api/milestone.js" />
+      <jump line="118" column="8" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="14" column="28" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
+      <jump line="124" column="12" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="180" column="10" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="182" column="57" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="76" column="4" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="178" column="16" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>auto</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>auto</text>
       </register>
       <register name="/" type="4">
-        <text>dist</text>
+        <text>data</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9InN0YXRpYy9jc3MvIgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">Y29uZi5sYXN0X2JhY2t1cF9mYWlsZWQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICdtaW50LXVpL2xpYi9zdHlsZS5jc3MnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VnVlLnVzZShNaW50KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgVG9hc3QoewogICAgICAgIG1lc3NhZ2U6ICfmj5DnpLonLAogICAgICAgIHBvc2l0aW9uOiAnYm90dG9tJywKICAgICAgICBkdXJhdGlvbjogNTAwMAogICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzCg==</text>
+        <text encoding="base64">ICAgICJ1c2Ugc3RyaWN0IjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZXhwb3J0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmlmICghY29uZmlnLmRlYnVnKXsKICAgIGFwcC51c2UoJy8nLCBleHByZXNzLnN0YXRpYyhjb25maWcud2Vic2l0ZV9yb290LCB7bWF4QWdlOiBjb25maWcubWF4X2FnZX0pKTsKfSBlbHNlIHsKICAgIGFwcC51c2UocmVxdWlyZSgnLi9jbGllbnQvYnVpbGQvZGV2LXNlcnZlcicpKTsKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dist</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>dist</last-pattern>
-      <last-replace>query</last-replace>
-      <last-substitute>user.id</last-substitute>
+      <last-pattern>data</last-pattern>
+      <last-replace />
+      <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\$key</entry>
-        <entry>cities</entry>
-        <entry>:</entry>
-        <entry>=</entry>
-        <entry>prov</entry>
-        <entry>has</entry>
-        <entry encoding="base64">PCU=</entry>
-        <entry encoding="base64">JT4=</entry>
-        <entry>include</entry>
-        <entry>inclu</entry>
-        <entry>Milestone</entry>
         <entry>milestone</entry>
         <entry>date</entry>
         <entry>page</entry>
@@ -440,15 +462,19 @@
         <entry>user.id</entry>
         <entry>static</entry>
         <entry>dist</entry>
+        <entry>prodcution</entry>
+        <entry>vue</entry>
+        <entry>build</entry>
+        <entry encoding="base64">IA==</entry>
+        <entry>v-link</entry>
+        <entry>image</entry>
+        <entry encoding="base64">XDx3YXBwZXJcPg==</entry>
+        <entry encoding="base64">XDxzY3JvbGxcPg==</entry>
+        <entry>input</entry>
+        <entry>img</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
-        <entry>wp</entry>
-        <entry encoding="base64">JzwsJz5zL3t7Lzwl</entry>
-        <entry encoding="base64">JzwsJz5zL319LyU+</entry>
-        <entry encoding="base64">JzwsJz5zL1wka2V5L3Byb3Y=</entry>
-        <entry encoding="base64">JzwsJz5zL1wka2V5L2NpdHk=</entry>
-        <entry encoding="base64">JzwsJz5zL2NpdGllcy9kaXN0cmljdHMvZw==</entry>
-        <entry encoding="base64">JzwsJz5zLzovPQ==</entry>
         <entry encoding="base64">JzwsJz5zLz0vOg==</entry>
         <entry encoding="base64">JzwsJz5zL3Byb3YvY2l0eQ==</entry>
         <entry encoding="base64">JzwsJz5zL3Byb3YvY2l0eS9n</entry>
@@ -461,6 +487,13 @@
         <entry encoding="base64">JzwsJz5zL21pbGVzdG9uZS9yZWNvcmRpbmc=</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGUvY29udGVudC9n</entry>
         <entry encoding="base64">JzwsJz5zL2FyZ3MvcXVlcnk=</entry>
+        <entry encoding="base64">JzwsJz5zL3Byb2RjdXRpb24vcHJvZHVjdGlvbg==</entry>
+        <entry encoding="base64">JzwsJz5zL3Byb2RjdXRpb24vcHJvZHVjdGlvbi9n</entry>
+        <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
+        <entry>wp</entry>
+        <entry>wn</entry>
+        <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
