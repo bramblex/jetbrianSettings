@@ -16,7 +16,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/app.js" timestamp="1472783778348">
+      <file name="$USER_HOME$/Workspace/betogether.today/app.js" timestamp="1472866404052">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="30" column="43" />
         <mark key="]" line="30" column="52" />
@@ -73,12 +73,12 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" timestamp="1472782782463">
-        <mark key="'" line="159" column="16" />
-        <mark key="[" line="80" column="12" />
-        <mark key="]" line="80" column="36" />
-        <mark key="." line="80" column="36" />
-        <mark key="^" line="80" column="36" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" timestamp="1472866761567">
+        <mark key="'" line="179" column="0" />
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/package.json" timestamp="1472743586566">
         <mark key="'" line="30" column="4" />
@@ -184,8 +184,8 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" timestamp="1472705010800">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" timestamp="1472866460636">
+        <mark key="'" line="45" column="0" />
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="19" />
@@ -289,7 +289,7 @@
         <mark key="." line="15" column="14" />
         <mark key="^" line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/router_map.js" timestamp="1472705035335">
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/router_map.js" timestamp="1472866486968">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="19" column="29" />
         <mark key="." line="19" column="29" />
@@ -297,10 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="17" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
-      <jump line="2" column="9" filename="$USER_HOME$/Workspace/betogether.today/client/src/components/Hello.vue" />
-      <jump line="17" column="18" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
-      <jump line="20" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
       <jump line="32" column="3" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
       <jump line="63" column="13" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
       <jump line="77" column="18" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
@@ -397,13 +393,17 @@
       <jump line="182" column="57" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
       <jump line="76" column="4" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
       <jump line="178" column="16" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="26" column="6" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="45" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
+      <jump line="44" column="2" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="179" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>auto</text>
+        <text>新建日记</text>
       </register>
       <register name="-" type="4">
-        <text>auto</text>
+        <text>新建日记</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
