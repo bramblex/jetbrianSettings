@@ -269,6 +269,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/JsonpProxy/app.js" timestamp="1473171059892">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" timestamp="1472993871074">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="34" />
@@ -411,8 +416,8 @@
       <jump line="179" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>啊当时发生地方</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>啊当时发生地方</text>
@@ -423,37 +428,37 @@
       <register name="0" type="4">
         <text encoding="base64">Y29uZi5sYXN0X2JhY2t1cF9mYWlsZWQg</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">dXJsLnBhcnNlCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>{
             cwd: '~/betogether.today/'
         }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzaGlwaXQuCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0OiB7CiAgICAgICAgICAgIHdvcmtzcGFjZTogJ34vYmV0b2dldGhlci50b2RheScKICAgICAgICB9Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaGlwaXQK</text>
+        <text encoding="base64">ICAgICAgICBzaGlwaXQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzaGlwaXQuCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0OiB7CiAgICAgICAgICAgIHdvcmtzcGFjZTogJ34vYmV0b2dldGhlci50b2RheScKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaGlwaXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBvc2U6IGZ1bmN0aW9uIGNvbXBvc2Uoam9iX2xpc3QsIGNhbGxiYWNrKXsKCiAgICB9LAogICAgc3luYzogZnVuY3Rpb24gc3luYyhzeW5jX2Z1bmMpewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzaGlwaXQuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8g5a6a5LmJ5LiA5Liq5Ye95pWwIHN5bmMg5bCB6KOF5LiA5Liq5ZCM5q2l5Ye95pWw6Z2Z5aaC5byC5q2l6Zif5YiX44CCCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8g5bCG5LiA5Liq5byC5q2l6Zif5YiX57uE5ZCI5oiQ5LiA5Liq5Y+v5Lul5omn6KGM55qE5byC5q2l5Ye95pWwCg==</text>
+        <text encoding="base64">ICAgIGNvbXBvc2U6IGZ1bmN0aW9uIGNvbXBvc2Uoam9iX2xpc3QsIGNhbGxiYWNrKXsKCiAgICB9LAogICAgc3luYzogZnVuY3Rpb24gc3luYyhzeW5jX2Z1bmMpewogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -506,9 +511,9 @@
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
         <entry>wp</entry>
         <entry>wn</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
