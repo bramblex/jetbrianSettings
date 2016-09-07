@@ -237,11 +237,12 @@
       <file name="/Dummy.txt" timestamp="1472745711841">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/sg/index.html" timestamp="1473227096422">
-        <mark key="[" line="21" column="48" />
-        <mark key="]" line="21" column="48" />
-        <mark key="." line="21" column="48" />
-        <mark key="^" line="21" column="48" />
+      <file name="$USER_HOME$/Workspace/sg/index.html" timestamp="1473244724392">
+        <mark key="'" line="95" column="16" />
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="36" />
+        <mark key="^" line="13" column="36" />
+        <mark key="." line="13" column="36" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/router.js" timestamp="1472540477776">
         <mark key="'" line="3" column="0" />
@@ -320,8 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="3" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
-      <jump line="63" column="13" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
       <jump line="77" column="18" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
       <jump line="81" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
       <jump line="18" column="2" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
@@ -420,46 +419,48 @@
       <jump line="45" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
       <jump line="44" column="2" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
       <jump line="179" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
+      <jump line="4" column="6" filename="$USER_HOME$/Workspace/sg/index.html" />
+      <jump line="31" column="16" filename="$USER_HOME$/Workspace/sg/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y29uZi5sYXN0X2JhY2t1cF9mYWlsZWQg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nOiAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGEgewogICAgICAgIGNvbG9yOiBub3IKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkb2N1bWVudC5oZWFkLmFwcGVuZENoaWxkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIDxkaXY+CiAgICAgICAgPGEgaHJlZj0iaHR0cDovL3d3dy5odW9kb25neGluZy5jb20vcGVvcGxlLzM5MzE0MDY0Mjg5NjQ/dHlwZT1wdWIiPiDmn6XnnIvmm7TlpJogPC9hPgogICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHt7IG1zZyB9fQo=</text>
+        <text encoding="base64">ICAgICNtZWV0aW5ncy1jb250ZW50ewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnOiAnaGVsbG8nCg==</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nOiAyZW0gMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nOiAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
