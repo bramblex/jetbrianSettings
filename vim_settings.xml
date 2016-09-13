@@ -60,7 +60,6 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/index.html" timestamp="1473738583128" />
       <file name="$USER_HOME$/Workspace/betogether.today/model/model.js" timestamp="1472742072701">
         <mark key="[" line="13" column="46" />
         <mark key="]" line="13" column="53" />
@@ -133,6 +132,7 @@
       <file name="$USER_HOME$/Workspace/betogether.today/bin/backup.js" timestamp="1472995995592">
         <mark key="'" line="77" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/build/build.js" timestamp="1473756323105" />
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/components/Foo.vue" timestamp="1472529993455">
         <mark key="[" line="20" column="14" />
         <mark key="]" line="20" column="16" />
