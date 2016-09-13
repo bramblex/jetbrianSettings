@@ -60,6 +60,7 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/index.html" timestamp="1473738583128" />
       <file name="$USER_HOME$/Workspace/betogether.today/model/model.js" timestamp="1472742072701">
         <mark key="[" line="13" column="46" />
         <mark key="]" line="13" column="53" />
@@ -196,7 +197,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/store/actions.js" timestamp="1472658968963">
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/store/actions.js" timestamp="1473738733027">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="14" />
         <mark key="^" line="9" column="14" />
@@ -221,7 +222,7 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/main.js" timestamp="1472570081621">
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/main.js" timestamp="1473738640539">
         <mark key="'" line="4" column="13" />
         <mark key="[" line="13" column="13" />
         <mark key="]" line="14" column="11" />
@@ -308,13 +309,13 @@
         <mark key="." line="27" column="36" />
         <mark key="^" line="34" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/store/store.js" timestamp="1472658981756">
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/store/store.js" timestamp="1473738702164">
         <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="14" />
         <mark key="." line="15" column="14" />
         <mark key="^" line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/router_map.js" timestamp="1472866486968">
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/router_map.js" timestamp="1473738480759">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="19" column="29" />
         <mark key="." line="19" column="29" />
