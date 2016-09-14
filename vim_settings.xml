@@ -157,10 +157,10 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Login.vue" timestamp="1473835708139">
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Login.vue" timestamp="1473836828724">
         <mark key="'" line="60" column="0" />
-        <mark key="[" line="49" column="37" />
-        <mark key="]" line="49" column="37" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="29" column="39" />
         <mark key="." line="49" column="37" />
         <mark key="^" line="49" column="45" />
       </file>
@@ -424,7 +424,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">VnVlLnVzZShWdWVSZXNvdXJjZSkKVnVlLnVzZShWdWVSb3V0ZXIpClZ1ZS51c2UoVnVleCkK</text>
+        <text encoding="base64">ICBpbXBvcnQgYWN0aW9ucyBmcm9tICcuLi9zdG9yZS9hY3Rpb25zJwogIGltcG9ydCBnZXR0ZXJzIGZyb20gJy4uL3N0b3JlL2dldHRlcnMnCg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -433,7 +433,7 @@
         <text>data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VnVlLnVzZShWdWVSZXNvdXJjZSkKVnVlLnVzZShWdWVSb3V0ZXIpClZ1ZS51c2UoVnVleCkK</text>
+        <text encoding="base64">ICBpbXBvcnQgYWN0aW9ucyBmcm9tICcuLi9zdG9yZS9hY3Rpb25zJwogIGltcG9ydCBnZXR0ZXJzIGZyb20gJy4uL3N0b3JlL2dldHRlcnMnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">VnVlLnVzZShWdWVSZXNvdXJjZSkK</text>
