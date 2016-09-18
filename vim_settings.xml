@@ -22,6 +22,13 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="15" column="20" />
       </file>
+      <file name="$USER_HOME$/Workspace/ProjectTemplate/app/vux-client/src/main.js" timestamp="1474168348837">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="24" column="23" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" timestamp="1472866761567">
         <mark key="'" line="179" column="0" />
         <mark key="[" line="4" column="26" />
@@ -135,7 +142,6 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/build/build.js" timestamp="1473756323105" />
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/components/Foo.vue" timestamp="1472529993455">
         <mark key="[" line="20" column="14" />
         <mark key="]" line="20" column="16" />
@@ -175,10 +181,10 @@
         <mark key="." line="49" column="37" />
         <mark key="^" line="49" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/main.js" timestamp="1473835397475">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
+      <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/main.js" timestamp="1474167789848">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="24" column="26" />
         <mark key="^" line="24" column="25" />
         <mark key="." line="25" column="0" />
       </file>
@@ -232,6 +238,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/ProjectTemplate/app/vux-client/src/router_map.js" timestamp="1474167439406">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="46" />
+        <mark key="^" line="5" column="46" />
+        <mark key="." line="5" column="46" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/build/webpack.dev.conf.js" timestamp="1472446148184">
         <mark key="[" line="29" column="17" />
@@ -299,6 +311,12 @@
         <mark key="]" line="7" column="80" />
         <mark key="." line="7" column="80" />
         <mark key="^" line="7" column="80" />
+      </file>
+      <file name="$USER_HOME$/Workspace/ProjectTemplate/app/vux-client/index.html" timestamp="1474168108387">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+        <mark key="^" line="8" column="3" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/router.js" timestamp="1472540477776">
         <mark key="'" line="3" column="0" />
@@ -398,8 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
-      <jump line="65" column="22" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
       <jump line="125" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
       <jump line="8" column="2" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
       <jump line="28" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
@@ -498,48 +514,77 @@
       <jump line="29" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/components/VuexDemo.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/components/VuexDemo.vue" />
       <jump line="9" column="19" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/router_map.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/main.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/vux-client/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOVU1CRVJfREVDUkVBU0VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4kaHR0cC5nZXQoJy8nKS50aGVuKChyZXMpPT57CiAgICAgIH0pOwo=</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZVJlc291cmNlIGZyb20gJ3Z1ZS1yZXNvdXJjZScKaW1wb3J0IFZ1ZVJvdXRlciBmcm9tICd2dWUtcm91dGVyJwppbXBvcnQgVnVleCBmcm9tICd2dWV4JwoKVnVlLnVzZShWdWVSZXNvdXJjZSkKVnVlLnVzZShWdWVSb3V0ZXIpClZ1ZS51c2UoVnVleCkKCmltcG9ydCBWdWUgZnJvbSAndnVlJwppbXBvcnQgQXBwIGZyb20gJy4vQXBwJwoKaW1wb3J0IHJvdXRlcl9tYXAgZnJvbSAnLi9yb3V0ZXJfbWFwJwoKY29uc3Qgcm91dGVyID0gbmV3IFZ1ZVJvdXRlcigpCnJvdXRlci5tYXAocm91dGVyX21hcCkKCmltcG9ydCBzdG9yZSBmcm9tICcuL3N0b3JlL3N0b3JlJwoKY29uc3QgbWFpbiA9IFZ1ZS5leHRlbmQoewogIGNvbXBvbmVudHM6IHsgQXBwIH0sCiAgc3RvcmU6IG5ldyBWdWV4LlN0b3JlKHN0b3JlKSwKfSkKCnJvdXRlci5zdGFydChtYWluLCAnaHRtbCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBub3RlOiBjaGFuZ2luZyB0aGlzIGxpbmUgd29uJ3QgY2F1c2VzIGNoYW5nZXMKICAgICAgICAvLyB3aXRoIGhvdC1yZWxvYWQgYmVjYXVzZSB0aGUgcmVsb2FkZWQgY29tcG9uZW50CiAgICAgICAgLy8gcHJlc2VydmVzIGl0cyBjdXJyZW50IHN0YXRlIGFuZCB3ZSBhcmUgbW9kaWZ5aW5nCiAgICAgICAgLy8gaXRzIGluaXRpYWwgc3RhdGUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4kaHR0cC5nZXQoJy8nKS50aGVuKCgpPT57Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IFZ1ZSBmcm9tICd2dWUnCi8vIGltcG9ydCBWdWVSZXNvdXJjZSBmcm9tICd2dWUtcmVzb3VyY2UnCi8vIGltcG9ydCBWdWVSb3V0ZXIgZnJvbSAndnVlLXJvdXRlcicKLy8gaW1wb3J0IFZ1ZXggZnJvbSAndnVleCcKLy8KLy8gY29uc3QgRmFzdENsaWNrID0gcmVxdWlyZSgnZmFzdGNsaWNrJykKLy8gRmFzdENsaWNrLmF0dGFjaChkb2N1bWVudC5ib2R5KQovLwovLyBWdWUudXNlKFZ1ZVJvdXRlcikKLy8gVnVlLnVzZShWdWV4KQovLwovLyBjb25zdCByb3V0ZXIgPSBuZXcgVnVlUm91dGVyKCkKLy8KLy8gaW1wb3J0IHJvdXRlcl9tYXAgZnJvbSAnLi9yb3V0ZXJfbWFwJwovLyByb3V0ZXIubWFwKHJvdXRlcl9tYXApCi8vCi8vIGltcG9ydCBBcHAgZnJvbSAnLi9BcHAnCi8vIGltcG9ydCBzdG9yZSBmcm9tICcuL3N0b3JlL3N0b3JlJwovLwovLyBjb25zdCBtYWluID0gVnVlLmV4dGVuZCh7Ci8vICAgY29tcG9uZW50czogeyBBcHAgfSwKLy8gICBzdG9yZTogbmV3IFZ1ZXguU3RvcmUoc3RvcmUpLAovLyB9KQovLwovLyByb3V0ZXIuc3RhcnQobWFpbiwgJyNhcHAnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMubXNnID0gcmVzLmJvZHk7Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgaWQ9ImFwcCI+PC9kaXY+Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMubXNnID0gcmVzLmJvZHk7Cg==</text>
+      <register name="6" type="4">
+        <text>// import store from './store/store'
+//
+// const main = Vue.extend({
+//   components: { App },
+//   store: new Vuex.Store(store)
+// })</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="7" type="4">
+        <text>import Vue from 'vue'
+import VueResource from 'vue-resource'
+import VueRouter from 'vue-router'
+import Vuex from 'vuex'
+
+const FastClick = require('fastclick')
+FastClick.attach(document.body)
+
+Vue.use(VueRouter)
+Vue.use(Vuex)
+
+const router = new VueRouter()
+
+import router_map from './router_map'
+router.map(router_map)
+
+import App from './App'
+import store from './store/store'
+
+const main = Vue.extend({
+  components: { App },
+  store: new Vuex.Store(store),
+})
+
+router.start(main, '#app')</text>
       </register>
-      <register name="8" type="4">
-        <text>function(res){
-          
-      })</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IEFwcCBmcm9tICcuL0FwcCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICd2dWUnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
