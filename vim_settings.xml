@@ -368,6 +368,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/ProjectTemplate/app/vux-client/build/webpack.base.conf.js" timestamp="1474168650139">
+        <mark key="'" line="4" column="25" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" timestamp="1473662274880">
         <mark key="'" line="176" column="0" />
         <mark key="[" line="9" column="28" />
@@ -416,9 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
-      <jump line="8" column="2" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
-      <jump line="28" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
       <jump line="36" column="6" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
       <jump line="122" column="14" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
       <jump line="146" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
@@ -516,6 +516,9 @@
       <jump line="9" column="19" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/router_map.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/main.js" />
       <jump line="33" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/vux-client/src/main.js" />
+      <jump line="38" column="8" filename="$USER_HOME$/Workspace/ProjectTemplate/app/vux-client/build/webpack.base.conf.js" />
+      <jump line="33" column="6" filename="$USER_HOME$/Workspace/ProjectTemplate/app/vux-client/build/webpack.base.conf.js" />
+      <jump line="4" column="25" filename="$USER_HOME$/Workspace/ProjectTemplate/app/vux-client/build/webpack.base.conf.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -525,7 +528,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOVU1CRVJfREVDUkVBU0VcPg==</text>
+        <text>vux</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IFZ1ZVJlc291cmNlIGZyb20gJ3Z1ZS1yZXNvdXJjZScKaW1wb3J0IFZ1ZVJvdXRlciBmcm9tICd2dWUtcm91dGVyJwppbXBvcnQgVnVleCBmcm9tICd2dWV4JwoKVnVlLnVzZShWdWVSZXNvdXJjZSkKVnVlLnVzZShWdWVSb3V0ZXIpClZ1ZS51c2UoVnVleCkKCmltcG9ydCBWdWUgZnJvbSAndnVlJwppbXBvcnQgQXBwIGZyb20gJy4vQXBwJwoKaW1wb3J0IHJvdXRlcl9tYXAgZnJvbSAnLi9yb3V0ZXJfbWFwJwoKY29uc3Qgcm91dGVyID0gbmV3IFZ1ZVJvdXRlcigpCnJvdXRlci5tYXAocm91dGVyX21hcCkKCmltcG9ydCBzdG9yZSBmcm9tICcuL3N0b3JlL3N0b3JlJwoKY29uc3QgbWFpbiA9IFZ1ZS5leHRlbmQoewogIGNvbXBvbmVudHM6IHsgQXBwIH0sCiAgc3RvcmU6IG5ldyBWdWV4LlN0b3JlKHN0b3JlKSwKfSkKCnJvdXRlci5zdGFydChtYWluLCAnaHRtbCcpCg==</text>
@@ -591,17 +594,16 @@ router.start(main, '#app')</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOVU1CRVJfREVDUkVBU0VcPg==</last-search>
+      <last-search>vux</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOVU1CRVJfREVDUkVBU0VcPg==</last-pattern>
+      <last-pattern>vux</last-pattern>
       <last-replace>\/span</last-replace>
       <last-substitute>\/a</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>args</entry>
         <entry>Date</entry>
         <entry encoding="base64">c2Vzc2lvbi51c2VyIA==</entry>
         <entry>user.id</entry>
@@ -621,6 +623,7 @@ router.start(main, '#app')</text>
         <entry encoding="base64">PGE=</entry>
         <entry>\/a</entry>
         <entry encoding="base64">XDxOVU1CRVJfREVDUkVBU0VcPg==</entry>
+        <entry>vux</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Byb3YvY2l0eS9n</entry>
