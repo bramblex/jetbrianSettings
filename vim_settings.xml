@@ -375,12 +375,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" timestamp="1474731039120">
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" timestamp="1474732925842">
         <mark key="'" line="5" column="1" />
-        <mark key="[" line="13" column="3" />
-        <mark key="]" line="15" column="33" />
-        <mark key="." line="15" column="33" />
-        <mark key="^" line="9" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="6" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" timestamp="1473662274880">
         <mark key="'" line="176" column="0" />
@@ -532,13 +532,11 @@
       <jump line="5" column="1" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>users.get('/', function *() {
-  this.body = 'this is user'
-})</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOVU1CRVJfREVDUkVBU0VcPg==</text>
@@ -546,10 +544,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICB0aGlzLmJvZHkgPSAndGhpcyBpcyB1c2VyJwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>users.get('/', function *() {
-  this.body = 'this is user'
-})</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -560,8 +556,10 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dmFyIHJvdXRlciA9IHJlcXVpcmUoJ2tvYS1yb3V0ZXInKSgpOwoKcm91dGVyLmdldCgnLycsIGZ1bmN0aW9uICoobmV4dCkge3RoaXMuYm9keSA9ICdIZWxsbyBXb3JsZCEnfSk7Cg==</text>
+      <register name="5" type="4">
+        <text>users.get('/', function *() {
+  this.body = 'this is user'
+})</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -570,10 +568,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlcnMuZ2V0KCcvJywgZnVuY3Rpb24gKigpIHsKfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlcnMuaW5kZXgoZnVuY3Rpb24gKigpIHsKICB0aGlzLmJvZHkgPSAndGhpcyBpcyB1c2VyJwp9KQoK</text>
+        <text encoding="base64">dmFyIHJvdXRlciA9IHJlcXVpcmUoJ2tvYS1yb3V0ZXInKSgpOwoKcm91dGVyLmdldCgnLycsIGZ1bmN0aW9uICoobmV4dCkge3RoaXMuYm9keSA9ICdIZWxsbyBXb3JsZCEnfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
