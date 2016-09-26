@@ -82,11 +82,12 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/resource.js" timestamp="1474771171905">
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/resource.js" timestamp="1474900613256">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="35" />
+        <mark key="." line="26" column="51" />
+        <mark key="^" line="22" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/bin/run.js" timestamp="1472715356245">
         <mark key="'" line="15" column="32" />
@@ -100,6 +101,13 @@
         <mark key="]" line="5" column="100" />
         <mark key="." line="5" column="100" />
         <mark key="^" line="5" column="100" />
+      </file>
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/clients/index.js" timestamp="1474900737720">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/model/recording.js" timestamp="1472726929332">
         <mark key="'" line="11" column="13" />
@@ -213,7 +221,8 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/package.json" timestamp="1474727464533">
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/package.json" timestamp="1474900605263">
+        <mark key="'" line="16" column="5" />
         <mark key="[" line="13" column="5" />
         <mark key="]" line="13" column="14" />
       </file>
@@ -259,7 +268,7 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/package.json" timestamp="1474771173466">
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/package.json" timestamp="1474900603970">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="19" />
@@ -426,8 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="14" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
-      <jump line="85" column="28" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
       <jump line="103" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
       <jump line="21" column="43" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
       <jump line="1" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
@@ -526,28 +533,30 @@
       <jump line="16" column="65" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/query-parser.jison" />
       <jump line="10" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/clients/index.js" />
+      <jump line="16" column="5" filename="$USER_HOME$/Workspace/NodeProjectTemplate/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>'.'</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOVU1CRVJfREVDUkVBU0VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dGhpcy5uYW1lICsg</text>
+      <register name="0" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgYnJhbWJsZXMgb24gMTYvOS8yNC4KICovCiJ1c2Ugc3RyaWN0IjsKCmNvbnN0IFJvdXRlciA9IHJlcXVpcmUoJ2tvYS1yb3V0ZXInKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMubmFtZSA9IG5hbWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -556,21 +565,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubmFtZSA9IG5hbWU7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>users.get('/', function *() {
-  this.body = 'this is user'
-})</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wn</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -623,9 +630,9 @@
         <entry encoding="base64">JzwsJz5zLzxhLzxzcGFu</entry>
         <entry encoding="base64">JzwsJz5zL1wvYS9cL3NwYW4=</entry>
         <entry>q</entry>
-        <entry>w</entry>
-        <entry>wp</entry>
         <entry>wn</entry>
+        <entry>wp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
