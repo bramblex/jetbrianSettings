@@ -366,11 +366,11 @@
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/index.js" timestamp="1474905449508">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/index.js" timestamp="1474907657154">
+        <mark key="[" line="18" column="77" />
+        <mark key="]" line="18" column="87" />
+        <mark key="." line="18" column="87" />
+        <mark key="^" line="18" column="87" />
       </file>
       <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/components/NotFound.vue" timestamp="1473842130824">
         <mark key="'" line="0" column="0" />
@@ -587,11 +587,11 @@
       <jump line="13" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/config/production.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVudmlyb25tZW50ID0gZGVmYXVsdF9lbnZpcm9ubWVudAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>development</text>
       </register>
       <register name="/" type="4">
         <text>Development</text>
@@ -600,31 +600,31 @@
         <text>process.env.NODE_ENV</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gaWYgKGNvbmZpZ19saXN0LmluZGV4T2YoKSA+PSAwKQovLwo=</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50ID0gZGVmYXVsdF9lbnZpcm9ubWVudAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY29uZmlnX2xpc3QpCg==</text>
+        <text encoding="base64">ICAgIGNvbG9ycy55ZWxsb3cudW5kZXJsaW5lKCdXYXJuaW5nOiBOT0RFX0VOViBub3Qgc2V0LCB1c2luZyBkZXZlbG9wbWVudCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnX2ZpbGVfbmFtZSA9IGVudmlvcm1lbnQgKyAnLmNvbmZpZy5qcycK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5maWx0awo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb2xvcnMucmVkLnVuZGVybGluZSgnV2FybmluZzogTk9ERV9FTlYgJykK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
