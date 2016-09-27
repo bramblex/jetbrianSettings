@@ -326,6 +326,9 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/server/socket/index.js" timestamp="1474908778065">
+        <mark key="[" line="2" column="3" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/website/index.html" timestamp="1472442791402">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="9" />
@@ -411,12 +414,12 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" timestamp="1474905721772">
-        <mark key="'" line="20" column="65" />
-        <mark key="[" line="6" column="4" />
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" timestamp="1474911578838">
+        <mark key="'" line="25" column="65" />
+        <mark key="[" line="5" column="33" />
         <mark key="]" line="6" column="15" />
-        <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/main.json.js" timestamp="1474901574097">
         <mark key="[" line="0" column="0" />
@@ -587,11 +590,11 @@
       <jump line="13" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/config/production.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50ID0gZGVmYXVsdF9lbnZpcm9ubWVudAo=</text>
+      <register name="&quot;" type="4">
+        <text>server</text>
       </register>
       <register name="-" type="4">
-        <text>development</text>
+        <text>server</text>
       </register>
       <register name="/" type="4">
         <text>Development</text>
@@ -600,31 +603,31 @@
         <text>process.env.NODE_ENV</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50ID0gZGVmYXVsdF9lbnZpcm9ubWVudAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGUK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbG9ycy55ZWxsb3cudW5kZXJsaW5lKCdXYXJuaW5nOiBOT0RFX0VOViBub3Qgc2V0LCB1c2luZyBkZXZlbG9wbWVudCcpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW8ub24K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ywo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">LnRoZW4oKCk9PnsKICBjb25zb2xlLmxvZygnYWRmYXNkZicpOwp9KQ==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb2xvcnMucmVkLnVuZGVybGluZSgnV2FybmluZzogTk9ERV9FTlYgJykK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
