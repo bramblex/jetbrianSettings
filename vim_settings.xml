@@ -122,12 +122,12 @@
         <mark key="." line="26" column="51" />
         <mark key="^" line="22" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" timestamp="1474989126131">
-        <mark key="'" line="46" column="25" />
-        <mark key="[" line="23" column="40" />
-        <mark key="]" line="23" column="40" />
-        <mark key="." line="23" column="40" />
-        <mark key="^" line="23" column="40" />
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" timestamp="1474991055252">
+        <mark key="'" line="62" column="25" />
+        <mark key="[" line="52" column="76" />
+        <mark key="]" line="52" column="76" />
+        <mark key="." line="52" column="76" />
+        <mark key="^" line="52" column="76" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/bin/run.js" timestamp="1472715356245">
         <mark key="'" line="15" column="32" />
@@ -647,43 +647,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>read</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">eWllbGQg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB0aGlzLnJlc3BvbnNlLmJvZHkgPSB5aWVsZCAke3Jlc291cmNlfS51cGRhdGUodGhpcy5ib2R5LCB7aWQ6IHRoaXMucGFyYW1zLmlkfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9mZnNldAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB0aGlzLmJvZHkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAvLyBjb25zdCByZWNvcmQgPSB5aWVsZCAke3Jlc291cmNlfS5maW5kQnlJZCh0aGlzLnBhcmFtcy5pZCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zdCByZWNvcmQgPSB5aWVsZCAke3Jlc291cmNlfS5maW5kQnlJZCh0aGlzLnBhcmFtcy5pZCkKICB0aGlzLnJlc3BvbnNlLmJvZHkgPSB5aWVsZCByZWNvcmQudXBkYXRlKHRoaXMuYm9keSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHF1ZXJ5Lm9yZGVyCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHF1ZXJ5Lm9yZGVyCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8vIG1vZHVsZS5leHBvcnRzID0gKHF1ZXJ5LCBvcmRlciwgcGFnZSwgbGltaXQpID0+IHsKLy8gICBjb25zdCB3aGVyZSA9IHF1ZXJ5MndoZXJlKHF1ZXJ5UGFyc2VyLnBhcnNlKHF1ZXJ5KSkKLy8gICB3aGVyZVsnb3JkZXInXSA9IG9yZGVyCi8vICAgd2hlcmVbJ29mZnNldCddID0gKHBhZ2UgLSAxKSAqIGxpbWl0Ci8vICAgd2hlcmVbJ2xpbWl0J10gPSBsaW1pdAovLwovLyAgIHJldHVybiB3aGVyZQovLyB9Cg==</text>
+        <text encoding="base64">ICAgIHF1ZXJ5Lm9yZGVyID0gcmVxdWVzdF9xdWVyeS5vcmRlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9IGVsc2UgaWYgKHR5cGU9PT0pewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
