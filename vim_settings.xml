@@ -29,15 +29,16 @@
         <mark key="^" line="65" column="19" />
         <mark key="." line="65" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/where.js" timestamp="1474988113222">
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/where.js" timestamp="1474992249967">
+        <mark key="'" line="20" column="62" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="11" column="3" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="3" />
       </file>
       <file name="$USER_HOME$/.gitignore_global" timestamp="1474969919097" />
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/query-parser.jison" timestamp="1474986300245">
-        <mark key="'" line="17" column="30" />
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/query-parser.jison" timestamp="1474991213100">
+        <mark key="'" line="47" column="0" />
         <mark key="[" line="63" column="38" />
         <mark key="]" line="63" column="38" />
         <mark key="." line="63" column="38" />
@@ -115,18 +116,18 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/resource.js" timestamp="1474984392052">
-        <mark key="'" line="36" column="0" />
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/resource.js" timestamp="1474991212924">
+        <mark key="'" line="29" column="2" />
         <mark key="[" line="29" column="2" />
         <mark key="]" line="29" column="8" />
         <mark key="." line="26" column="51" />
         <mark key="^" line="22" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" timestamp="1474991055252">
-        <mark key="'" line="62" column="25" />
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" timestamp="1474991212743">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="52" column="76" />
         <mark key="]" line="52" column="76" />
-        <mark key="." line="52" column="76" />
+        <mark key="." line="0" column="3" />
         <mark key="^" line="52" column="76" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/bin/run.js" timestamp="1472715356245">
@@ -302,6 +303,9 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="11" column="26" />
       </file>
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/query-parser.js" timestamp="1474991213255">
+        <mark key="'" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/build/webpack.dev.conf.js" timestamp="1472446148184">
         <mark key="[" line="29" column="17" />
         <mark key="]" line="29" column="17" />
@@ -455,8 +459,8 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" timestamp="1474983756326">
-        <mark key="'" line="24" column="5" />
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" timestamp="1474991213719">
+        <mark key="'" line="15" column="0" />
         <mark key="[" line="12" column="44" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -544,12 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="6" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
-      <jump line="45" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
-      <jump line="44" column="2" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
-      <jump line="179" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
-      <jump line="4" column="6" filename="$USER_HOME$/Workspace/sg/index.html" />
-      <jump line="31" column="16" filename="$USER_HOME$/Workspace/sg/index.html" />
       <jump line="78" column="31" filename="$USER_HOME$/Workspace/sg/index.html" />
       <jump line="119" column="0" filename="$USER_HOME$/Workspace/sg/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/sg/index.html" />
@@ -644,6 +642,12 @@
       <jump line="16" column="25" filename="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" />
       <jump line="21" column="5" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
       <jump line="17" column="30" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/query-parser.jison" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" />
+      <jump line="29" column="2" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/resource.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/query-parser.jison" />
+      <jump line="3" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/query-parser.js" />
+      <jump line="20" column="62" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/where.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -686,7 +690,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wp</text>
       </register>
     </registers>
     <search>
@@ -738,10 +742,10 @@
         <entry encoding="base64">JzwsJz5zL0Rldi9EZXZlbG9wbWVudA==</entry>
         <entry encoding="base64">JzwsJz5zL0RldmVsb3BtZW50L1Rlc3QvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0RldmVsb3BtZW50L1Byb2R1Y3Rpb24vZw==</entry>
-        <entry>wn</entry>
-        <entry>wp</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wn</entry>
+        <entry>wp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
