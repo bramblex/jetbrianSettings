@@ -29,11 +29,11 @@
         <mark key="^" line="65" column="19" />
         <mark key="." line="65" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/where.js" timestamp="1474987142157">
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="21" column="52" />
-        <mark key="." line="21" column="28" />
-        <mark key="^" line="21" column="28" />
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/where.js" timestamp="1474988113222">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/.gitignore_global" timestamp="1474969919097" />
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/query-parser.jison" timestamp="1474986300245">
@@ -122,12 +122,12 @@
         <mark key="." line="26" column="51" />
         <mark key="^" line="22" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" timestamp="1474984399192">
-        <mark key="'" line="39" column="25" />
-        <mark key="[" line="29" column="14" />
-        <mark key="]" line="29" column="14" />
-        <mark key="." line="29" column="14" />
-        <mark key="^" line="12" column="23" />
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" timestamp="1474989126131">
+        <mark key="'" line="46" column="25" />
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="23" column="40" />
+        <mark key="." line="23" column="40" />
+        <mark key="^" line="23" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/bin/run.js" timestamp="1472715356245">
         <mark key="'" line="15" column="32" />
@@ -647,43 +647,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>queryParser.parse(query)</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>queryParser.parse(query)</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>read</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB3aGVyZVsnb2Zmc2V0J10gPSAK</text>
+      <register name="0" type="4">
+        <text encoding="base64">eWllbGQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgUiA9IHJlcXVpcmUoJ3JhbWRhJykK</text>
+        <text encoding="base64">ICAgIG9mZnNldAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCB3aGVyZSA9IHt9CiAgc3dpdGNoICh0eXBlKXsKICAgIGNhc2UgJycKICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjYXNlICh0eXBlKQo=</text>
+        <text encoding="base64">ICB0aGlzLmJvZHkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCB3aGVyZSA9IHt9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB3aGVyZQo=</text>
+        <text encoding="base64">Ci8vIG1vZHVsZS5leHBvcnRzID0gKHF1ZXJ5LCBvcmRlciwgcGFnZSwgbGltaXQpID0+IHsKLy8gICBjb25zdCB3aGVyZSA9IHF1ZXJ5MndoZXJlKHF1ZXJ5UGFyc2VyLnBhcnNlKHF1ZXJ5KSkKLy8gICB3aGVyZVsnb3JkZXInXSA9IG9yZGVyCi8vICAgd2hlcmVbJ29mZnNldCddID0gKHBhZ2UgLSAxKSAqIGxpbWl0Ci8vICAgd2hlcmVbJ2xpbWl0J10gPSBsaW1pdAovLwovLyAgIHJldHVybiB3aGVyZQovLyB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9IGVsc2UgaWYgKHR5cGU9PT0pewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
