@@ -22,11 +22,12 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" timestamp="1474944067795">
-        <mark key="[" line="45" column="17" />
-        <mark key="]" line="45" column="45" />
-        <mark key="^" line="4" column="32" />
-        <mark key="." line="4" column="32" />
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" timestamp="1474948841723">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="65" column="14" />
+        <mark key="]" line="65" column="19" />
+        <mark key="^" line="65" column="19" />
+        <mark key="." line="65" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/index.js" timestamp="1474728938604">
         <mark key="'" line="3" column="30" />
@@ -423,12 +424,11 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" timestamp="1474947489389">
-        <mark key="'" line="36" column="65" />
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="4" column="31" />
-        <mark key="." line="4" column="31" />
-        <mark key="^" line="4" column="31" />
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" timestamp="1474949119487">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/main.json.js" timestamp="1474901574097">
         <mark key="[" line="0" column="0" />
@@ -469,11 +469,11 @@
         <mark key="^" line="66" column="20" />
         <mark key="." line="66" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/index.js" timestamp="1474947245757">
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="8" column="49" />
-        <mark key="." line="8" column="49" />
-        <mark key="^" line="8" column="49" />
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/index.js" timestamp="1474948994239">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="6" />
+        <mark key="^" line="15" column="6" />
+        <mark key="." line="15" column="6" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/package.json" timestamp="1474947922461">
         <mark key="[" line="18" column="0" />
@@ -508,9 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="32" filename="$USER_HOME$/Workspace/betogether.today/bin/run.js" />
-      <jump line="0" column="2" filename="$USER_HOME$/Workspace/betogether.today/config.js" />
-      <jump line="15" column="32" filename="$USER_HOME$/Workspace/betogether.today/bin/run.js" />
       <jump line="137" column="18" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
       <jump line="11" column="0" filename="$USER_HOME$/Workspace/betogether.today/bin/backup.js" />
       <jump line="15" column="2" filename="$USER_HOME$/Workspace/betogether.today/bin/backup.js" />
@@ -608,13 +605,16 @@
       <jump line="3" column="4" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.base.conf.js" />
       <jump line="35" column="17" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.base.conf.js" />
       <jump line="69" column="19" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" />
+      <jump line="64" column="4" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wb2x5ZmlsbCI6ICJeNi4xMy4wIiwKICAgICJiYWJlbC1jb3JlIjogIl42LjAuMCIsCiAgICAiYmFiZWwtbG9hZGVyIjogIl42LjAuMCIsCiAgICAiYmFiZWwtcGx1Z2luLXRyYW5zZm9ybS1ydW50aW1lIjogIl42LjAuMCIsCiAgICAiYmFiZWwtcHJlc2V0LWVzMjAxNSI6ICJeNi4wLjAiLAogICAgImJhYmVsLXByZXNldC1zdGFnZS0yIjogIl42LjAuMCIsCiAgICAiYmFiZWwtcmVnaXN0ZXIiOiAiXjYuMC4wIiwKICAgICJjb25uZWN0LWhpc3RvcnktYXBpLWZhbGxiYWNrIjogIl4xLjEuMCIsCiAgICAiY3NzLWxvYWRlciI6ICJeMC4yMy4wIiwKICAgICJldmVudHNvdXJjZS1wb2x5ZmlsbCI6ICJeMC45LjYiLAogICAgImV4cHJlc3MiOiAiXjQuMTMuMyIsCiAgICAiZXh0cmFjdC10ZXh0LXdlYnBhY2stcGx1Z2luIjogIl4xLjAuMSIsCiAgICAiZmlsZS1sb2FkZXIiOiAiXjAuOC40IiwKICAgICJmdW5jdGlvbi1iaW5kIjogIl4xLjAuMiIsCiAgICAiaHRtbC13ZWJwYWNrLXBsdWdpbiI6ICJeMi44LjEiLAogICAgImh0dHAtcHJveHktbWlkZGxld2FyZSI6ICJeMC4xMi4wIiwKICAgICJqc29uLWxvYWRlciI6ICJeMC41LjQiLAogICAgImtvYSI6ICJeMi4wLjAiLAogICAgImtvYS13ZWJwYWNrLW1pZGRsZXdhcmUiOiAiXjEuMC4xIiwKICAgICJvcmEiOiAiXjAuMi4wIiwKICAgICJzaGVsbGpzIjogIl4wLjYuMCIsCiAgICAidXJsLWxvYWRlciI6ICJeMC41LjciLAogICAgInZ1ZS1ob3QtcmVsb2FkLWFwaSI6ICJeMS4yLjAiLAogICAgInZ1ZS1odG1sLWxvYWRlciI6ICJeMS4wLjAiLAogICAgInZ1ZS1sb2FkZXIiOiAiXjguMy4wIiwKICAgICJ2dWUtc3R5bGUtbG9hZGVyIjogIl4xLjAuMCIsCiAgICAid2VicGFjayI6ICJeMS4xMi4yIiwKICAgICJ3ZWJwYWNrLWRldi1taWRkbGV3YXJlIjogIl4xLjQuMCIsCiAgICAid2VicGFjay1ob3QtbWlkZGxld2FyZSI6ICJeMi42LjAiLAogICAgIndlYnBhY2stbWVyZ2UiOiAiXjAuOC4zIgo=</text>
+        <text encoding="base64">YXBwLmxpc3RlbigzMDAwKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>expressApp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9qZWN0Um9vdFw+</text>
@@ -623,31 +623,31 @@
         <text encoding="base64">ICAgICJiYWJlbC1wb2x5ZmlsbCI6ICJeNi4xMy4wIiwKICAgICJiYWJlbC1jb3JlIjogIl42LjAuMCIsCiAgICAiYmFiZWwtbG9hZGVyIjogIl42LjAuMCIsCiAgICAiYmFiZWwtcGx1Z2luLXRyYW5zZm9ybS1ydW50aW1lIjogIl42LjAuMCIsCiAgICAiYmFiZWwtcHJlc2V0LWVzMjAxNSI6ICJeNi4wLjAiLAogICAgImJhYmVsLXByZXNldC1zdGFnZS0yIjogIl42LjAuMCIsCiAgICAiYmFiZWwtcmVnaXN0ZXIiOiAiXjYuMC4wIiwKICAgICJjb25uZWN0LWhpc3RvcnktYXBpLWZhbGxiYWNrIjogIl4xLjEuMCIsCiAgICAiY3NzLWxvYWRlciI6ICJeMC4yMy4wIiwKICAgICJldmVudHNvdXJjZS1wb2x5ZmlsbCI6ICJeMC45LjYiLAogICAgImV4cHJlc3MiOiAiXjQuMTMuMyIsCiAgICAiZXh0cmFjdC10ZXh0LXdlYnBhY2stcGx1Z2luIjogIl4xLjAuMSIsCiAgICAiZmlsZS1sb2FkZXIiOiAiXjAuOC40IiwKICAgICJmdW5jdGlvbi1iaW5kIjogIl4xLjAuMiIsCiAgICAiaHRtbC13ZWJwYWNrLXBsdWdpbiI6ICJeMi44LjEiLAogICAgImh0dHAtcHJveHktbWlkZGxld2FyZSI6ICJeMC4xMi4wIiwKICAgICJqc29uLWxvYWRlciI6ICJeMC41LjQiLAogICAgImtvYSI6ICJeMi4wLjAiLAogICAgImtvYS13ZWJwYWNrLW1pZGRsZXdhcmUiOiAiXjEuMC4xIiwKICAgICJvcmEiOiAiXjAuMi4wIiwKICAgICJzaGVsbGpzIjogIl4wLjYuMCIsCiAgICAidXJsLWxvYWRlciI6ICJeMC41LjciLAogICAgInZ1ZS1ob3QtcmVsb2FkLWFwaSI6ICJeMS4yLjAiLAogICAgInZ1ZS1odG1sLWxvYWRlciI6ICJeMS4wLjAiLAogICAgInZ1ZS1sb2FkZXIiOiAiXjguMy4wIiwKICAgICJ2dWUtc3R5bGUtbG9hZGVyIjogIl4xLjAuMCIsCiAgICAid2VicGFjayI6ICJeMS4xMi4yIiwKICAgICJ3ZWJwYWNrLWRldi1taWRkbGV3YXJlIjogIl4xLjQuMCIsCiAgICAid2VicGFjay1ob3QtbWlkZGxld2FyZSI6ICJeMi42LjAiLAogICAgIndlYnBhY2stbWVyZ2UiOiAiXjAuOC4zIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJrb2Etc3RhdGljIjogIl4yLjAuMCIsCg==</text>
+        <text encoding="base64">YXBwLmxpc3RlbigzMDAwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJrb2EtbW91bnQiOiAiXjEuMy4wIiwK</text>
+        <text encoding="base64">YXBwLnVzZShtb3VudCgnL3Rlc3QnLCBmdW5jdGlvbioobmV4dCl7CiAgdGhpcy5yZXMuYm9keSA9ICJoZWxsbyB3b3JsZCI7Cn0pKQphcHAudXNlKG1vdW50KGNsaWVudCkpCmFwcC5saXN0ZW4oMzAwMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wb2x5ZmlsbCI6ICJeNi4xMy4wIiwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyIAo=</text>
+        <text encoding="base64">Ly8gY29uc3QgY2xpZW50ID0gcmVxdWlyZSgnJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvamVjdFJvb3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJvb3Q6IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICcuLi8nKSwK</text>
+        <text encoding="base64">ICAgICJ1c2Ugc3RyaWN0IjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gc2VydmUgcHVyZSBzdGF0aWMgYXNzZXRzCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gYXBwLnVzZShzdGF0aWNQYXRoLCBleHByZXNzLnN0YXRpYygnLi9zdGF0aWMnKSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
