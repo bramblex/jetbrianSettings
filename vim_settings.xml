@@ -30,6 +30,9 @@
         <mark key="." line="65" column="19" />
       </file>
       <file name="$USER_HOME$/.gitignore_global" timestamp="1474969919097" />
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/query-parser.jison" timestamp="1474984713513">
+        <mark key="'" line="17" column="30" />
+      </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/index.js" timestamp="1474728938604">
         <mark key="'" line="3" column="30" />
         <mark key="[" line="3" column="23" />
@@ -103,18 +106,18 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/resource.js" timestamp="1474900613256">
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/resource.js" timestamp="1474984392052">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="35" />
+        <mark key="[" line="29" column="2" />
+        <mark key="]" line="29" column="8" />
         <mark key="." line="26" column="51" />
         <mark key="^" line="22" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" timestamp="1474984264363">
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" timestamp="1474984399192">
         <mark key="'" line="39" column="25" />
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="23" />
+        <mark key="[" line="29" column="14" />
+        <mark key="]" line="29" column="14" />
+        <mark key="." line="29" column="14" />
         <mark key="^" line="12" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/bin/run.js" timestamp="1472715356245">
@@ -129,10 +132,6 @@
         <mark key="]" line="5" column="100" />
         <mark key="." line="5" column="100" />
         <mark key="^" line="5" column="100" />
-      </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/.package.json" timestamp="1474943070260">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="42" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/clients/index.js" timestamp="1474900737720">
         <mark key="'" line="0" column="0" />
@@ -184,10 +183,6 @@
         <mark key="]" line="1" column="14" />
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
-      </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/config/index.js" timestamp="1474942184519">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/components/Foo.vue" timestamp="1472529993455">
         <mark key="[" line="20" column="14" />
@@ -540,7 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="16" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
       <jump line="26" column="6" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
       <jump line="45" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" />
       <jump line="44" column="2" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
@@ -640,19 +634,20 @@
       <jump line="7" column="48" filename="$USER_HOME$/Workspace/NodeProjectTemplate/package.json" />
       <jump line="16" column="25" filename="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" />
       <jump line="21" column="5" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
+      <jump line="17" column="30" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/query-parser.jison" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+      <register name="&quot;" type="4">
+        <text>delete</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>delete</text>
       </register>
       <register name="/" type="4">
         <text>read</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cm91dGVyLmRlbGV0ZShmdW5jdGlvbioobmV4dCl7Cn0pCg==</text>
+      <register name="0" type="4">
+        <text>destory</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRoaXMuCg==</text>
@@ -682,7 +677,7 @@
         <text encoding="base64">Y29ucwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -731,13 +726,13 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLzxhLzxzcGFu</entry>
         <entry encoding="base64">JzwsJz5zL1wvYS9cL3NwYW4=</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL0Rldi9EZXZlbG9wbWVudA==</entry>
         <entry encoding="base64">JzwsJz5zL0RldmVsb3BtZW50L1Rlc3QvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0RldmVsb3BtZW50L1Byb2R1Y3Rpb24vZw==</entry>
         <entry>wn</entry>
         <entry>wp</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
