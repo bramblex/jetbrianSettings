@@ -85,6 +85,12 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/dev.config.js" timestamp="1474902818607">
+        <mark key="'" line="12" column="8" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/model/model.js" timestamp="1472742072701">
         <mark key="[" line="13" column="46" />
         <mark key="]" line="13" column="53" />
@@ -104,12 +110,12 @@
         <mark key="." line="26" column="51" />
         <mark key="^" line="22" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" timestamp="1474982329380">
-        <mark key="'" line="16" column="24" />
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="14" column="27" />
-        <mark key="." line="14" column="27" />
-        <mark key="^" line="14" column="27" />
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" timestamp="1474984264363">
+        <mark key="'" line="39" column="25" />
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/bin/run.js" timestamp="1472715356245">
         <mark key="'" line="15" column="32" />
@@ -252,7 +258,7 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/package.json" timestamp="1474982183972">
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/package.json" timestamp="1474982334877">
         <mark key="'" line="7" column="48" />
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="39" />
@@ -445,12 +451,12 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" timestamp="1474982199920">
-        <mark key="'" line="21" column="5" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="23" column="29" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" timestamp="1474983756326">
+        <mark key="'" line="24" column="5" />
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/main.json.js" timestamp="1474901574097">
         <mark key="[" line="0" column="0" />
@@ -482,12 +488,11 @@
         <mark key="." line="22" column="13" />
         <mark key="^" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/base.config.js" timestamp="1474939705036">
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/base.config.js" timestamp="1474983796920">
         <mark key="'" line="4" column="16" />
-        <mark key="[" line="8" column="47" />
-        <mark key="]" line="8" column="53" />
-        <mark key="." line="8" column="53" />
-        <mark key="^" line="8" column="53" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/build/dev-server.js" timestamp="1472705239575">
         <mark key="'" line="57" column="0" />
@@ -628,41 +633,41 @@
       <jump line="46" column="11" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
       <jump line="48" column="17" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
       <jump line="10" column="26" filename="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" />
       <jump line="9" column="34" filename="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" />
       <jump line="3" column="14" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/api/index.js" />
       <jump line="5" column="14" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/api/index.js" />
-      <jump line="7" column="48" filename="$USER_HOME$/Workspace/NodeProjectTemplate/package.json" />
       <jump line="15" column="24" filename="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" />
+      <jump line="7" column="48" filename="$USER_HOME$/Workspace/NodeProjectTemplate/package.json" />
+      <jump line="16" column="25" filename="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" />
       <jump line="21" column="5" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gYXBwLnVzZShtb3VudCgnL2FwaScpKQovLyAndXNlIHN0cmljdCcKLy8gY29uc3QgZnMgPSByZXF1aXJlKCdmcycpCi8vIGNvbnN0IHBhdGggPSByZXF1aXJlKCdwYXRoJykKCi8vIGNvbnN0IGFwaSA9IHJlcXVpcmUoJ2tvYS1yb3V0ZXInKSgpCgovLyBjb25zdCB2ZXJzaW9uX2xpc3QgPSBmcwovLyAgIC5yZWFkZGlyU3luYyhfX2Rpcm5hbWUpCi8vICAgLmZpbHRlcihpdGVtPT5mcy5zdGF0U3luYyhwYXRoLnJlc29sdmUoX19kaXJuYW1lLCBpdGVtKSkuaXNEaXJlY3RvcnkoKSkKLy8gICAuZm9yRWFjaChpdGVtPT5hcGkudXNlKCkpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>or</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>read</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gYXBwLnVzZShtb3VudCgnL2FwaScpKQovLyAndXNlIHN0cmljdCcKLy8gY29uc3QgZnMgPSByZXF1aXJlKCdmcycpCi8vIGNvbnN0IHBhdGggPSByZXF1aXJlKCdwYXRoJykKCi8vIGNvbnN0IGFwaSA9IHJlcXVpcmUoJ2tvYS1yb3V0ZXInKSgpCgovLyBjb25zdCB2ZXJzaW9uX2xpc3QgPSBmcwovLyAgIC5yZWFkZGlyU3luYyhfX2Rpcm5hbWUpCi8vICAgLmZpbHRlcihpdGVtPT5mcy5zdGF0U3luYyhwYXRoLnJlc29sdmUoX19kaXJuYW1lLCBpdGVtKSkuaXNEaXJlY3RvcnkoKSkKLy8gICAuZm9yRWFjaChpdGVtPT5hcGkudXNlKCkpCg==</text>
+        <text encoding="base64">cm91dGVyLmRlbGV0ZShmdW5jdGlvbioobmV4dCl7Cn0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwLnVzZShib2R5UGFyc2VyKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gJ3VzZSBzdHJpY3QnCi8vIGNvbnN0IGZzID0gcmVxdWlyZSgnZnMnKQovLyBjb25zdCBwYXRoID0gcmVxdWlyZSgncGF0aCcpCgovLyBjb25zdCBhcGkgPSByZXF1aXJlKCdrb2Etcm91dGVyJykoKQoKLy8gY29uc3QgdmVyc2lvbl9saXN0ID0gZnMKLy8gICAucmVhZGRpclN5bmMoX19kaXJuYW1lKQovLyAgIC5maWx0ZXIoaXRlbT0+ZnMuc3RhdFN5bmMocGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgaXRlbSkpLmlzRGlyZWN0b3J5KCkpCi8vICAgLmZvckVhY2goaXRlbT0+YXBpLnVzZSgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm91dGVyLmNyZWF0ZShmdW5jdGlvbioobmV4dCl7Cn0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -671,13 +676,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2codmVyc2lvbl9saXN0KQo=</text>
+        <text encoding="base64">Y29ucwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -730,9 +735,9 @@
         <entry encoding="base64">JzwsJz5zL0Rldi9EZXZlbG9wbWVudA==</entry>
         <entry encoding="base64">JzwsJz5zL0RldmVsb3BtZW50L1Rlc3QvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0RldmVsb3BtZW50L1Byb2R1Y3Rpb24vZw==</entry>
-        <entry>w</entry>
         <entry>wn</entry>
         <entry>wp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
