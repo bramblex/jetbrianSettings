@@ -85,12 +85,6 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/dev.config.js" timestamp="1474902818607">
-        <mark key="'" line="12" column="8" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/model/model.js" timestamp="1472742072701">
         <mark key="[" line="13" column="46" />
         <mark key="]" line="13" column="53" />
@@ -110,11 +104,11 @@
         <mark key="." line="26" column="51" />
         <mark key="^" line="22" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" timestamp="1474973920931">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" timestamp="1474979052524">
+        <mark key="'" line="9" column="34" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/bin/run.js" timestamp="1472715356245">
         <mark key="'" line="15" column="32" />
@@ -533,7 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="8" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
       <jump line="14" column="28" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" />
       <jump line="124" column="12" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
       <jump line="180" column="10" filename="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" />
@@ -633,13 +626,14 @@
       <jump line="48" column="17" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
       <jump line="10" column="26" filename="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" />
+      <jump line="9" column="34" filename="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGZzLndyaXRlRmlsZShhcGlfaW5kZXgsIGFwaV9pbmRleF9jb2RlX3RlbXBsYXRlKQogICAgY29uc29sZS5sb2coJ2dlbmVyYXRvciBhcGkgaW5kZXguanMnLCBhcGlfaW5kZXgpCg==</text>
+        <text encoding="base64">aWYgKCEodmVyc2lvbiAmJiByZXNvdXJjZSkpCiAgdGhyb3cgbmV3IEVycm9yKCdVc2FnZTogbnBtIGFwaSA8dmVyc2lvbj4gPHJlc291cmNlPicpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>dir</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>index.html</text>
@@ -648,31 +642,31 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZygnZ2VuZXJhdG9yIGFwaScsIGFwaV9yZXNvdXJjZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGZzLndyaXRlRmlsZShhcGlfaW5kZXgsIGFwaV9pbmRleF9jb2RlX3RlbXBsYXRlKQogICAgY29uc29sZS5sb2coJ2dlbmVyYXRvciBhcGkgaW5kZXguanMnLCBhcGlfaW5kZXgpCg==</text>
+        <text encoding="base64">aWYgKCEodmVyc2lvbiAmJiByZXNvdXJjZSkpCiAgdGhyb3cgbmV3IEVycm9yKCdVc2FnZTogbnBtIGFwaSA8dmVyc2lvbj4gPHJlc291cmNlPicpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdnZW5lcmF0b3IgYXBpIGRpcicsIGFwaV9kaXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgYXBpX2luZGV4X2NvZGVfdGVtcGxhdGUgPSBgYAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGZzLm1rZGlyKGFwaV9kaXIpCg==</text>
+        <text encoding="base64">ICAgIHlpZWxkIGZzLndyaXRlRmlsZShhcGlfaW5kZXgsIGFwaV9pbmRleF9jb2RlX3RlbXBsYXRlKQogICAgY29uc29sZS5sb2coJ2dlbmVyYXRvciBhcGkgaW5kZXguanMnLCBhcGlfaW5kZXgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdnZW5lcmF0b3IgYXBpIGRpcicsIGFwaV9kaXIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHlpZWxkIGZzLm1rZGlyKGFwaV9kaXIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QK</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
