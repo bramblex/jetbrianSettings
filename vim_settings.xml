@@ -22,12 +22,12 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" timestamp="1474948841723">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="65" column="14" />
-        <mark key="]" line="65" column="19" />
-        <mark key="^" line="65" column="19" />
-        <mark key="." line="65" column="19" />
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" timestamp="1475074044790">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="59" column="27" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/where.js" timestamp="1474992249967">
         <mark key="'" line="20" column="62" />
@@ -36,7 +36,6 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/.gitignore_global" timestamp="1474969919097" />
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/query-parser.jison" timestamp="1474991213100">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="63" column="38" />
@@ -77,8 +76,11 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" timestamp="1474970254466">
-        <mark key="'" line="48" column="17" />
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" timestamp="1475073687062">
+        <mark key="[" line="49" column="55" />
+        <mark key="]" line="49" column="55" />
+        <mark key="^" line="47" column="33" />
+        <mark key="." line="49" column="55" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/store.js" timestamp="1472544746986">
         <mark key="[" line="10" column="2" />
@@ -382,10 +384,10 @@
         <mark key="." line="7" column="80" />
         <mark key="^" line="7" column="80" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.base.conf.js" timestamp="1474947030134">
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.base.conf.js" timestamp="1475073636462">
         <mark key="'" line="35" column="17" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="48" />
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="34" />
       </file>
@@ -548,16 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Workspace/betogether.today/client/src/main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/.gitignore" />
-      <jump line="6" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/main.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/components/Hello.vue" />
-      <jump line="21" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/components/Hello.vue" />
-      <jump line="13" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/App.vue" />
-      <jump line="47" column="18" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/App.vue" />
-      <jump line="49" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/App.vue" />
-      <jump line="8" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/App.vue" />
-      <jump line="3" column="4" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/App.vue" />
       <jump line="10" column="12" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/store/actions.js" />
       <jump line="10" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/store/store.js" />
       <jump line="13" column="2" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/store/store.js" />
@@ -620,13 +612,7 @@
       <jump line="42" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/build.js" />
       <jump line="13" column="13" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/build.js" />
-      <jump line="68" column="26" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
-      <jump line="47" column="23" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
       <jump line="0" column="25" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
-      <jump line="41" column="21" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
-      <jump line="42" column="44" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
-      <jump line="46" column="11" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
-      <jump line="48" column="17" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
       <jump line="10" column="26" filename="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" />
       <jump line="9" column="34" filename="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" />
       <jump line="3" column="14" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/api/index.js" />
@@ -648,55 +634,71 @@
       <jump line="54" column="17" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
       <jump line="55" column="10" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
       <jump line="21" column="28" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
+      <jump line="71" column="16" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
+      <jump line="74" column="9" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
+      <jump line="9" column="11" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
+      <jump line="10" column="42" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
+      <jump line="41" column="21" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
+      <jump line="46" column="11" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
+      <jump line="48" column="17" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
+      <jump line="68" column="26" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
+      <jump line="42" column="21" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
+      <jump line="43" column="44" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
+      <jump line="47" column="11" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">InVzZSBzdHJpY3QiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="/" type="4">
-        <text>rout</text>
+        <text>index.html</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gY29uc3QgZnMgPSByZXF1aXJlKCdmcycpCi8vIGNvbnN0IHBhdGggPSByZXF1aXJlKCdwYXRoJykK</text>
+      <register name="0" type="4">
+        <text>path.resolve(projectRoot, 'index.html')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">InVzZSBzdHJpY3QiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCByZWNvcmQgPSB5aWVsZCAke3Jlc291cmNlfS5maW5kQnlJZCh0aGlzLnBhcmFtcy5pZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCByZWNvcmQgPSB5aWVsZCAke3Jlc291cmNlfS5maW5kQnlJZCh0aGlzLnBhcmFtcy5pZCkKICB0aGlzLnJlc3BvbnNlLmJvZHkgPSB5aWVsZCByZWNvcmQudXBkYXRlKHRoaXMuYm9keSkK</text>
+        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMgPSBhcHAubGlzdGVuKHBvcnQsIGZ1bmN0aW9uIChlcnIpIHsKLy8gICBpZiAoZXJyKSB7Ci8vICAgICBjb25zb2xlLmxvZyhlcnIpCi8vICAgICByZXR1cm4KLy8gICB9Ci8vICAgY29uc29sZS5sb2coJ0xpc3RlbmluZyBhdCBodHRwOi8vbG9jYWxob3N0OicgKyBwb3J0ICsgJ1xuJykKLy8gfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICJ1c2Ugc3RyaWN0IjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5Lm9yZGVyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5Lm9yZGVyCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5Lm9yZGVyID0gcmVxdWVzdF9xdWVyeS5vcmRlcgo=</text>
+        <text encoding="base64">ICAgIGZuTmFtZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rout</last-search>
+      <last-search>index.html</last-search>
       <last-offset />
-      <last-pattern>rout</last-pattern>
+      <last-pattern>index.html</last-pattern>
       <last-replace>Production</last-replace>
       <last-substitute>Development</last-substitute>
       <last-dir>1</last-dir>
@@ -704,8 +706,6 @@
     </search>
     <history>
       <history-search>
-        <entry>v-link</entry>
-        <entry>image</entry>
         <entry encoding="base64">XDx3YXBwZXJcPg==</entry>
         <entry encoding="base64">XDxzY3JvbGxcPg==</entry>
         <entry>input</entry>
@@ -720,10 +720,12 @@
         <entry>proxy</entry>
         <entry>Middle</entry>
         <entry encoding="base64">XDxwcm9qZWN0Um9vdFw+</entry>
-        <entry>index</entry>
-        <entry>index.html</entry>
         <entry>read</entry>
         <entry>rout</entry>
+        <entry>port</entry>
+        <entry>index</entry>
+        <entry>root</entry>
+        <entry>index.html</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPCUve3svZw==</entry>
