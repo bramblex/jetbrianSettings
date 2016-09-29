@@ -205,7 +205,8 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/config/index.js" timestamp="1475138948649">
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/config/index.js" timestamp="1475148428211">
+        <mark key="'" line="31" column="0" />
         <mark key="[" line="9" column="23" />
         <mark key="]" line="9" column="23" />
         <mark key="^" line="22" column="23" />
@@ -342,8 +343,13 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-client.js" timestamp="1475139263544">
-        <mark key="^" line="1" column="65" />
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/node_modules/webpack-hot-middleware/client.js" timestamp="1475148013933">
+        <mark key="'" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-client.js" timestamp="1475148467495">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/main.js" timestamp="1473752380854">
         <mark key="'" line="18" column="0" />
@@ -568,9 +574,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="4" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/components/Hello.vue" />
-      <jump line="30" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/components/Hello.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/components/NotFound.vue" />
       <jump line="6" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/components/VuexDemo.vue" />
       <jump line="29" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/components/VuexDemo.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/components/VuexDemo.vue" />
@@ -668,10 +671,13 @@
       <jump line="21" column="9" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
       <jump line="70" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
       <jump line="59" column="28" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/node_modules/webpack-hot-middleware/client.js" />
+      <jump line="30" column="2" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/config/index.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/config/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIGhvdENsaWVudCA9IHJlcXVpcmUoJ3dlYnBhY2staG90LW1pZGRsZXdhcmUvY2xpZW50JykK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cGF0aD0ke2NvbmZpZy5kZXYuYXNzZXRzUHVibGljUGF0aH1fX3dlYnBhY2tfaG1yJg==</text>
@@ -683,31 +689,31 @@
         <text>__webpack_hmr</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIGhvdENsaWVudCA9IHJlcXVpcmUoJ3dlYnBhY2staG90LW1pZGRsZXdhcmUvY2xpZW50JykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyIHBhdGggPSByZXF1aXJlKCcuLi9jb25maWcnKS5kZXYuYXNzZXRzUHVibGljUGF0aAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIHBhdGgK</text>
+        <text encoding="base64">dmFyIHBhdGggPSByZXF1aXJlKCcuLi9jb25maWcnKS5kZXYuYXNzZXRzUHVibGljUGF0aAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9fX3dlYnBhY2tfaG1yCg==</text>
+        <text encoding="base64">dmFyIHBhdGgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">InVzZSBzdHJpY3QiCg==</text>
+        <text encoding="base64">Ly9fX3dlYnBhY2tfaG1yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAidXNlIHN0cmljdCI7Cg==</text>
+        <text encoding="base64">InVzZSBzdHJpY3QiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAidXNlIHN0cmljdCI7Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAidXNlIHN0cmljdCI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
