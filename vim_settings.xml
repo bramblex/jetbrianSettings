@@ -196,6 +196,12 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/config/index.js" timestamp="1475130188478">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="23" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="23" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/components/Foo.vue" timestamp="1472529993455">
         <mark key="[" line="20" column="14" />
         <mark key="]" line="20" column="16" />
@@ -461,12 +467,12 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" timestamp="1474997409625">
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" timestamp="1475130083212">
         <mark key="'" line="23" column="28" />
-        <mark key="[" line="27" column="56" />
-        <mark key="]" line="27" column="56" />
-        <mark key="." line="27" column="56" />
-        <mark key="^" line="27" column="56" />
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="45" />
+        <mark key="." line="30" column="25" />
+        <mark key="^" line="30" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/main.json.js" timestamp="1474901574097">
         <mark key="[" line="0" column="0" />
@@ -652,14 +658,14 @@
       <jump line="2" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">InVzZSBzdHJpY3QiOwo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnVuY3Rpb24g</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>index.html</text>
+        <text>app.js</text>
       </register>
       <register name="0" type="4">
         <text>path.resolve(projectRoot, 'index.html')</text>
@@ -696,9 +702,9 @@
       </register>
     </registers>
     <search>
-      <last-search>index.html</last-search>
+      <last-search>app.js</last-search>
       <last-offset />
-      <last-pattern>index.html</last-pattern>
+      <last-pattern>app.js</last-pattern>
       <last-replace>Production</last-replace>
       <last-substitute>Development</last-substitute>
       <last-dir>1</last-dir>
@@ -706,7 +712,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3YXBwZXJcPg==</entry>
         <entry encoding="base64">XDxzY3JvbGxcPg==</entry>
         <entry>input</entry>
         <entry>img</entry>
@@ -726,6 +731,7 @@
         <entry>index</entry>
         <entry>root</entry>
         <entry>index.html</entry>
+        <entry>app.js</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPCUve3svZw==</entry>
