@@ -76,7 +76,7 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" timestamp="1475073687062">
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" timestamp="1475149365777">
         <mark key="[" line="49" column="55" />
         <mark key="]" line="49" column="55" />
         <mark key="^" line="47" column="33" />
@@ -676,11 +676,11 @@
       <jump line="31" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/config/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dmFyIGhvdENsaWVudCA9IHJlcXVpcmUoJ3dlYnBhY2staG90LW1pZGRsZXdhcmUvY2xpZW50JykK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGF0aD0ke2NvbmZpZy5kZXYuYXNzZXRzUHVibGljUGF0aH1fX3dlYnBhY2tfaG1yJg==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRwdXRQYXRoXD4=</text>
