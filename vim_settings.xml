@@ -75,6 +75,12 @@
         <mark key="^" line="76" column="19" />
         <mark key="." line="76" column="19" />
       </file>
+      <file name="$USER_HOME$/Workspace/Werewolf/client/src/App.vue" timestamp="1475330817963">
+        <mark key="[" line="42" column="14" />
+        <mark key="]" line="42" column="16" />
+        <mark key="." line="42" column="16" />
+        <mark key="^" line="42" column="16" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/logger.js" timestamp="1472422102052">
         <mark key="[" line="5" column="56" />
         <mark key="]" line="5" column="56" />
@@ -227,11 +233,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/build.js" timestamp="1474971246738">
-        <mark key="'" line="13" column="13" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="25" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/model/user.js" timestamp="1472741966428">
         <mark key="'" line="0" column="0" />
@@ -406,6 +407,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1475330915139">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/App.vue" timestamp="1473839227192">
         <mark key="[" line="7" column="80" />
@@ -680,44 +684,44 @@
       <jump line="31" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/config/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bnBtIGJ1aWxkCg==</text>
+      <register name="&quot;" type="4">
+        <text>1000</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRwdXRQYXRoXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>__webpack_hmr</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zdCBhID0geWllbGQgbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCk9PnsKICAgIGNvbnN0IHQgPSAxMDAwCiAgICBzZXRUaW1lb3V0KCgpPT57cmVzb2x2ZSh0KX0sIHQpCiAgfSkKICBjb25zb2xlLmxvZyhhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bnBtIGJ1aWxkCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bnBtCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YGBgIEJhc2gK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">bnBtIGJ1aWxkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2luZG93LmNvID0gY28KCmNvKGZ1bmN0aW9uKigpewogIGZvciAobGV0IGk9MDsgaTwxMDsgaSsrKXsKICAgIGxldCBfID0geWllbGQgbmV3IFByb21pc2UoKHJlc29sdmUpID0+IHtzZXRUaW1lb3V0KCgpPT5yZXNvbHZlKGkpLCAxMDAwKX0pCiAgICBjb25zb2xlLmxvZyhfKQogIH0KfSkK</text>
+        <text encoding="base64">bnBtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIGhvdENsaWVudCA9IHJlcXVpcmUoJ3dlYnBhY2staG90LW1pZGRsZXdhcmUvY2xpZW50JykK</text>
+        <text encoding="base64">YGBgIEJhc2gK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIHBhdGggPSByZXF1aXJlKCcuLi9jb25maWcnKS5kZXYuYXNzZXRzUHVibGljUGF0aAo=</text>
+        <text encoding="base64">d2luZG93LmNvID0gY28KCmNvKGZ1bmN0aW9uKigpewogIGZvciAobGV0IGk9MDsgaTwxMDsgaSsrKXsKICAgIGxldCBfID0geWllbGQgbmV3IFByb21pc2UoKHJlc29sdmUpID0+IHtzZXRUaW1lb3V0KCgpPT5yZXNvbHZlKGkpLCAxMDAwKX0pCiAgICBjb25zb2xlLmxvZyhfKQogIH0KfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIHBhdGgK</text>
+        <text encoding="base64">dmFyIGhvdENsaWVudCA9IHJlcXVpcmUoJ3dlYnBhY2staG90LW1pZGRsZXdhcmUvY2xpZW50JykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
