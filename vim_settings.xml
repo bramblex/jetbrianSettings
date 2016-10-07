@@ -10,6 +10,11 @@
         <mark key="." line="68" column="22" />
         <mark key="^" line="68" column="22" />
       </file>
+      <file name="$USER_HOME$/Workspace/ComingApp/client/package.json" timestamp="1475827575880">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Autress/app/wechat/handlers.py" timestamp="1472305689765">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="0" />
@@ -357,12 +362,21 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/ComingApp/server/index.js" timestamp="1475827837007">
+        <mark key="'" line="28" column="63" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/main.js" timestamp="1473752380854">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
         <mark key="^" line="14" column="11" />
         <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Workspace/ComingApp/package.json" timestamp="1475827899132">
+        <mark key="[" line="68" column="25" />
+        <mark key="]" line="68" column="25" />
+        <mark key="^" line="64" column="29" />
+        <mark key="." line="68" column="25" />
       </file>
       <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/config/index.js" timestamp="1473759371559">
         <mark key="[" line="6" column="50" />
@@ -582,15 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/components/VuexDemo.vue" />
-      <jump line="29" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/components/VuexDemo.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/components/VuexDemo.vue" />
-      <jump line="9" column="19" filename="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/router_map.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/resource.js" />
-      <jump line="10" column="9" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/resource.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
-      <jump line="11" column="17" filename="$USER_HOME$/Workspace/NodeProjectTemplate/config/database.json" />
-      <jump line="3" column="30" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/index.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
       <jump line="5" column="1" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/query-parser.js" />
@@ -682,64 +687,71 @@
       <jump line="10" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/node_modules/webpack-hot-middleware/client.js" />
       <jump line="30" column="2" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/config/index.js" />
       <jump line="31" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/config/index.js" />
+      <jump line="50" column="4" filename="$USER_HOME$/Workspace/ComingApp/package.json" />
+      <jump line="32" column="5" filename="$USER_HOME$/Workspace/ComingApp/package.json" />
+      <jump line="65" column="4" filename="$USER_HOME$/Workspace/ComingApp/package.json" />
+      <jump line="44" column="0" filename="$USER_HOME$/Workspace/ComingApp/server/index.js" />
+      <jump line="18" column="19" filename="$USER_HOME$/Workspace/ComingApp/server/index.js" />
+      <jump line="23" column="9" filename="$USER_HOME$/Workspace/ComingApp/server/index.js" />
+      <jump line="26" column="40" filename="$USER_HOME$/Workspace/ComingApp/server/index.js" />
+      <jump line="27" column="53" filename="$USER_HOME$/Workspace/ComingApp/server/index.js" />
+      <jump line="28" column="63" filename="$USER_HOME$/Workspace/ComingApp/server/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1000</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvdXRwdXRQYXRoXD4=</text>
+        <text>api</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCBhID0geWllbGQgbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCk9PnsKICAgIGNvbnN0IHQgPSAxMDAwCiAgICBzZXRUaW1lb3V0KCgpPT57cmVzb2x2ZSh0KX0sIHQpCiAgfSkKICBjb25zb2xlLmxvZyhhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl42LjAuMCIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1sb2FkZXIiOiAiXjYuMC4wIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLXJ1bnRpbWUiOiAiXjYuMC4wIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bnBtIGJ1aWxkCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZXMyMDE1IjogIl42LjAuMCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bnBtCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtc3RhZ2UtMiI6ICJeNi4wLjAiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YGBgIEJhc2gK</text>
+        <text encoding="base64">ICAgICJjb25uZWN0LWhpc3RvcnktYXBpLWZhbGxiYWNrIjogIl4xLjEuMCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ICAgICJjc3MtbG9hZGVyIjogIl4wLjIzLjAiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2luZG93LmNvID0gY28KCmNvKGZ1bmN0aW9uKigpewogIGZvciAobGV0IGk9MDsgaTwxMDsgaSsrKXsKICAgIGxldCBfID0geWllbGQgbmV3IFByb21pc2UoKHJlc29sdmUpID0+IHtzZXRUaW1lb3V0KCgpPT5yZXNvbHZlKGkpLCAxMDAwKX0pCiAgICBjb25zb2xlLmxvZyhfKQogIH0KfSkK</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrLW1lcmdlIjogIl4wLjguMyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIGhvdENsaWVudCA9IHJlcXVpcmUoJ3dlYnBhY2staG90LW1pZGRsZXdhcmUvY2xpZW50JykK</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrLWhvdC1taWRkbGV3YXJlIjogIl4yLjYuMCIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvdXRwdXRQYXRoXD4=</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvdXRwdXRQYXRoXD4=</last-pattern>
+      <last-pattern>api</last-pattern>
       <last-replace>Production</last-replace>
       <last-substitute>Development</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
-        <entry encoding="base64">PGE=</entry>
         <entry>\/a</entry>
         <entry encoding="base64">XDxOVU1CRVJfREVDUkVBU0VcPg==</entry>
         <entry>Dev</entry>
@@ -758,6 +770,8 @@
         <entry>path</entry>
         <entry>outputPaht</entry>
         <entry encoding="base64">XDxvdXRwdXRQYXRoXD4=</entry>
+        <entry>vue-router</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPCUve3svZw==</entry>
@@ -808,6 +822,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
