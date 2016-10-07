@@ -3,18 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/MilestoneCreate.vue" timestamp="1472631109492">
-        <mark key="'" line="5" column="76" />
-        <mark key="[" line="68" column="19" />
-        <mark key="]" line="68" column="22" />
-        <mark key="." line="68" column="22" />
-        <mark key="^" line="68" column="22" />
-      </file>
-      <file name="$USER_HOME$/Workspace/ComingApp/client/package.json" timestamp="1475827575880">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Autress/app/wechat/handlers.py" timestamp="1472305689765">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="0" />
@@ -26,6 +14,254 @@
         <mark key="]" line="12" column="25" />
         <mark key="." line="12" column="25" />
         <mark key="^" line="15" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/index.js" timestamp="1474728938604">
+        <mark key="'" line="3" column="30" />
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" timestamp="1472866761567">
+        <mark key="'" line="179" column="0" />
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/package.json" timestamp="1472743586566">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="49" />
+        <mark key="." line="11" column="49" />
+        <mark key="^" line="11" column="49" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Werewolf/client/src/App.vue" timestamp="1475330817963">
+        <mark key="[" line="42" column="14" />
+        <mark key="]" line="42" column="16" />
+        <mark key="." line="42" column="16" />
+        <mark key="^" line="42" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/logger.js" timestamp="1472422102052">
+        <mark key="[" line="5" column="56" />
+        <mark key="]" line="5" column="56" />
+        <mark key="^" line="5" column="56" />
+        <mark key="." line="5" column="56" />
+      </file>
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" timestamp="1475149365777">
+        <mark key="[" line="49" column="55" />
+        <mark key="]" line="49" column="55" />
+        <mark key="^" line="47" column="33" />
+        <mark key="." line="49" column="55" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/model/model.js" timestamp="1472742072701">
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="13" column="53" />
+        <mark key="^" line="13" column="53" />
+        <mark key="." line="13" column="53" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/utils/image.js" timestamp="1472659100527">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/resource.js" timestamp="1474991212924">
+        <mark key="'" line="29" column="2" />
+        <mark key="[" line="29" column="2" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="26" column="51" />
+        <mark key="^" line="22" column="33" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Autress/app/contract/template/template.html" timestamp="1472202591726">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
+        <mark key="^" line="12" column="6" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/api.js" timestamp="1472406982750">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" timestamp="1472866460636">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/action.js" timestamp="1472544771963">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="8" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="8" />
+      </file>
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/config/index.js" timestamp="1475148428211">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="23" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="9" column="23" />
+      </file>
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/.gitignore" timestamp="1474970479699">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/model/user.js" timestamp="1472741966428">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="2" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="10" column="26" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/api/image.js" timestamp="1472436128401">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/main.js" timestamp="1473835397475">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="24" column="25" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/ProjectTemplate/.gitignore" timestamp="1473821935512">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+      </file>
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/package.json" timestamp="1474982334877">
+        <mark key="'" line="7" column="48" />
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="39" />
+        <mark key="^" line="11" column="39" />
+        <mark key="." line="11" column="39" />
+      </file>
+      <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/store/getters.js" timestamp="1473836873331">
+        <mark key="'" line="4" column="40" />
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/model/milestone.js" timestamp="1472743039796">
+        <mark key="'" line="5" column="36" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="39" />
+        <mark key="^" line="9" column="66" />
+        <mark key="." line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/api/api.js" timestamp="1473661318749">
+        <mark key="[" line="20" column="59" />
+        <mark key="]" line="20" column="59" />
+        <mark key="." line="20" column="59" />
+        <mark key="^" line="20" column="59" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/build/webpack.dev.conf.js" timestamp="1472446148184">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+        <mark key="^" line="30" column="43" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/api/milestone.js" timestamp="1472743782698">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="19" column="6" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-client.js" timestamp="1475148467495">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/ComingApp/server/index.js" timestamp="1475827837007">
+        <mark key="'" line="28" column="63" />
+      </file>
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/production.config.js" timestamp="1474904121121">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/store/actions.js" timestamp="1473836904117">
+        <mark key="'" line="5" column="6" />
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="13" column="35" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/App.vue" timestamp="1473839227192">
+        <mark key="[" line="7" column="80" />
+        <mark key="]" line="7" column="80" />
+        <mark key="." line="7" column="80" />
+        <mark key="^" line="7" column="80" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/model/db.js" timestamp="1472409864764">
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Autress/uwsgi.ini" timestamp="1472184456110">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/server/api/index.js" timestamp="1474981473163">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/development.config.js" timestamp="1474904126342">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/test.config.js" timestamp="1474942202084">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="9" column="54" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" timestamp="1473662274880">
+        <mark key="'" line="176" column="0" />
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+      </file>
+      <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/components/VuexDemo.vue" timestamp="1473842135412">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="75" />
+        <mark key="]" line="3" column="77" />
+        <mark key="." line="3" column="77" />
+        <mark key="^" line="3" column="77" />
+      </file>
+      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/MilestoneCreate.vue" timestamp="1472631109492">
+        <mark key="'" line="5" column="76" />
+        <mark key="[" line="68" column="19" />
+        <mark key="]" line="68" column="22" />
+        <mark key="." line="68" column="22" />
+        <mark key="^" line="68" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspace/ComingApp/client/package.json" timestamp="1475827575880">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" timestamp="1475139038795">
         <mark key="'" line="59" column="28" />
@@ -47,31 +283,10 @@
         <mark key="]" line="63" column="38" />
         <mark key="." line="63" column="38" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/index.js" timestamp="1474728938604">
-        <mark key="'" line="3" column="30" />
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="30" />
-        <mark key="^" line="3" column="30" />
-        <mark key="." line="3" column="30" />
-      </file>
       <file name="$USER_HOME$/Workspace/Werewolf/README.md" timestamp="1475329776745">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" timestamp="1472866761567">
-        <mark key="'" line="179" column="0" />
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="28" />
-        <mark key="." line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/package.json" timestamp="1472743586566">
-        <mark key="'" line="30" column="4" />
-        <mark key="[" line="11" column="44" />
-        <mark key="]" line="11" column="49" />
-        <mark key="." line="11" column="49" />
-        <mark key="^" line="11" column="49" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" timestamp="1474947175687">
         <mark key="'" line="69" column="19" />
@@ -79,24 +294,6 @@
         <mark key="]" line="76" column="19" />
         <mark key="^" line="76" column="19" />
         <mark key="." line="76" column="19" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Werewolf/client/src/App.vue" timestamp="1475330817963">
-        <mark key="[" line="42" column="14" />
-        <mark key="]" line="42" column="16" />
-        <mark key="." line="42" column="16" />
-        <mark key="^" line="42" column="16" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/logger.js" timestamp="1472422102052">
-        <mark key="[" line="5" column="56" />
-        <mark key="]" line="5" column="56" />
-        <mark key="^" line="5" column="56" />
-        <mark key="." line="5" column="56" />
-      </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" timestamp="1475149365777">
-        <mark key="[" line="49" column="55" />
-        <mark key="]" line="49" column="55" />
-        <mark key="^" line="47" column="33" />
-        <mark key="." line="49" column="55" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/store.js" timestamp="1472544746986">
         <mark key="[" line="10" column="2" />
@@ -121,25 +318,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/model/model.js" timestamp="1472742072701">
-        <mark key="[" line="13" column="46" />
-        <mark key="]" line="13" column="53" />
-        <mark key="^" line="13" column="53" />
-        <mark key="." line="13" column="53" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/utils/image.js" timestamp="1472659100527">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="7" />
-        <mark key="." line="6" column="7" />
-        <mark key="^" line="6" column="15" />
-      </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/resource.js" timestamp="1474991212924">
-        <mark key="'" line="29" column="2" />
-        <mark key="[" line="29" column="2" />
-        <mark key="]" line="29" column="8" />
-        <mark key="." line="26" column="51" />
-        <mark key="^" line="22" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/node_modules/webpack-dev-middleware/middleware.js" timestamp="1475134498673">
         <mark key="'" line="58" column="23" />
@@ -184,36 +362,17 @@
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/Autress/app/contract/template/template.html" timestamp="1472202591726">
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="12" column="6" />
-        <mark key="." line="12" column="6" />
-        <mark key="^" line="12" column="6" />
-      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/bin/init.js" timestamp="1472716101301">
         <mark key="[" line="17" column="2" />
         <mark key="]" line="17" column="2" />
         <mark key="." line="17" column="2" />
         <mark key="^" line="17" column="2" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/api.js" timestamp="1472406982750">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="20" />
-        <mark key="." line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" timestamp="1472866460636">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/action.js" timestamp="1472544771963">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="8" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="8" />
+      <file name="$USER_HOME$/Workspace/ComingApp/config/index.js" timestamp="1475829047581">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="5" />
+        <mark key="^" line="26" column="5" />
+        <mark key="." line="26" column="5" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/autosave.py" timestamp="1472004830885">
         <mark key="[" line="1" column="14" />
@@ -221,36 +380,11 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/config/index.js" timestamp="1475148428211">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="23" />
-        <mark key="^" line="22" column="23" />
-        <mark key="." line="9" column="23" />
-      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/components/Foo.vue" timestamp="1472529993455">
         <mark key="[" line="20" column="14" />
         <mark key="]" line="20" column="16" />
         <mark key="." line="20" column="16" />
         <mark key="^" line="20" column="16" />
-      </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/.gitignore" timestamp="1474970479699">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/model/user.js" timestamp="1472741966428">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="2" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="10" column="26" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/api/image.js" timestamp="1472436128401">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/utils/async.js" timestamp="1472993201481">
         <mark key="[" line="20" column="0" />
@@ -272,39 +406,11 @@
         <mark key="." line="49" column="37" />
         <mark key="^" line="49" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/main.js" timestamp="1473835397475">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="24" column="25" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Autress/app/templates/main/components/input_dialog.html" timestamp="1472102665107">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="20" column="6" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/ProjectTemplate/.gitignore" timestamp="1473821935512">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="13" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="8" column="13" />
-      </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/package.json" timestamp="1474982334877">
-        <mark key="'" line="7" column="48" />
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="39" />
-        <mark key="^" line="11" column="39" />
-        <mark key="." line="11" column="39" />
-      </file>
-      <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/store/getters.js" timestamp="1473836873331">
-        <mark key="'" line="4" column="40" />
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="40" />
-        <mark key="." line="4" column="40" />
-        <mark key="^" line="4" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/app.js" timestamp="1472993941492">
         <mark key="'" line="55" column="0" />
@@ -312,19 +418,6 @@
         <mark key="]" line="30" column="52" />
         <mark key="." line="30" column="52" />
         <mark key="^" line="30" column="52" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/model/milestone.js" timestamp="1472743039796">
-        <mark key="'" line="5" column="36" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="39" />
-        <mark key="^" line="9" column="66" />
-        <mark key="." line="10" column="31" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/api/api.js" timestamp="1473661318749">
-        <mark key="[" line="20" column="59" />
-        <mark key="]" line="20" column="59" />
-        <mark key="." line="20" column="59" />
-        <mark key="^" line="20" column="59" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/model/config.js" timestamp="1472743045564">
         <mark key="[" line="6" column="0" />
@@ -335,35 +428,14 @@
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/query-parser.js" timestamp="1474991213255">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/build/webpack.dev.conf.js" timestamp="1472446148184">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="17" />
-        <mark key="." line="29" column="17" />
-        <mark key="^" line="30" column="43" />
-      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/store/getters.js" timestamp="1472658974642">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="14" />
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/api/milestone.js" timestamp="1472743782698">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="19" column="6" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/node_modules/webpack-hot-middleware/client.js" timestamp="1475148013933">
         <mark key="'" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-client.js" timestamp="1475148467495">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/ComingApp/server/index.js" timestamp="1475827837007">
-        <mark key="'" line="28" column="63" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/main.js" timestamp="1473752380854">
         <mark key="'" line="18" column="0" />
@@ -373,30 +445,15 @@
         <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/ComingApp/package.json" timestamp="1475827899132">
-        <mark key="[" line="68" column="25" />
-        <mark key="]" line="68" column="25" />
-        <mark key="^" line="64" column="29" />
-        <mark key="." line="68" column="25" />
+        <mark key="[" line="35" column="25" />
+        <mark key="]" line="35" column="25" />
+        <mark key="." line="35" column="25" />
       </file>
       <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/config/index.js" timestamp="1473759371559">
         <mark key="[" line="6" column="50" />
         <mark key="]" line="6" column="50" />
         <mark key="." line="6" column="50" />
         <mark key="^" line="6" column="50" />
-      </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/production.config.js" timestamp="1474904121121">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="9" column="9" />
-        <mark key="^" line="9" column="9" />
-        <mark key="." line="9" column="9" />
-      </file>
-      <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/store/actions.js" timestamp="1473836904117">
-        <mark key="'" line="5" column="6" />
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="13" />
-        <mark key="^" line="13" column="35" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/server/socket/index.js" timestamp="1474939116794">
         <mark key="[" line="6" column="18" />
@@ -425,12 +482,6 @@
       <file name="/Dummy.txt" timestamp="1475330915139">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/App.vue" timestamp="1473839227192">
-        <mark key="[" line="7" column="80" />
-        <mark key="]" line="7" column="80" />
-        <mark key="." line="7" column="80" />
-        <mark key="^" line="7" column="80" />
-      </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.base.conf.js" timestamp="1475073636462">
         <mark key="'" line="35" column="17" />
         <mark key="[" line="3" column="0" />
@@ -445,23 +496,11 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/model/db.js" timestamp="1472409864764">
-        <mark key="[" line="6" column="42" />
-        <mark key="]" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-        <mark key="^" line="8" column="19" />
-      </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/index.js" timestamp="1474947342357">
         <mark key="[" line="18" column="24" />
         <mark key="]" line="18" column="37" />
         <mark key="." line="18" column="37" />
         <mark key="^" line="18" column="37" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Autress/uwsgi.ini" timestamp="1472184456110">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/ProjectTemplate/app/__init__.py" timestamp="1473840314142">
         <mark key="'" line="0" column="0" />
@@ -488,24 +527,11 @@
         <mark key="." line="32" column="53" />
         <mark key="^" line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/server/api/index.js" timestamp="1474981473163">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/model/base.js" timestamp="1472409812485">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="6" column="42" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/development.config.js" timestamp="1474904126342">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="9" column="9" />
-        <mark key="." line="9" column="9" />
-        <mark key="^" line="9" column="9" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" timestamp="1475139098273">
         <mark key="'" line="23" column="28" />
@@ -523,20 +549,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="9" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/test.config.js" timestamp="1474942202084">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="9" column="54" />
-      </file>
-      <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" timestamp="1473662274880">
-        <mark key="'" line="176" column="0" />
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="34" />
-        <mark key="." line="9" column="34" />
-        <mark key="^" line="9" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/middleware/uploader.js" timestamp="1472439432305">
         <mark key="[" line="22" column="12" />
@@ -580,13 +592,6 @@
         <mark key="]" line="15" column="14" />
         <mark key="." line="15" column="14" />
         <mark key="^" line="15" column="14" />
-      </file>
-      <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/components/VuexDemo.vue" timestamp="1473842135412">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="75" />
-        <mark key="]" line="3" column="77" />
-        <mark key="." line="3" column="77" />
-        <mark key="^" line="3" column="77" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/router_map.js" timestamp="1473738480759">
         <mark key="[" line="19" column="24" />
