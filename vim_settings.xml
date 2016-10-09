@@ -177,6 +177,12 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/computer-simulator/.gitignore" timestamp="1475999210731">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+      </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-client.js" timestamp="1475148467495">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -277,12 +283,6 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/query-parser.jison" timestamp="1474991213100">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="63" column="38" />
-        <mark key="]" line="63" column="38" />
-        <mark key="." line="63" column="38" />
-      </file>
       <file name="$USER_HOME$/Workspace/Werewolf/README.md" timestamp="1475329776745">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -312,12 +312,6 @@
         <mark key="]" line="5" column="5" />
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
-      </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/dev.config.js" timestamp="1474902818607">
-        <mark key="'" line="12" column="8" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/node_modules/webpack-dev-middleware/middleware.js" timestamp="1475134498673">
         <mark key="'" line="58" column="23" />
@@ -555,12 +549,6 @@
         <mark key="]" line="22" column="13" />
         <mark key="." line="22" column="13" />
         <mark key="^" line="22" column="13" />
-      </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/base.config.js" timestamp="1474983796920">
-        <mark key="'" line="4" column="16" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/build/dev-server.js" timestamp="1472705239575">
         <mark key="'" line="57" column="0" />
