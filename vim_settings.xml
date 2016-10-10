@@ -29,8 +29,12 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/index.html" timestamp="1476014780182">
-        <mark key="'" line="10" column="6" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/index.html" timestamp="1476098510586">
+        <mark key="'" line="13" column="6" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="10" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/package.json" timestamp="1472743586566">
         <mark key="'" line="30" column="4" />
@@ -126,6 +130,13 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/components/Header.vue" timestamp="1476090566243">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/main.js" timestamp="1473835397475">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="25" column="0" />
@@ -167,6 +178,13 @@
         <mark key="." line="20" column="59" />
         <mark key="^" line="20" column="59" />
       </file>
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/components/AppFooter.vue" timestamp="1476091227480">
+        <mark key="'" line="3" column="10" />
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/build/webpack.dev.conf.js" timestamp="1472446148184">
         <mark key="[" line="29" column="17" />
         <mark key="]" line="29" column="17" />
@@ -194,12 +212,12 @@
       <file name="$USER_HOME$/Workspace/ComingApp/server/index.js" timestamp="1475827837007">
         <mark key="'" line="28" column="63" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/main.js" timestamp="1476088761757">
-        <mark key="'" line="7" column="1" />
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="21" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/main.js" timestamp="1476096023866">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/production.config.js" timestamp="1474904121121">
         <mark key="'" line="15" column="0" />
@@ -214,6 +232,13 @@
         <mark key="]" line="9" column="13" />
         <mark key="^" line="13" column="35" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/components/Footer.vue" timestamp="1476090675665">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="11" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/App.vue" timestamp="1473839227192">
         <mark key="[" line="7" column="80" />
@@ -304,6 +329,13 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="19" />
       </file>
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/components/AppHeader.vue" timestamp="1476099915766">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+        <mark key="^" line="22" column="23" />
+      </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" timestamp="1474947175687">
         <mark key="'" line="69" column="19" />
         <mark key="[" line="76" column="14" />
@@ -339,8 +371,11 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="52" column="76" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/App.vue" timestamp="1476014780371">
-        <mark key="'" line="63" column="0" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/App.vue" timestamp="1476099837190">
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="30" column="12" />
+        <mark key="^" line="30" column="12" />
+        <mark key="." line="30" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/static/test.txt" timestamp="1475131665646">
         <mark key="[" line="0" column="0" />
@@ -360,6 +395,13 @@
         <mark key="]" line="5" column="100" />
         <mark key="." line="5" column="100" />
         <mark key="^" line="5" column="100" />
+      </file>
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/components/AppNav.vue" timestamp="1476096953638">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/clients/index.js" timestamp="1474900737720">
         <mark key="'" line="0" column="0" />
@@ -386,6 +428,11 @@
         <mark key="]" line="26" column="5" />
         <mark key="^" line="26" column="5" />
         <mark key="." line="26" column="5" />
+      </file>
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/assets/layout.less" timestamp="1476099691193">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/autosave.py" timestamp="1472004830885">
         <mark key="[" line="1" column="14" />
@@ -424,6 +471,12 @@
         <mark key="]" line="20" column="6" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/computer-simulator/build/webpack.base.conf.js" timestamp="1476095462712">
+        <mark key="[" line="72" column="7" />
+        <mark key="]" line="76" column="6" />
+        <mark key="^" line="76" column="6" />
+        <mark key="." line="76" column="6" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/app.js" timestamp="1472993941492">
         <mark key="'" line="55" column="0" />
@@ -467,6 +520,12 @@
         <mark key="]" line="6" column="50" />
         <mark key="." line="6" column="50" />
         <mark key="^" line="6" column="50" />
+      </file>
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/assets/val.less" timestamp="1476099110291">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/server/socket/index.js" timestamp="1474939116794">
         <mark key="[" line="6" column="18" />
@@ -600,6 +659,12 @@
         <mark key="." line="15" column="14" />
         <mark key="^" line="15" column="14" />
       </file>
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/components/AppContent.vue" timestamp="1476096259647">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/router_map.js" timestamp="1473738480759">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="19" column="29" />
@@ -608,23 +673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="4" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/resource.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/resource.js" />
-      <jump line="16" column="65" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/query-parser.jison" />
-      <jump line="10" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/clients/index.js" />
-      <jump line="16" column="5" filename="$USER_HOME$/Workspace/NodeProjectTemplate/package.json" />
-      <jump line="4" column="16" filename="$USER_HOME$/Workspace/NodeProjectTemplate/config/base.config.js" />
-      <jump line="12" column="8" filename="$USER_HOME$/Workspace/NodeProjectTemplate/config/dev.config.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/config/test.config.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/config/development.config.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/config/production.config.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/config/production.config.js" />
-      <jump line="32" column="4" filename="$USER_HOME$/Workspace/NodeProjectTemplate/package.json" />
-      <jump line="3" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" />
-      <jump line="62" column="2" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" />
-      <jump line="2" column="26" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" />
       <jump line="59" column="20" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" />
       <jump line="11" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" />
       <jump line="25" column="7" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" />
@@ -706,48 +754,65 @@
       <jump line="27" column="53" filename="$USER_HOME$/Workspace/ComingApp/server/index.js" />
       <jump line="28" column="63" filename="$USER_HOME$/Workspace/ComingApp/server/index.js" />
       <jump line="7" column="1" filename="$USER_HOME$/Workspace/computer-simulator/src/main.js" />
-      <jump line="10" column="6" filename="$USER_HOME$/Workspace/computer-simulator/index.html" />
+      <jump line="15" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/components/Header.vue" />
+      <jump line="34" column="6" filename="$USER_HOME$/Workspace/computer-simulator/src/App.vue" />
+      <jump line="33" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/App.vue" />
       <jump line="63" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/App.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/App.vue" />
+      <jump line="2" column="3" filename="$USER_HOME$/Workspace/computer-simulator/src/components/Footer.vue" />
+      <jump line="28" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/components/Footer.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/components/Footer.vue" />
+      <jump line="10" column="6" filename="$USER_HOME$/Workspace/computer-simulator/index.html" />
+      <jump line="14" column="2" filename="$USER_HOME$/Workspace/computer-simulator/src/components/Header.vue" />
+      <jump line="28" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/components/Header.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/components/Header.vue" />
+      <jump line="8" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/main.js" />
+      <jump line="7" column="13" filename="$USER_HOME$/Workspace/computer-simulator/src/components/AppHeader.vue" />
+      <jump line="3" column="10" filename="$USER_HOME$/Workspace/computer-simulator/src/components/AppFooter.vue" />
+      <jump line="5" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/components/AppHeader.vue" />
+      <jump line="3" column="23" filename="$USER_HOME$/Workspace/computer-simulator/src/App.vue" />
+      <jump line="4" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/components/AppContent.vue" />
+      <jump line="4" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/components/AppNav.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>@header_height</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>@header_height</text>
       </register>
       <register name="/" type="4">
         <text>api</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBhID0geWllbGQgbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCk9PnsKICAgIGNvbnN0IHQgPSAxMDAwCiAgICBzZXRUaW1lb3V0KCgpPT57cmVzb2x2ZSh0KX0sIHQpCiAgfSkKICBjb25zb2xlLmxvZyhhKQo=</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6IDI2JTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl42LjAuMCIsCg==</text>
+        <text encoding="base64">CiAgQGhlYWRlcl9oZWlnaHQ6IDRlbTsKICBAZm9vdGVyX2hlaWdodDogMmVtOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1sb2FkZXIiOiAiXjYuMC4wIiwK</text>
+        <text encoding="base64">ICBAaGVhZGVyX2hlaWdodDogNGVtOwogIEBmb290ZXJfaGVpZ2h0OiAyZW07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLXJ1bnRpbWUiOiAiXjYuMC4wIiwK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZXMyMDE1IjogIl42LjAuMCIsCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtc3RhZ2UtMiI6ICJeNi4wLjAiLAo=</text>
+        <text encoding="base64">ICAgIGNvbG9yOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJjb25uZWN0LWhpc3RvcnktYXBpLWZhbGxiYWNrIjogIl4xLjEuMCIsCg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IEBjb2xvcjQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJjc3MtbG9hZGVyIjogIl4wLjIzLjAiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJ3ZWJwYWNrLW1lcmdlIjogIl4wLjguMyIK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ3ZWJwYWNrLWhvdC1taWRkbGV3YXJlIjogIl4yLjYuMCIsCg==</text>
+        <text encoding="base64">ICAgIC8qISpiYWNrZ3JvdW5kLWNvbG9yOiAjOyoqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -803,8 +868,8 @@
         <entry encoding="base64">JzwsJz5zL0RldmVsb3BtZW50L1Rlc3QvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0RldmVsb3BtZW50L1Byb2R1Y3Rpb24vZw==</entry>
         <entry>q</entry>
-        <entry>wn</entry>
         <entry>wp</entry>
+        <entry>wn</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
