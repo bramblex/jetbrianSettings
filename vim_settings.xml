@@ -184,12 +184,12 @@
         <mark key="." line="20" column="59" />
         <mark key="^" line="20" column="59" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/components/AppFooter.vue" timestamp="1476103909146">
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/components/AppFooter.vue" timestamp="1476104995293">
         <mark key="'" line="3" column="10" />
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="21" column="32" />
-        <mark key="." line="21" column="32" />
-        <mark key="^" line="21" column="32" />
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="64" />
+        <mark key="." line="2" column="64" />
+        <mark key="^" line="2" column="64" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/build/webpack.dev.conf.js" timestamp="1472446148184">
         <mark key="[" line="29" column="17" />
@@ -335,12 +335,12 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/components/AppHeader.vue" timestamp="1476103920803">
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/components/AppHeader.vue" timestamp="1476105073991">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="22" column="32" />
-        <mark key="." line="22" column="32" />
-        <mark key="^" line="22" column="32" />
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" timestamp="1474947175687">
         <mark key="'" line="69" column="19" />
@@ -436,12 +436,12 @@
         <mark key="^" line="26" column="5" />
         <mark key="." line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/assets/layout.less" timestamp="1476103886887">
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/assets/layout.less" timestamp="1476105139293">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="2" column="17" />
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/static/js/autosave.py" timestamp="1472004830885">
         <mark key="[" line="1" column="14" />
@@ -668,11 +668,12 @@
         <mark key="." line="15" column="14" />
         <mark key="^" line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/components/AppContent.vue" timestamp="1476096259647">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/components/AppContent.vue" timestamp="1476105267490">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/router_map.js" timestamp="1473738480759">
         <mark key="[" line="19" column="24" />
@@ -784,11 +785,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/assets/layout.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1.5em</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>1.5em</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>_</text>
@@ -797,31 +798,31 @@
         <text encoding="base64">ICBAaW1wb3J0ICcuLi9hc3NldHMvaGFybW9uaXplLmxlc3MnOwogIEBpbXBvcnQgJy4uL2Fzc2V0cy9sYXlvdXQubGVzcyc7CgogIGhlYWRlciB7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiBAY29sb3IzOwogICAgdGV4dC1hbGlnbjogY2VudGVyOwoKICAgIGgxIHsKICAgICAgbWFyZ2luOiAwOyBwYWRkaW5nOiAwOwogICAgICBjb2xvcjogQGNvbG9yMTsKICAgICAgbGluZS1oZWlnaHQ6IDEuNWVtOwogICAgICBmb250LXNpemU6IEBoZWFkZXJfaGVpZ2h0IC0gMWVtOwogICAgfQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luOiAwOyBwYWRkaW5nOiAwOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgbWFyZ2luOiAwOyBwYWRkaW5nOiAwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgQGhlYWRlcl9oZWlnaHQ6IDRlbTsKICBAZm9vdGVyX2hlaWdodDogMmVtOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAaGVhZGVyX2hlaWdodDogNGVtOwogIEBmb290ZXJfaGVpZ2h0OiAyZW07Cg==</text>
+        <text encoding="base64">CiAgQGhlYWRlcl9oZWlnaHQ6IDRlbTsKICBAZm9vdGVyX2hlaWdodDogMmVtOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBAaGVhZGVyX2hlaWdodDogNGVtOwogIEBmb290ZXJfaGVpZ2h0OiAyZW07Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IEBjb2xvcjQ7Cg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IEBjb2xvcjQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
