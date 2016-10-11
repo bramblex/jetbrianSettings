@@ -199,12 +199,12 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" timestamp="1476160484826">
-        <mark key="'" line="9" column="11" />
-        <mark key="[" line="32" column="18" />
-        <mark key="]" line="32" column="18" />
-        <mark key="." line="32" column="18" />
-        <mark key="^" line="32" column="18" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" timestamp="1476163946171">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/api/milestone.js" timestamp="1472743782698">
         <mark key="'" line="3" column="0" />
@@ -641,10 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" />
-      <jump line="0" column="25" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" />
       <jump line="7" column="22" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.base.conf.js" />
       <jump line="3" column="4" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.base.conf.js" />
@@ -740,64 +736,67 @@
       <jump line="13" column="18" filename="$USER_HOME$/Workspace/computer-simulator/src/components/content/AppCPU.vue" />
       <jump line="18" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/components/content/AppCPU.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/components/content/AppCPU.vue" />
-      <jump line="5" column="11" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
+      <jump line="53" column="4" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
+      <jump line="66" column="4" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
+      <jump line="5" column="14" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
+      <jump line="83" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">X1JFR0lTVEVSIA==</text>
+        <text>id=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">X1JFR0lTVEVSIA==</text>
+        <text>id=</text>
       </register>
       <register name="/" type="4">
-        <text>_</text>
+        <text>R</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vICAgdGhyb3cgbmV3IEVycm9yKCcnKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">SW5zdHJ1Y3Rpb24g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IF9SID0gUi50cmltKCkudG9VcHBlckNhc2UoKQogICAgLy8gaWYgKF9SICE9PSAnUEMnKXsKICAgIC8vICAgdGhpcy5fX3JlZ2lzdGVyc19fW19SXSA9IFYKICAgIC8vIH0gZWxzZSB7CiAgICAvLyAgIHRocm93IG5ldyBFcnJvcignJykKICAgIC8vIH0KICAgIC8vIHRoaXMuX19yZWdpc3RlcnNfX1tSICE9PSAnUEMnP10gPSBWCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBBZGRSZWdpc3RlciAoUiwgVj0weDApIHsKICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChfUikK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_</last-search>
+      <last-search>R</last-search>
       <last-offset />
-      <last-pattern>_</last-pattern>
-      <last-replace>-</last-replace>
-      <last-substitute>_</last-substitute>
+      <last-pattern>R</last-pattern>
+      <last-replace>I</last-replace>
+      <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxOVU1CRVJfREVDUkVBU0VcPg==</entry>
         <entry>Dev</entry>
         <entry>Development</entry>
         <entry>express</entry>
@@ -817,9 +816,9 @@
         <entry>vue-router</entry>
         <entry>api</entry>
         <entry>_</entry>
+        <entry>R</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvJT4vfX0vZw==</entry>
         <entry encoding="base64">JzwsJz5zL01pbGVzdG9uZS9SZWNyb2RpbmcvZw==</entry>
         <entry encoding="base64">JzwsJz5zL01pbGVzdG9uZS9SZWNvcmRpbmcvZw==</entry>
         <entry encoding="base64">JzwsJz5zL21pbGVzdG9uZS9yZWNvcmRpbmc=</entry>
@@ -838,6 +837,7 @@
         <entry>wn</entry>
         <entry encoding="base64">JzwsJz5zL18vLS9n</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL1IvSS9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
