@@ -199,12 +199,11 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" timestamp="1476167121194">
-        <mark key="'" line="55" column="11" />
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="7" />
-        <mark key="." line="24" column="7" />
-        <mark key="^" line="24" column="7" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" timestamp="1476168468109">
+        <mark key="'" line="22" column="20" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/api/milestone.js" timestamp="1472743782698">
         <mark key="'" line="3" column="0" />
@@ -641,7 +640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="22" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.base.conf.js" />
       <jump line="3" column="4" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.base.conf.js" />
       <jump line="35" column="17" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.base.conf.js" />
       <jump line="69" column="19" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" />
@@ -741,43 +739,44 @@
       <jump line="5" column="14" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
       <jump line="83" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
       <jump line="29" column="11" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
+      <jump line="22" column="20" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAnXG4nLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>Register</text>
+        <text>OP</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">TUVNT1JZIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAnXG4nLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuZXcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdGF0aWMgUkVHSVNURVIgPSAnUkVHSVNURVInCiAgc3RhdGljIE1FTU9SWSA9ICdNRU1PUlkgJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmVnaXN0ZXJzID0gcmVnaXN0ZXJzCiAgICB0aGlzLm9wZXJhbmRzID0gb3BlcmFuZHMK</text>
+        <text encoding="base64">ICBzdGF0aWMgUkVHSVNURVIgPSAnUkVHSVNURVInCiAgc3RhdGljIE1FTU9SWSA9ICdNRU1PUlkgJwogIHN0YXRpYyBMSVRFUkFMID0gJ0xJVEVSQUwnCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3Mga2oK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBzdGF0aWMgUkVHSVNURVIgPSAnUkVHSVNURVInCiAgc3RhdGljIE1FTU9SWSA9ICdNRU1PUlkgJwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gY2xhc3MgUmVnaXN0ZXIgewovLwovLyAgIHN0YXRpYyBnZW5lcmF0ZUNvZGUgKCkgewovLyAgICAgaWYgKCFSZWdpc3Rlci5fX2NvZGVfXykgeyBSZWdpc3Rlci5fX2NvZGVfXyA9IDAgfQovLyAgICAgUmVnaXN0ZXIuX19jb2RlX18rKwovLyAgICAgcmV0dXJuIFJlZ2lzdGVyLl9fY29kZV9fCi8vICAgfQovLwovLyAgIGNvbnN0cnVjdG9yIChuYW1lLCBjb2RlPVJlZ2lzdGVyLmdlbmVyYXRlQ29kZSgpKSB7Ci8vICAgICB0aGlzLm5hbWUgPSBuYW1lLnRyaW0oKS50b1VwcGVyQ2FzZSgpCi8vICAgICB0aGlzLmNvZGUgPSBjb2RlCi8vICAgfQovLwovLyB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucmVnaXN0ZXJzID0gcmVnaXN0ZXJzCiAgICB0aGlzLm9wZXJhbmRzID0gb3BlcmFuZHMK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -787,18 +786,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Register</last-search>
+      <last-search>OP</last-search>
       <last-offset />
-      <last-pattern>Register</last-pattern>
-      <last-replace>Instruction</last-replace>
-      <last-substitute>Register</last-substitute>
+      <last-pattern>OP</last-pattern>
+      <last-replace>IN</last-replace>
+      <last-substitute>OP</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Development</entry>
-        <entry>express</entry>
         <entry>proxy</entry>
         <entry>Middle</entry>
         <entry encoding="base64">XDxwcm9qZWN0Um9vdFw+</entry>
@@ -817,10 +814,10 @@
         <entry>_</entry>
         <entry>R</entry>
         <entry>Register</entry>
+        <entry>static</entry>
+        <entry>OP</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL01pbGVzdG9uZS9SZWNvcmRpbmcvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL21pbGVzdG9uZS9yZWNvcmRpbmc=</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGUvY29udGVudC9n</entry>
         <entry encoding="base64">JzwsJz5zL2FyZ3MvcXVlcnk=</entry>
         <entry encoding="base64">JzwsJz5zL3Byb2RjdXRpb24vcHJvZHVjdGlvbg==</entry>
@@ -838,6 +835,8 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL1IvSS9n</entry>
         <entry encoding="base64">JzwsJz5zL1JlZ2lzdGVyL0luc3RydWN0aW9uL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3N0YXRpYy9jb25zdC9n</entry>
+        <entry encoding="base64">JzwsJz5zL09QL0lOL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
