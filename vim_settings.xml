@@ -118,11 +118,6 @@
         <mark key="^" line="22" column="23" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/.gitignore" timestamp="1474970479699">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/model/user.js" timestamp="1472741966428">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -204,6 +199,12 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="30" column="43" />
       </file>
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" timestamp="1476151980738">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/api/milestone.js" timestamp="1472743782698">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="12" column="0" />
@@ -216,11 +217,6 @@
         <mark key="]" line="7" column="4" />
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
-      </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-client.js" timestamp="1475148467495">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/computer-simulator/src/main.js" timestamp="1476096023866">
         <mark key="'" line="8" column="0" />
@@ -309,11 +305,6 @@
         <mark key="." line="68" column="22" />
         <mark key="^" line="68" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/ComingApp/client/package.json" timestamp="1475827575880">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" timestamp="1475139038795">
         <mark key="'" line="59" column="28" />
         <mark key="[" line="56" column="61" />
@@ -327,11 +318,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="3" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Werewolf/README.md" timestamp="1475329776745">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/computer-simulator/package.json" timestamp="1476014619132">
         <mark key="[" line="15" column="19" />
@@ -520,11 +506,6 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/ComingApp/package.json" timestamp="1475827899132">
-        <mark key="[" line="35" column="25" />
-        <mark key="]" line="35" column="25" />
-        <mark key="." line="35" column="25" />
-      </file>
       <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/config/index.js" timestamp="1473759371559">
         <mark key="[" line="6" column="50" />
         <mark key="]" line="6" column="50" />
@@ -555,11 +536,6 @@
         <mark key="]" line="52" column="56" />
         <mark key="^" line="66" column="84" />
         <mark key="." line="52" column="56" />
-      </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/main.json" timestamp="1474901824025">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1476112052573">
         <mark key="[" line="0" column="0" />
@@ -598,11 +574,6 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="31" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/src/App.vue" timestamp="1475305389050">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.dev.conf.js" timestamp="1474947095320">
         <mark key="[" line="32" column="53" />
         <mark key="]" line="32" column="53" />
@@ -622,16 +593,6 @@
         <mark key="." line="31" column="28" />
         <mark key="^" line="31" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/main.json.js" timestamp="1474901574097">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/.gitignore" timestamp="1474969909462">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/middleware/uploader.js" timestamp="1472439432305">
         <mark key="[" line="22" column="12" />
         <mark key="]" line="22" column="13" />
@@ -650,11 +611,6 @@
         <mark key="]" line="15" column="6" />
         <mark key="^" line="15" column="6" />
         <mark key="." line="15" column="6" />
-      </file>
-      <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/package.json" timestamp="1474970417997">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="44" column="28" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/components/Hello.vue" timestamp="1472529833464">
         <mark key="'" line="2" column="9" />
@@ -786,11 +742,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/components/content/AppCPU.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>－</text>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text>－</text>
       </register>
       <register name="/" type="4">
         <text>_</text>
@@ -799,34 +755,34 @@
         <text encoding="base64">ICAgICAgPHVsPgogICAgICAgIDxsaT5QQzogMHgwMDAwPC9saT4KICAgICAgICA8bGk+UjA6IDB4MDAwMDwvbGk+CiAgICAgICAgPGxpPlIxOiAweDAwMDA8L2xpPgogICAgICAgIDxsaT5SMjogMHgwMDAwPC9saT4KICAgICAgICA8bGk+UjM6IDB4MDAwMDwvbGk+CiAgICAgIDwvdWw+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PiBBIFZ1ZS5qcyBwcm9qZWN0Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBjb21wdXRlci1zaW11bGF0b3IK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+UEM6IDB4MDAwMDwvbGk+CiAgICAgICAgPGxpPlIwOiAweDAwMDA8L2xpPgogICAgICAgIDxsaT5SMTogMHgwMDAwPC9saT4KICAgICAgICA8bGk+UjI6IDB4MDAwMDwvbGk+CiAgICAgICAgPGxpPlIzOiAweDAwMDA8L2xpPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICA8IS0tPGgxPkNQVTwvaDE+LS0+CgogIDwhLS08ZGl2Pi0tPgogICAgPCEtLTxoMj5SZWdpc3RlcjwvaDI+LS0+CiAgPCEtLTwvZGl2Pi0tPgoKICA8IS0tPGRpdj4tLT4KICAgIDwhLS08aDI+SW5zdHJ1Y3Rpb24gU2V0PC9oMj4tLT4KICA8IS0tPC9kaXY+LS0+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICByZXMK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -880,8 +836,8 @@
         <entry>wp</entry>
         <entry>wn</entry>
         <entry encoding="base64">JzwsJz5zL18vLS9n</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
