@@ -199,11 +199,11 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" timestamp="1476164960028">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" timestamp="1476165824303">
+        <mark key="'" line="29" column="11" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/api/milestone.js" timestamp="1472743782698">
         <mark key="'" line="3" column="0" />
@@ -640,7 +640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" />
       <jump line="7" column="22" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.base.conf.js" />
       <jump line="3" column="4" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.base.conf.js" />
       <jump line="35" column="17" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.base.conf.js" />
@@ -740,63 +739,63 @@
       <jump line="74" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
       <jump line="5" column="14" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
       <jump line="83" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
+      <jump line="29" column="11" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>{} = {x: 123}</text>
       </register>
       <register name="/" type="4">
-        <text>R</text>
+        <text>Register</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgYSA9IG5ldyBSZWdpc3RlcignUEMnKQo=</text>
+      <register name="0" type="4">
+        <text>operand=0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgYSA9IG5ldyBSZWdpc3RlcignUEMnKQpjb25zdCBiID0gbmV3IFJlZ2lzdGVyKCdSMScpCmNvbnNvbGUubG9nKGEsIGIpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMubmFtZSA9IG5hbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgYiA9IG5ldyBSZWdpc3RlcignJykK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bmV3IFJlZ2lzdGVyKG5hbWUpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>R</last-search>
+      <last-search>Register</last-search>
       <last-offset />
-      <last-pattern>R</last-pattern>
-      <last-replace>I</last-replace>
-      <last-substitute>R</last-substitute>
+      <last-pattern>Register</last-pattern>
+      <last-replace>Instruction</last-replace>
+      <last-substitute>Register</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Dev</entry>
         <entry>Development</entry>
         <entry>express</entry>
         <entry>proxy</entry>
@@ -816,9 +815,9 @@
         <entry>api</entry>
         <entry>_</entry>
         <entry>R</entry>
+        <entry>Register</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL01pbGVzdG9uZS9SZWNyb2RpbmcvZw==</entry>
         <entry encoding="base64">JzwsJz5zL01pbGVzdG9uZS9SZWNvcmRpbmcvZw==</entry>
         <entry encoding="base64">JzwsJz5zL21pbGVzdG9uZS9yZWNvcmRpbmc=</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGUvY29udGVudC9n</entry>
@@ -837,6 +836,7 @@
         <entry encoding="base64">JzwsJz5zL18vLS9n</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL1IvSS9n</entry>
+        <entry encoding="base64">JzwsJz5zL1JlZ2lzdGVyL0luc3RydWN0aW9uL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
