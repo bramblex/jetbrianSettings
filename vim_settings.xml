@@ -199,12 +199,12 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" timestamp="1476170702697">
-        <mark key="'" line="22" column="20" />
-        <mark key="[" line="40" column="11" />
-        <mark key="]" line="41" column="12" />
-        <mark key="." line="41" column="12" />
-        <mark key="^" line="41" column="12" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" timestamp="1476190682510">
+        <mark key="'" line="45" column="20" />
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="12" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/api/milestone.js" timestamp="1472743782698">
         <mark key="'" line="3" column="0" />
@@ -333,10 +333,12 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/Instruction.js" timestamp="1476176863733">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/Instruction.js" timestamp="1476190689130">
+        <mark key="'" line="3" column="11" />
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="13" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" timestamp="1474947175687">
         <mark key="'" line="69" column="19" />
@@ -499,8 +501,8 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/Register.js" timestamp="1476175473777">
-        <mark key="'" line="5" column="12" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/Register.js" timestamp="1476190677001">
+        <mark key="'" line="3" column="2" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -542,12 +544,12 @@
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/index.js" timestamp="1476176478348">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="19" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/index.js" timestamp="1476191088948">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/sg/index.html" timestamp="1473245877117">
         <mark key="'" line="9" column="0" />
@@ -659,8 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/build.js" />
-      <jump line="13" column="13" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/build.js" />
       <jump line="0" column="25" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
       <jump line="10" column="26" filename="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" />
       <jump line="9" column="34" filename="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" />
@@ -759,13 +759,15 @@
       <jump line="9" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Instruction.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Instruction.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Instruction.js" />
+      <jump line="3" column="2" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Register.js" />
+      <jump line="3" column="11" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Instruction.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>PC</text>
       </register>
       <register name="/" type="4">
         <text>OP</text>
@@ -777,28 +779,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coSW5zdHJ1Y3Rpb24pCg==</text>
+        <text encoding="base64">ICAgIHJlZ2lzdGVyc1snUEMnXSA9IDB4MAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SW5zdHJ1Y3Rpb24K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ewogIHJlZ2lzdGVyOiB7CiAgICBQQzogMHgwLAogIH0KfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgYXNkZjogYXNkZiwK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
