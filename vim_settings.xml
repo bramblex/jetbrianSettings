@@ -199,11 +199,12 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" timestamp="1476153039503">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="13" />
-        <mark key="^" line="12" column="13" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" timestamp="1476154938212">
+        <mark key="'" line="14" column="11" />
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/api/milestone.js" timestamp="1472743782698">
         <mark key="'" line="3" column="0" />
@@ -640,7 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" />
       <jump line="76" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" />
       <jump line="10" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/koa-dev-server.js" />
@@ -740,46 +740,47 @@
       <jump line="13" column="18" filename="$USER_HOME$/Workspace/computer-simulator/src/components/content/AppCPU.vue" />
       <jump line="18" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/components/content/AppCPU.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/components/content/AppCPU.vue" />
+      <jump line="5" column="11" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>－</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>－</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPHVsPgogICAgICAgIDxsaT5QQzogMHgwMDAwPC9saT4KICAgICAgICA8bGk+UjA6IDB4MDAwMDwvbGk+CiAgICAgICAgPGxpPlIxOiAweDAwMDA8L2xpPgogICAgICAgIDxsaT5SMjogMHgwMDAwPC9saT4KICAgICAgICA8bGk+UjM6IDB4MDAwMDwvbGk+CiAgICAgIDwvdWw+Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuX19jbG9ja19yYXRlX18K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBfXwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRoaXMuX18K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
