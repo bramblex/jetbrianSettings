@@ -199,12 +199,11 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" timestamp="1476163946171">
-        <mark key="'" line="100" column="0" />
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="24" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" timestamp="1476164960028">
+        <mark key="'" line="122" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/api/milestone.js" timestamp="1472743782698">
         <mark key="'" line="3" column="0" />
@@ -743,38 +742,38 @@
       <jump line="83" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>id=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>id=</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text>R</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">SW5zdHJ1Y3Rpb24g</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgYSA9IG5ldyBSZWdpc3RlcignUEMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QgYSA9IG5ldyBSZWdpc3RlcignUEMnKQpjb25zdCBiID0gbmV3IFJlZ2lzdGVyKCdSMScpCmNvbnNvbGUubG9nKGEsIGIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRoaXMubmFtZSA9IG5hbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Y29uc3QgYiA9IG5ldyBSZWdpc3RlcignJykK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">bmV3IFJlZ2lzdGVyKG5hbWUpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAK</text>
