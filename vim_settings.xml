@@ -199,11 +199,11 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" timestamp="1476168468109">
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" timestamp="1476169241681">
         <mark key="'" line="22" column="20" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/api/milestone.js" timestamp="1472743782698">
         <mark key="'" line="3" column="0" />
@@ -743,7 +743,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAnXG4nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -755,28 +755,28 @@
         <text encoding="base64">TUVNT1JZIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAnXG4nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBuZXcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coCiAgbmV3IEluc3RydWN0aW9uKCdoYWx0JyksCiAgbmV3IEluc3RydWN0aW9uKCdsb2FkJywgW0lOX1JFR0lTVEVSLCBJTl9MSVRFUkFMXSkKKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGF0aWMgUkVHSVNURVIgPSAnUkVHSVNURVInCiAgc3RhdGljIE1FTU9SWSA9ICdNRU1PUlkgJwogIHN0YXRpYyBMSVRFUkFMID0gJ0xJVEVSQUwnCg==</text>
+        <text encoding="base64">ICAnXG4nLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuZXcK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdGF0aWMgUkVHSVNURVIgPSAnUkVHSVNURVInCiAgc3RhdGljIE1FTU9SWSA9ICdNRU1PUlkgJwo=</text>
+        <text encoding="base64">ICBzdGF0aWMgUkVHSVNURVIgPSAnUkVHSVNURVInCiAgc3RhdGljIE1FTU9SWSA9ICdNRU1PUlkgJwogIHN0YXRpYyBMSVRFUkFMID0gJ0xJVEVSQUwnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmVnaXN0ZXJzID0gcmVnaXN0ZXJzCiAgICB0aGlzLm9wZXJhbmRzID0gb3BlcmFuZHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
