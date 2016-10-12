@@ -311,11 +311,11 @@
         <mark key="." line="68" column="22" />
         <mark key="^" line="68" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/Bus.js" timestamp="1476291189006">
-        <mark key="[" line="28" column="42" />
-        <mark key="]" line="28" column="50" />
-        <mark key="." line="28" column="50" />
-        <mark key="^" line="28" column="50" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/Bus.js" timestamp="1476291825226">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="29" column="19" />
+        <mark key="^" line="29" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" timestamp="1475139038795">
         <mark key="'" line="59" column="28" />
@@ -773,44 +773,44 @@
       <jump line="8" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Memory.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>pr</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>OP</text>
       </register>
-      <register name="0" type="4">
-        <text>camelcase</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBzZXQgKHJhd19hZGRyZXNzLCB2YWx1ZSkgewogICAgY29uc3Qge3ByZWZpeCwgYWRkcmVzc30gPSB0aGlzLl9faGFuZGxlUmF3QWRkcmVzc19fKHJhd19hZGRyZXNzKQogICAgdGhpcy5jb250ZW50W3ByZWZpeF0uc2V0KGFkZHJlc3MsIHZhbHVlKQogIH0KCiAgZ2V0IChyYXdfYWRkcmVzcykgewogICAgY29uc3Qge3ByZWZpeCwgYWRkcmVzc30gPSB0aGlzLl9faGFuZGxlUmF3QWRkcmVzc19fKHJhd19hZGRyZXNzKQogICAgcmV0dXJuIHRoaXMuY29udGVudFtwcmVmaXhdLmdldChhZGRyZXNzKQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y2xhc3MgQnVzSXRlbSB7CiAgYmluZCAoYnVzKSB7CiAgICB0aGlzLmJ1cyA9IGJ1cwogIH0KfQoKQnVzLkJ1c0l0ZW0gPSBCdXNJdGVtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAKICBzZXQgKHJhd19hZGRyZXNzLCB2YWx1ZSkgewogICAgY29uc3Qge3ByZWZpeCwgYWRkcmVzc30gPSB0aGlzLl9faGFuZGxlUmF3QWRkcmVzc19fKHJhd19hZGRyZXNzKQogICAgdGhpcy5jb250ZW50W3ByZWZpeF0uc2V0KGFkZHJlc3MsIHZhbHVlKQogIH0KCiAgZ2V0IChyYXdfYWRkcmVzcykgewogICAgY29uc3Qge3ByZWZpeCwgYWRkcmVzc30gPSB0aGlzLl9faGFuZGxlUmF3QWRkcmVzc19fKHJhd19hZGRyZXNzKQogICAgcmV0dXJuIHRoaXMuY29udGVudFtwcmVmaXhdLmdldChhZGRyZXNzKQogIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzZXQgKHJhdykK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzZXQgKHJhd19hZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICdjYW1lbGNhc2UnOiB7CiAgICAvLyAgICJwcm9wZXJ0aWVzIjogIm5ldmVyIgogICAgLy8gfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICdjYW1lbGNhc2UnOiB7CiAgICAvLyAgICJwcm9wZXJ0aWVzIjogIm5ldmVyIgogICAgLy8gfQo=</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvciAoKSB7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
