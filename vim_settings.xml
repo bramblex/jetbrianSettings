@@ -111,10 +111,11 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/.eslintrc.js" timestamp="1476290658949">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/.eslintrc.js" timestamp="1476333040010">
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="19" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/config/index.js" timestamp="1475148428211">
         <mark key="'" line="31" column="0" />
@@ -238,11 +239,11 @@
         <mark key="^" line="9" column="9" />
         <mark key="." line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" timestamp="1476332929835">
-        <mark key="'" line="49" column="45" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" timestamp="1476335115852">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="20" />
+        <mark key="^" line="22" column="20" />
+        <mark key="." line="22" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/store/actions.js" timestamp="1473836904117">
         <mark key="'" line="5" column="6" />
@@ -584,12 +585,12 @@
       <file name="/Dummy.txt" timestamp="1476112052573">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/FSM.js" timestamp="1476332983352">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="12" />
-        <mark key="." line="14" column="12" />
-        <mark key="^" line="14" column="12" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/FSM.js" timestamp="1476335242993">
+        <mark key="'" line="58" column="2" />
+        <mark key="[" line="75" column="55" />
+        <mark key="]" line="75" column="61" />
+        <mark key="." line="75" column="61" />
+        <mark key="^" line="75" column="61" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.base.conf.js" timestamp="1475073636462">
         <mark key="'" line="35" column="17" />
@@ -691,17 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
-      <jump line="46" column="16" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
-      <jump line="49" column="29" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
-      <jump line="51" column="3" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
-      <jump line="54" column="17" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
-      <jump line="55" column="10" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
-      <jump line="21" column="28" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
-      <jump line="71" column="16" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
-      <jump line="74" column="9" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
       <jump line="9" column="11" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
       <jump line="10" column="42" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
       <jump line="68" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
@@ -787,72 +777,77 @@
       <jump line="78" column="4" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
       <jump line="69" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
       <jump line="49" column="4" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
-      <jump line="68" column="4" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
       <jump line="50" column="45" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
       <jump line="13" column="10" filename="$USER_HOME$/Workspace/computer-simulator/src/core/FSM.js" />
       <jump line="59" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/FSM.js" />
+      <jump line="48" column="2" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
+      <jump line="68" column="15" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
+      <jump line="55" column="17" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
+      <jump line="18" column="32" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
+      <jump line="54" column="26" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
+      <jump line="53" column="24" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
+      <jump line="40" column="8" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
+      <jump line="70" column="12" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
+      <jump line="53" column="2" filename="$USER_HOME$/Workspace/computer-simulator/src/core/FSM.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.method('</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
-        <text>for</text>
+        <text>aruments</text>
       </register>
-      <register name="0" type="4">
-        <text>{current, input, next}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRoaXMuZW1pdChgJHt0aGlzLnN0YXR1c31fZW50ZXJgLCAuLi5hcmdzKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICBdKS5pbnB1dCgnYXNkZicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5ldmVudHMgPSB7fQo=</text>
+        <text encoding="base64">Ly8gKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICBuZXcgRlNNKCdhYWEnLCBbCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc29sZS5sb2coCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5ldmVudHNbZXZlbnRdID0gW10K</text>
+        <text encoding="base64">Ly8gY29uc29sZS5sb2coCi8vICAgbmV3IEZTTSgnYWFhJywgWwovLyAgICAgJ2FhYShhc2RmKT0+YmJiJwovLyAgIF0pLmlucHV0KCdhc2RmJykKLy8gKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5ldmVudHNbZXZlbnRdID0gW107Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IFtldmVudCwgbGlzdGVuZXJdID0gYXJndW1lbnRzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>for</last-search>
+      <last-search>aruments</last-search>
       <last-offset />
-      <last-pattern>for</last-pattern>
-      <last-replace />
-      <last-substitute>;</last-substitute>
+      <last-pattern>aruments</last-pattern>
+      <last-replace>input</last-replace>
+      <last-substitute>...args</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>read</entry>
-        <entry>rout</entry>
-        <entry>port</entry>
-        <entry>index</entry>
-        <entry>root</entry>
-        <entry>index.html</entry>
         <entry>app.js</entry>
         <entry>path</entry>
         <entry>outputPaht</entry>
@@ -867,9 +862,14 @@
         <entry>.method\('(\w+)', function</entry>
         <entry>;</entry>
         <entry>for</entry>
+        <entry>Array</entry>
+        <entry>var</entry>
+        <entry>apply</entry>
+        <entry>once</entry>
+        <entry>...args</entry>
+        <entry>aruments</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3Byb2RjdXRpb24vcHJvZHVjdGlvbg==</entry>
         <entry encoding="base64">JzwsJz5zL3Byb2RjdXRpb24vcHJvZHVjdGlvbi9n</entry>
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzxhLzxzcGFu</entry>
@@ -888,6 +888,7 @@
         <entry>wp</entry>
         <entry encoding="base64">JzwsJz5zLy5tZXRob2RcKCcoXHcrKScsIGZ1bmN0aW9uL1wxL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzsvL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLy4uLmFyZ3MvaW5wdXQvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
