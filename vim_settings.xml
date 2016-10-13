@@ -238,6 +238,12 @@
         <mark key="^" line="9" column="9" />
         <mark key="." line="9" column="9" />
       </file>
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" timestamp="1476332929835">
+        <mark key="'" line="49" column="45" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/store/actions.js" timestamp="1473836904117">
         <mark key="'" line="5" column="6" />
         <mark key="[" line="9" column="6" />
@@ -303,6 +309,11 @@
         <mark key="]" line="3" column="77" />
         <mark key="." line="3" column="77" />
         <mark key="^" line="3" column="77" />
+      </file>
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/EventEmitter.js" timestamp="1476332071382">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/MilestoneCreate.vue" timestamp="1472631109492">
         <mark key="'" line="5" column="76" />
@@ -573,11 +584,12 @@
       <file name="/Dummy.txt" timestamp="1476112052573">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/FSM.js" timestamp="1476330052502">
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="16" />
-        <mark key="." line="17" column="16" />
-        <mark key="^" line="17" column="16" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/FSM.js" timestamp="1476332983352">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+        <mark key="^" line="14" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.base.conf.js" timestamp="1475073636462">
         <mark key="'" line="35" column="17" />
@@ -679,16 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="14" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/api/index.js" />
-      <jump line="15" column="24" filename="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" />
-      <jump line="7" column="48" filename="$USER_HOME$/Workspace/NodeProjectTemplate/package.json" />
-      <jump line="16" column="25" filename="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" />
-      <jump line="17" column="30" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/query-parser.jison" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/helper/api-generator.js" />
-      <jump line="29" column="2" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/resource.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/query-parser.jison" />
-      <jump line="3" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/query-parser.js" />
-      <jump line="20" column="62" filename="$USER_HOME$/Workspace/NodeProjectTemplate/library/where.js" />
       <jump line="15" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
       <jump line="22" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
       <jump line="46" column="16" filename="$USER_HOME$/Workspace/NodeProjectTemplate/server/index.js" />
@@ -779,65 +781,72 @@
       <jump line="28" column="2" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Bus.js" />
       <jump line="8" column="14" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
       <jump line="38" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Memory.js" />
+      <jump line="5" column="4" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
+      <jump line="4" column="6" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
+      <jump line="83" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
+      <jump line="78" column="4" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
+      <jump line="49" column="4" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
+      <jump line="68" column="4" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
+      <jump line="50" column="45" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
+      <jump line="13" column="10" filename="$USER_HOME$/Workspace/computer-simulator/src/core/FSM.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/FSM.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>let</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>.method('</text>
       </register>
       <register name="/" type="4">
-        <text>OP</text>
+        <text>for</text>
       </register>
       <register name="0" type="4">
-        <text>raw_rule['current']</text>
+        <text>{current, input, next}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHJ1bGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcnVsZSA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHJ1bGUK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5ldmVudHMgPSB7fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5ldmVudHNbZXZlbnRdID0gW10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5ldmVudHNbZXZlbnRdID0gW107Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHtjdXJyZW50LCBpbnB1dCwgbmV4dH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>OP</last-search>
+      <last-search>for</last-search>
       <last-offset />
-      <last-pattern>OP</last-pattern>
-      <last-replace>IN</last-replace>
-      <last-substitute>OP</last-substitute>
+      <last-pattern>for</last-pattern>
+      <last-replace />
+      <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>proxy</entry>
-        <entry>Middle</entry>
-        <entry encoding="base64">XDxwcm9qZWN0Um9vdFw+</entry>
         <entry>read</entry>
         <entry>rout</entry>
         <entry>port</entry>
@@ -855,10 +864,11 @@
         <entry>Register</entry>
         <entry>static</entry>
         <entry>OP</entry>
+        <entry>.method\('(\w+)', function</entry>
+        <entry>;</entry>
+        <entry>for</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2RhdGUvY29udGVudC9n</entry>
-        <entry encoding="base64">JzwsJz5zL2FyZ3MvcXVlcnk=</entry>
         <entry encoding="base64">JzwsJz5zL3Byb2RjdXRpb24vcHJvZHVjdGlvbg==</entry>
         <entry encoding="base64">JzwsJz5zL3Byb2RjdXRpb24vcHJvZHVjdGlvbi9n</entry>
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
@@ -876,6 +886,8 @@
         <entry encoding="base64">JzwsJz5zL09QL0lOL2c=</entry>
         <entry>wn</entry>
         <entry>wp</entry>
+        <entry encoding="base64">JzwsJz5zLy5tZXRob2RcKCcoXHcrKScsIGZ1bmN0aW9uL1wxL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzsvL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
