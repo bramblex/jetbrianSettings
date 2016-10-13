@@ -204,12 +204,12 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" timestamp="1476323706419">
-        <mark key="'" line="21" column="14" />
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="19" />
-        <mark key="." line="10" column="19" />
-        <mark key="^" line="10" column="19" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" timestamp="1476327916836">
+        <mark key="'" line="50" column="14" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="25" column="1" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/api/milestone.js" timestamp="1472743782698">
         <mark key="'" line="3" column="0" />
@@ -311,11 +311,11 @@
         <mark key="." line="68" column="22" />
         <mark key="^" line="68" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/Bus.js" timestamp="1476293511515">
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/Bus.js" timestamp="1476326806022">
         <mark key="'" line="28" column="2" />
-        <mark key="[" line="32" column="36" />
-        <mark key="]" line="33" column="17" />
-        <mark key="." line="33" column="17" />
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
         <mark key="^" line="33" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" timestamp="1475139038795">
@@ -573,6 +573,12 @@
       <file name="/Dummy.txt" timestamp="1476112052573">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/FSM.js" timestamp="1476330052502">
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+        <mark key="^" line="17" column="16" />
+      </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.base.conf.js" timestamp="1475073636462">
         <mark key="'" line="35" column="17" />
         <mark key="[" line="3" column="0" />
@@ -776,43 +782,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>instruction_set</text>
+        <text>let</text>
       </register>
       <register name="-" type="4">
-        <text>instrucion_set</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text>OP</text>
       </register>
       <register name="0" type="4">
-        <text>instruction_set</text>
+        <text>raw_rule['current']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgbGV0IHJ1bGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gY2xhc3MgUmVnaXN0ZXIgewovLyB9Ci8vIGNsYXNzIEluc3RyY3Rpb24gewovLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcnVsZSA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0IHJ1bGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYnVzX2l0ZW0uYmluZEJ1cyh0aGlzKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHtjdXJyZW50LCBpbnB1dCwgbmV4dH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
