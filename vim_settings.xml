@@ -323,11 +323,11 @@
         <mark key="." line="68" column="22" />
         <mark key="^" line="68" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/Bus.js" timestamp="1476346453708">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="12" />
-        <mark key="." line="10" column="12" />
-        <mark key="^" line="10" column="12" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/Bus.js" timestamp="1476347402094">
+        <mark key="[" line="55" column="16" />
+        <mark key="]" line="55" column="30" />
+        <mark key="." line="55" column="30" />
+        <mark key="^" line="55" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" timestamp="1475139038795">
         <mark key="'" line="59" column="28" />
@@ -792,44 +792,44 @@
       <jump line="4" column="21" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Bus.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y29udGVudCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29udGVudCA=</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>aruments</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gY2xhc3MgQnVzIHsKLy8gICBjb25zdHJ1Y3RvciAoc2l6ZSA9IDIpIHsKLy8gICAgIHRoaXMuc2l6ZSA9IDIKLy8gICAgIHRoaXMuY29udGVudCA9IF8udGltZXMoKDEgPDwgc2l6ZSkgLSAxLCAoKSA9PiBudWxsKQovLyAgIH0K</text>
+        <text encoding="base64">ICAvLyAgICAgdGhyb3cgbmV3IEVycm9yKCdCdXMgaGFzIG5vIGVtcHR5IGFkZHJlc3MnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gY29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgQnVzIHsKICBjb25zdHJ1Y3RvciAoYWRkcmVzc19zaXplKSB7CiAgfQp9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWRkcmVzc19zaXplID0gMgogICAgdGhpcy5jb250ZW50Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y2xhc3MK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvLwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAvLwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAvLyBfX2dldEVtcHR5QWRkcmVzc19fICgpIHsKICAvLyAgIGNvbnN0IGFkZHJlc3MgPSBfLmZpbmRJbmRleCh0aGlzLmNvbnRlbnQsIG51bGwpCiAgLy8gICBpZiAoYWRkcmVzcyA+PSAwKXsKICAvLyAgICAgcmV0dXJuIGFkZHJlc3MKICAvLyAgIH0gZWxzZSB7CiAgLy8gICAgIHRocm93IG5ldyBFcnJvcignQnVzIGhhcyBubyBlbXB0eSBhZGRyZXNzJykKICAvLyAgIH0KICAvLyB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoKCiBbJ2FhYShiYmIpID0+IGNjYyddCgogKi8K</text>
+        <text encoding="base64">ICB9CiAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
