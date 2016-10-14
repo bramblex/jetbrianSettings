@@ -216,11 +216,12 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" timestamp="1476417749786">
-        <mark key="'" line="65" column="14" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" timestamp="1476444299664">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/api/milestone.js" timestamp="1472743782698">
         <mark key="'" line="3" column="0" />
@@ -744,8 +745,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="23" filename="$USER_HOME$/Workspace/NodeProjectTemplate/node_modules/webpack-dev-middleware/middleware.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
       <jump line="60" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
       <jump line="0" column="11" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
       <jump line="21" column="9" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
@@ -793,7 +792,6 @@
       <jump line="66" column="4" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
       <jump line="74" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
       <jump line="5" column="14" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
-      <jump line="83" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
       <jump line="29" column="11" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
       <jump line="22" column="20" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
       <jump line="9" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/index.js" />
@@ -806,7 +804,6 @@
       <jump line="3" column="11" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Instruction.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Memory.js" />
       <jump line="28" column="2" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Bus.js" />
-      <jump line="8" column="14" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
       <jump line="38" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Memory.js" />
       <jump line="5" column="4" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
       <jump line="4" column="6" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
@@ -844,46 +841,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/ComingApp/server/api/user_api.js" />
       <jump line="3" column="6" filename="$USER_HOME$/Workspace/ComingApp/server/api/user_api.js" />
       <jump line="38" column="0" filename="$USER_HOME$/Workspace/ComingApp/server/admin/views/event_code.pug" />
+      <jump line="8" column="4" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
+      <jump line="83" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
+      <jump line="44" column="2" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
+      <jump line="131" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHN1cGVyKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>, FSM)</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwLnVzZShib2R5UGFyc2VyKCkpOwo=</text>
+        <text encoding="base64">ICAgIC8vICAgY29uc3QgciA9IHRoaXMucmVnaXN0ZXJzW3JlZ2lzdGVyLmNvZGVdCiAgICAvLyAgIGlmIChyKSB7CiAgICAvLyAgICAgdGhyb3cgbmV3IEVycm9yKGAke3JlZ2lzdGVyLn1gKQogICAgLy8gICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHN1cGVyKCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB5aWVsZCAK</text>
+        <text encoding="base64">ICAgIHRoaXMuZGZhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50OiB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoY291bnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRyZXNzX2xlbmd0aDogMiwK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgYm9keVBhcnNlciA9IHJlcXVpcmUoJ2tvYS1ib2R5cGFyc2VyJykK</text>
+        <text encoding="base64">ICAgIF8uZm9ySW4oY29uZmlnLmluc3RydWN0aW9ucykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgZXZlbnRfY29kZSA9IFJvdXRlcigpCg==</text>
+        <text encoding="base64">ICAgIC8vIF8ua2V5cyhjb25maWcucmVnaXN0ZXJzLmNvbnRlbnQsIChrZXkpKQogICAgLy8gY29uZmlnLnJlZ2lzdGVycy5jb250ZW50LmZvckVhY2gocmVnaXN0ZXIgPT4gewogICAgLy8gICBjb25zdCByID0gdGhpcy5yZWdpc3RlcnNbcmVnaXN0ZXIuY29kZV0KICAgIC8vICAgaWYgKHIpIHsKICAgIC8vICAgICB0aHJvdyBuZXcgRXJyb3IoYCR7cmVnaXN0ZXIufWApCiAgICAvLyAgIH0KICAgIC8vIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
