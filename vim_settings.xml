@@ -235,10 +235,10 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/ComingApp/server/admin/event_code.js" timestamp="1476438466298">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Workspace/ComingApp/server/admin/event_code.js" timestamp="1476440536373">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/computer-simulator/src/main.js" timestamp="1476096023866">
         <mark key="'" line="8" column="0" />
@@ -246,6 +246,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/ComingApp/server/index.js" timestamp="1476440175117">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="22" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/production.config.js" timestamp="1474904121121">
         <mark key="'" line="15" column="0" />
@@ -274,12 +278,11 @@
         <mark key="." line="11" column="12" />
         <mark key="^" line="11" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/ComingApp/server/admin/index.js" timestamp="1476437206615">
+      <file name="$USER_HOME$/Workspace/ComingApp/server/admin/index.js" timestamp="1476440180501">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="37" column="32" />
-        <mark key="]" line="38" column="27" />
-        <mark key="." line="38" column="27" />
-        <mark key="^" line="38" column="27" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/App.vue" timestamp="1473839227192">
         <mark key="[" line="7" column="80" />
@@ -847,40 +850,40 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
       </register>
-      <register name="0" type="4">
-        <text>pagination</text>
+      <register name="0" type="2">
+        <text encoding="base64">YXBwLnVzZShib2R5UGFyc2VyKCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiBpID09IHBhZ2luYXRpb24uY3VycmVudAogICAgICAgICAgICAgICAgYSAje2l9CiAgICAgICAgICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICB5aWVsZCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhZwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxpCiAgICAgICAgICAgIGEoaHJlZj0nIycpIDIKICAgICAgICAgIGxpCiAgICAgICAgICAgIGEoaHJlZj0nIycpIDMKICAgICAgICAgIGxpCiAgICAgICAgICAgIGEoaHJlZj0nIycpIDQKICAgICAgICAgIGxpCiAgICAgICAgICAgIGEoaHJlZj0nIycpIDUK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxpCiAgICAgICAgICAgIGEoaHJlZj0nIycpIDIKICAgICAgICAgIGxpCiAgICAgICAgICAgIGEoaHJlZj0nIycpIDMKICAgICAgICAgIGxpCiAgICAgICAgICAgIGEoaHJlZj0nIycpIDQKICAgICAgICAgIGxpCiAgICAgICAgICAgIGEoaHJlZj0nIycpIDUKICAgICAgICAgIGxpCg==</text>
+        <text encoding="base64">ICBpZiAoY291bnQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGkKICAgICAgICAgICAgICBhKGhyZWY9JyMnKSDCqwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGkgI3tpfQo=</text>
+        <text encoding="base64">Y29uc3QgYm9keVBhcnNlciA9IHJlcXVpcmUoJ2tvYS1ib2R5cGFyc2VyJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGkK</text>
+        <text encoding="base64">Y29uc3QgZXZlbnRfY29kZSA9IFJvdXRlcigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
