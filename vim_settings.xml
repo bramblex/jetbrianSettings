@@ -15,6 +15,10 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="15" column="20" />
       </file>
+      <file name="$USER_HOME$/Workspace/ComingApp/server/models/event_code.js" timestamp="1476435643520">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="30" column="5" />
+      </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/index.js" timestamp="1474728938604">
         <mark key="'" line="3" column="30" />
         <mark key="[" line="3" column="23" />
@@ -97,6 +101,13 @@
         <mark key="]" line="8" column="20" />
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/ComingApp/server/admin/views/base.pug" timestamp="1476436286830">
+        <mark key="'" line="4" column="5" />
+        <mark key="[" line="30" column="34" />
+        <mark key="]" line="30" column="37" />
+        <mark key="." line="30" column="37" />
+        <mark key="^" line="30" column="37" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" timestamp="1472866460636">
         <mark key="'" line="45" column="0" />
@@ -224,6 +235,11 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
+      <file name="$USER_HOME$/Workspace/ComingApp/server/admin/event_code.js" timestamp="1476438466298">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/computer-simulator/src/main.js" timestamp="1476096023866">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="1" column="23" />
@@ -258,11 +274,12 @@
         <mark key="." line="11" column="12" />
         <mark key="^" line="11" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/ComingApp/server/admin/index.js" timestamp="1476426552604">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="30" column="0" />
+      <file name="$USER_HOME$/Workspace/ComingApp/server/admin/index.js" timestamp="1476437206615">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="37" column="32" />
+        <mark key="]" line="38" column="27" />
+        <mark key="." line="38" column="27" />
+        <mark key="^" line="38" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/App.vue" timestamp="1473839227192">
         <mark key="[" line="7" column="80" />
@@ -483,6 +500,13 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
+      <file name="$USER_HOME$/Workspace/ComingApp/server/admin/views/event_token.pug" timestamp="1476435790164">
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="32" column="20" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/components/Foo.vue" timestamp="1472529993455">
         <mark key="[" line="20" column="14" />
         <mark key="]" line="20" column="16" />
@@ -546,6 +570,15 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
+      <file name="$USER_HOME$/Workspace/ComingApp/server/api/user_api.js" timestamp="1476436417215">
+        <mark key="'" line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/Workspace/ComingApp/server/admin/views/event_code.pug" timestamp="1476438432374">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="43" column="46" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/main.js" timestamp="1473752380854">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="0" column="12" />
@@ -601,9 +634,6 @@
         <mark key="]" line="52" column="56" />
         <mark key="^" line="66" column="84" />
         <mark key="." line="52" column="56" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1476112052573">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/computer-simulator/src/core/FSM.js" timestamp="1476346182999">
         <mark key="'" line="57" column="2" />
@@ -711,17 +741,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="21" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
-      <jump line="46" column="11" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
-      <jump line="48" column="17" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
-      <jump line="68" column="26" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
-      <jump line="42" column="21" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
-      <jump line="43" column="44" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
-      <jump line="47" column="11" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.prod.conf.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/node_modules/webpack-dev-middleware/middleware.js" />
-      <jump line="59" column="9" filename="$USER_HOME$/Workspace/NodeProjectTemplate/node_modules/webpack-dev-middleware/middleware.js" />
       <jump line="58" column="23" filename="$USER_HOME$/Workspace/NodeProjectTemplate/node_modules/webpack-dev-middleware/middleware.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
       <jump line="60" column="0" filename="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/dev-server.js" />
@@ -811,67 +830,73 @@
       <jump line="4" column="21" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Bus.js" />
       <jump line="12" column="28" filename="$USER_HOME$/Workspace/ComingApp/server/admin/index.js" />
       <jump line="15" column="0" filename="$USER_HOME$/Workspace/ComingApp/server/admin/index.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Workspace/ComingApp/server/admin/views/base.pug" />
+      <jump line="27" column="40" filename="$USER_HOME$/Workspace/ComingApp/server/admin/views/base.pug" />
+      <jump line="41" column="20" filename="$USER_HOME$/Workspace/ComingApp/server/admin/views/base.pug" />
+      <jump line="50" column="47" filename="$USER_HOME$/Workspace/ComingApp/server/admin/views/base.pug" />
+      <jump line="4" column="5" filename="$USER_HOME$/Workspace/ComingApp/server/admin/views/base.pug" />
+      <jump line="10" column="36" filename="$USER_HOME$/Workspace/ComingApp/server/admin/views/event_token.pug" />
+      <jump line="25" column="4" filename="$USER_HOME$/Workspace/ComingApp/server/admin/views/event_token.pug" />
+      <jump line="4" column="0" filename="$USER_HOME$/Workspace/ComingApp/server/admin/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/ComingApp/server/api/user_api.js" />
+      <jump line="3" column="6" filename="$USER_HOME$/Workspace/ComingApp/server/api/user_api.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/Workspace/ComingApp/server/admin/views/event_code.pug" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>aruments</text>
+        <text>db</text>
       </register>
       <register name="0" type="4">
-        <text>Q29taW5nQXBwCg</text>
+        <text>pagination</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwLnVzZShmdW5jdGlvbiAqKCl7CiAgeWllbGQgdGhpcy5yZW5kZXIoJ2hlbGxvLnB1ZycpCn0pCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiBpID09IHBhZ2luYXRpb24uY3VycmVudAogICAgICAgICAgICAgICAgYSAje2l9CiAgICAgICAgICAgICAgZWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hcDogewogICAgICBwdWc6ICdqYWRlJwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHBhZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0aGlzLmJvZHkgPSAnaGVsbG8nCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxpCiAgICAgICAgICAgIGEoaHJlZj0nIycpIDIKICAgICAgICAgIGxpCiAgICAgICAgICAgIGEoaHJlZj0nIycpIDMKICAgICAgICAgIGxpCiAgICAgICAgICAgIGEoaHJlZj0nIycpIDQKICAgICAgICAgIGxpCiAgICAgICAgICAgIGEoaHJlZj0nIycpIDUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwLnVzZShmdW5jdGlvbiAqKCl7CiAgdGhpcy5yZW5kZXIoJ2hlbGxvLnB1ZycpCn0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxpCiAgICAgICAgICAgIGEoaHJlZj0nIycpIDIKICAgICAgICAgIGxpCiAgICAgICAgICAgIGEoaHJlZj0nIycpIDMKICAgICAgICAgIGxpCiAgICAgICAgICAgIGEoaHJlZj0nIycpIDQKICAgICAgICAgIGxpCiAgICAgICAgICAgIGEoaHJlZj0nIycpIDUKICAgICAgICAgIGxpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0aGlzLmJvZHkgPSAnaGVsbG8nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGkKICAgICAgICAgICAgICBhKGhyZWY9JyMnKSDCqwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0aGlzLmJvZHkgPSAnc2VjcmV0Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGkgI3tpfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>aruments</last-search>
+      <last-search>db</last-search>
       <last-offset />
-      <last-pattern>aruments</last-pattern>
-      <last-replace>input</last-replace>
-      <last-substitute>...args</last-substitute>
+      <last-pattern>db</last-pattern>
+      <last-replace />
+      <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>app.js</entry>
-        <entry>path</entry>
-        <entry>outputPaht</entry>
-        <entry encoding="base64">XDxvdXRwdXRQYXRoXD4=</entry>
-        <entry>vue-router</entry>
         <entry>api</entry>
         <entry>_</entry>
         <entry>R</entry>
@@ -887,10 +912,13 @@
         <entry>once</entry>
         <entry>...args</entry>
         <entry>aruments</entry>
+        <entry>search</entry>
+        <entry>'</entry>
+        <entry>:</entry>
+        <entry>token</entry>
+        <entry>db</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3Byb2RjdXRpb24vcHJvZHVjdGlvbi9n</entry>
-        <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzxhLzxzcGFu</entry>
         <entry encoding="base64">JzwsJz5zL1wvYS9cL3NwYW4=</entry>
         <entry encoding="base64">JzwsJz5zL0Rldi9EZXZlbG9wbWVudA==</entry>
@@ -908,6 +936,8 @@
         <entry encoding="base64">JzwsJz5zLzsvL2c=</entry>
         <entry encoding="base64">JzwsJz5zLy4uLmFyZ3MvaW5wdXQvZw==</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
+        <entry encoding="base64">JzwsJz5zLzovL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
