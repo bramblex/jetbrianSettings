@@ -109,12 +109,12 @@
         <mark key="." line="30" column="37" />
         <mark key="^" line="30" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/core/date.js" timestamp="1476675824082">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="13" />
-        <mark key="^" line="12" column="13" />
+      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/core/date.js" timestamp="1476678115811">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="26" column="38" />
+        <mark key="]" line="26" column="37" />
+        <mark key="." line="26" column="37" />
+        <mark key="^" line="26" column="37" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" timestamp="1472866460636">
         <mark key="'" line="45" column="0" />
@@ -910,43 +910,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldAo=</text>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRheSA9IHsxOjB9Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ID0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGxldCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBpZiAobm93LmdldEZ1bGxZZWFyKCkgPiBsYXN0X3llYXIpewogIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIGlmICh5ZWFyID09PSBmcm9tLnllYXIpewogICAgLy8gICBtb250aCA9IGZyb20ubW9udGgKICAgIC8vIH0gZWxzZSB7CiAgICAvLyB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgbW9udGggPQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGlmICh5ZWFyID09PSApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
