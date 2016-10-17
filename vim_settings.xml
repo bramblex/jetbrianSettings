@@ -109,12 +109,12 @@
         <mark key="." line="30" column="37" />
         <mark key="^" line="30" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/core/date.js" timestamp="1476678115811">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="26" column="38" />
-        <mark key="]" line="26" column="37" />
-        <mark key="." line="26" column="37" />
-        <mark key="^" line="26" column="37" />
+      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/core/date.js" timestamp="1476679087983">
+        <mark key="'" line="34" column="6" />
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="18" />
+        <mark key="." line="29" column="18" />
+        <mark key="^" line="21" column="9" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/App.vue" timestamp="1472866460636">
         <mark key="'" line="45" column="0" />
@@ -691,12 +691,12 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/components/Hello.vue" timestamp="1476674687598">
+      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/components/Hello.vue" timestamp="1476679197124">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="20" column="34" />
-        <mark key="." line="20" column="34" />
-        <mark key="^" line="20" column="34" />
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="27" />
+        <mark key="." line="24" column="27" />
+        <mark key="^" line="24" column="44" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/router.js" timestamp="1472540477776">
         <mark key="'" line="3" column="0" />
@@ -807,7 +807,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/Workspace/ComingApp/server/index.js" />
       <jump line="18" column="19" filename="$USER_HOME$/Workspace/ComingApp/server/index.js" />
       <jump line="23" column="9" filename="$USER_HOME$/Workspace/ComingApp/server/index.js" />
       <jump line="26" column="40" filename="$USER_HOME$/Workspace/ComingApp/server/index.js" />
@@ -907,46 +906,47 @@
       <jump line="7" column="0" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/core/index.js" />
       <jump line="9" column="1" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/core/index.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/core/date.js" />
+      <jump line="34" column="6" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/core/date.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ID0=</text>
+        <text encoding="base64">dHJhdmVsRGF5cwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCAK</text>
+        <text encoding="base64">ICAgICAgdHJhdmVsRGF5cyh7CiAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBpbXBvcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkYXlzSW5Nb250aAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdW5jdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGlmICh5ZWFyID09PSBmcm9tLnllYXIpewogICAgLy8gICBtb250aCA9IGZyb20ubW9udGgKICAgIC8vIH0gZWxzZSB7CiAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbW9udGggPQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICh5ZWFyID09PSApCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQKICAgICAgICAgIGlmICh5ZWFyID09PSBmcm9tLnllYXIgJiYgbW9udGggPT09IGZyb20ubW9udGgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
