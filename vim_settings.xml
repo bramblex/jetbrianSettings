@@ -144,6 +144,13 @@
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
       </file>
+      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/storge/index.js" timestamp="1476721981637">
+        <mark key="'" line="28" column="7" />
+        <mark key="[" line="21" column="43" />
+        <mark key="]" line="21" column="57" />
+        <mark key="." line="21" column="57" />
+        <mark key="^" line="21" column="57" />
+      </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/config/index.js" timestamp="1475148428211">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="9" column="23" />
@@ -288,11 +295,12 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/index.html" timestamp="1476670081154">
-        <mark key="'" line="15" column="7" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/index.html" timestamp="1476717817564">
+        <mark key="'" line="16" column="7" />
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="10" column="50" />
+        <mark key="." line="10" column="50" />
+        <mark key="^" line="10" column="50" />
       </file>
       <file name="$USER_HOME$/Workspace/computer-simulator/src/components/Footer.vue" timestamp="1476090675665">
         <mark key="'" line="0" column="0" />
@@ -814,7 +822,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/App.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/App.vue" />
       <jump line="2" column="3" filename="$USER_HOME$/Workspace/computer-simulator/src/components/Footer.vue" />
       <jump line="28" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/components/Footer.vue" />
@@ -914,90 +921,47 @@
       <jump line="11" column="4" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/core/tags.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/core/tags.js" />
       <jump line="69" column="0" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/core/index.js" />
+      <jump line="13" column="7" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/storge/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>local</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
       </register>
       <register name="0" type="4">
-        <text>travelDates</text>
+        <text>[tag, desc]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
-      <register name="2" type="8">
-        <text>tags.symbol.
-tags.symbol.
-tags.symbol.
-tags.symbol.
-tags.symbol.
-tags.symbol.
-tags.symbol.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHRhZ3MgZnJvbSAnLi90YWdzJwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-  symbol: {
-    no_recorded,
-    amuse,
-    force,
-    efficiency,
-    delay
-  },
-
-  [no_recorded]: {
-    name: '未记录',
-    color: 'grey'
-  },
-
-  [amuse]: {
-    name: '娱乐时间',
-    color: 'blue'
-  },
-
-  [rest]: {
-    name: '休息时间',
-    color: 'green'
-  },
-
-  [force]: {
-    name: '强迫时间',
-    color: 'orange'
-  },
-
-  [efficiency]: {
-    name: '高效时间',
-    color: 'yellow'
-  },
-
-  [delay]: {
-    name: '拖延时间',
-    color: 'red'
-  }
-}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVidWdnZXIK</text>
+        <text encoding="base64">ICBjb25zdCB5ZWFyX2xpc3Rfd2l0aAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBub19yZWNvcmRlZAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVidWdnZXIK</text>
+        <text encoding="base64">Y29uc3QgcHIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
