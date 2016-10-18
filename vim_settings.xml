@@ -830,11 +830,11 @@
         <mark key="." line="21" column="16" />
         <mark key="^" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/storge/Storage.js" timestamp="1476725341934">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-        <mark key="^" line="8" column="21" />
+      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/storge/Storage.js" timestamp="1476752320739">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/router_map.js" timestamp="1473738480759">
         <mark key="[" line="19" column="24" />
@@ -947,10 +947,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>[]</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
