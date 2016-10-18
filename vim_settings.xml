@@ -144,11 +144,12 @@
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/storge/index.js" timestamp="1476724210832">
-        <mark key="'" line="48" column="7" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/storge/index.js" timestamp="1476725246532">
+        <mark key="'" line="63" column="7" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="17" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/config/index.js" timestamp="1475148428211">
         <mark key="'" line="31" column="0" />
@@ -615,6 +616,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/storge/SimpleEventEmitter.js" timestamp="1476724330607">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="14" />
+        <mark key="." line="80" column="14" />
+        <mark key="^" line="80" column="14" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/store/getters.js" timestamp="1472658974642">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="14" />
@@ -822,6 +830,12 @@
         <mark key="." line="21" column="16" />
         <mark key="^" line="21" column="16" />
       </file>
+      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/storge/Storage.js" timestamp="1476725341934">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/router_map.js" timestamp="1473738480759">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="19" column="29" />
@@ -830,7 +844,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="6" filename="$USER_HOME$/Workspace/computer-simulator/index.html" />
       <jump line="14" column="2" filename="$USER_HOME$/Workspace/computer-simulator/src/components/Header.vue" />
       <jump line="28" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/components/Header.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/components/Header.vue" />
@@ -930,46 +943,47 @@
       <jump line="5" column="30" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/storge/keys.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/storge/keys.js" />
       <jump line="28" column="0" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/storge/prefix.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/storge/SimpleEventEmitter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
       </register>
-      <register name="0" type="4">
-        <text>{prefix, yearPrefix, monthPrefix, datePrefix}</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IF8gZnJvbSAnbG9kYXNoJwovLyBpbXBvcnQga2V5IGZyb20gJy4va2V5Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcihwcmVmaXggPSAnc3RvcmFnZScpewogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm4gcChTdG9yYWdlW2tleS55ZWFyX2xpc3RdKS5tYXAoeWVhciA9PiBwKFN0b3JhZ2Vba2V5LnllYXIoeWVhcildKSkKICAvLyBjb25zdCB5ZWFyX2xpc3QgPSBKU09OLnBhcnNlKFN0b3JhZ2Vba2V5LnllYXJfbGlzdF0pCiAgLy8geWVhcl9saXN0Lm1hcCh5ZWFyID0+CiAgLy8gICBKU09OLnBhcnNlKFN0b3JhZ2Vba2V5LnllYXIoeWVhcildKS5tYXAobW9udGggPT4pCiAgLy8gKQo=</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuX19zdG9yYWdlX18gPSBsb2NhbFN0b3JhZ2UKICAgIC8vIHRoaXMuX195ZWFyX2xpc3RfXyA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICB0aGlzLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
