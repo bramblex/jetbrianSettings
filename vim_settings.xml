@@ -830,11 +830,10 @@
         <mark key="." line="21" column="16" />
         <mark key="^" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/storge/Storage.js" timestamp="1476752320739">
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="9" column="30" />
-        <mark key="." line="9" column="30" />
-        <mark key="^" line="9" column="30" />
+      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/storge/Storage.js" timestamp="1476755344245">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="22" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/router_map.js" timestamp="1473738480759">
         <mark key="[" line="19" column="24" />
@@ -947,10 +946,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[]</text>
+        <text>define</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text>define</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
@@ -959,31 +958,31 @@
         <text encoding="base64">Ly8gaW1wb3J0IF8gZnJvbSAnbG9kYXNoJwovLyBpbXBvcnQga2V5IGZyb20gJy4va2V5Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZGVmaW5lZCA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcihwcmVmaXggPSAnc3RvcmFnZScpewogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuX19zdG9yYWdlX18gPSBsb2NhbFN0b3JhZ2UKICAgIC8vIHRoaXMuX195ZWFyX2xpc3RfXyA9IAo=</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcihwcmVmaXggPSAnc3RvcmFnZScpewogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuX19zdG9yYWdlX18gPSBsb2NhbFN0b3JhZ2UKICAgIC8vIHRoaXMuX195ZWFyX2xpc3RfXyA9IAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0aGlzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
