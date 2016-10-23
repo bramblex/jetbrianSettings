@@ -15,10 +15,6 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/ComingApp/server/models/event_code.js" timestamp="1476435643520">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="30" column="5" />
-      </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/library/index.js" timestamp="1474728938604">
         <mark key="'" line="3" column="30" />
         <mark key="[" line="3" column="23" />
@@ -70,6 +66,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="20" column="41" />
+      </file>
+      <file name="$USER_HOME$/Workspace/nw-vue/build/build.js" timestamp="1477202528321">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="25" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/model/model.js" timestamp="1472742072701">
         <mark key="[" line="13" column="46" />
@@ -128,10 +129,6 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/34goldcoin/www/js/index.js" timestamp="1476642540155">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="48" column="1" />
-      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/action.js" timestamp="1472544771963">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="8" />
@@ -150,6 +147,13 @@
         <mark key="]" line="117" column="21" />
         <mark key="." line="118" column="0" />
         <mark key="^" line="28" column="64" />
+      </file>
+      <file name="$USER_HOME$/Workspace/nw-vue/build/nwbuild.js" timestamp="1477203235152">
+        <mark key="'" line="20" column="18" />
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+        <mark key="^" line="6" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/config/index.js" timestamp="1475148428211">
         <mark key="'" line="31" column="0" />
@@ -198,6 +202,13 @@
         <mark key="]" line="11" column="39" />
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
+      </file>
+      <file name="$USER_HOME$/Workspace/nw-vue/build/dev-server.js" timestamp="1477203404929">
+        <mark key="'" line="2" column="12" />
+        <mark key="[" line="83" column="34" />
+        <mark key="]" line="83" column="34" />
+        <mark key="." line="83" column="34" />
+        <mark key="^" line="83" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/store/getters.js" timestamp="1473836873331">
         <mark key="'" line="4" column="40" />
@@ -271,9 +282,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/ComingApp/server/index.js" timestamp="1476440175117">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="22" />
+      <file name="$USER_HOME$/Workspace/nw-vue/.gitignore" timestamp="1477201192425">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="5" column="5" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="5" column="5" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/production.config.js" timestamp="1474904121121">
         <mark key="'" line="15" column="0" />
@@ -697,6 +710,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/nw-vue/config/manifest.js" timestamp="1477201420317">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+      </file>
       <file name="$USER_HOME$/Workspace/computer-simulator/src/core/index.js" timestamp="1476323672840">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="26" column="29" />
@@ -813,6 +832,11 @@
         <mark key="^" line="24" column="5" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/nw-vue/build/webpack.base.conf.js" timestamp="1477203465019">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="19" column="10" />
+        <mark key="." line="19" column="10" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/middleware/uploader.js" timestamp="1472439432305">
         <mark key="[" line="22" column="12" />
         <mark key="]" line="22" column="13" />
@@ -866,19 +890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="18" filename="$USER_HOME$/Workspace/computer-simulator/src/components/content/AppCPU.vue" />
-      <jump line="18" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/components/content/AppCPU.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/components/content/AppCPU.vue" />
-      <jump line="53" column="4" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
-      <jump line="66" column="4" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
-      <jump line="74" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
-      <jump line="5" column="14" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
-      <jump line="29" column="11" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
-      <jump line="22" column="20" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/index.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Register.js" />
-      <jump line="5" column="12" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Register.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Instruction.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Instruction.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Instruction.js" />
       <jump line="3" column="2" filename="$USER_HOME$/Workspace/computer-simulator/src/core/Register.js" />
@@ -966,46 +977,59 @@
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/storge/Storage.js" />
       <jump line="9" column="6" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/core/Tags.js" />
       <jump line="43" column="52" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/core/Storage.js" />
+      <jump line="1" column="11" filename="$USER_HOME$/Workspace/nw-vue/build/nwbuild.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Workspace/nw-vue/build/nwbuild.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Workspace/nw-vue/build/dev-server.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Workspace/nw-vue/build/dev-server.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/Workspace/nw-vue/build/dev-server.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/Workspace/nw-vue/build/dev-server.js" />
+      <jump line="0" column="11" filename="$USER_HOME$/Workspace/nw-vue/build/dev-server.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/Workspace/nw-vue/build/build.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/Workspace/nw-vue/build/dev-server.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/Workspace/nw-vue/build/dev-server.js" />
+      <jump line="2" column="12" filename="$USER_HOME$/Workspace/nw-vue/build/dev-server.js" />
+      <jump line="20" column="18" filename="$USER_HOME$/Workspace/nw-vue/build/nwbuild.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Workspace/nw-vue/build/build.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHJlY29yZHMgPSA=</text>
+        <text encoding="base64">PD4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJlY29yZHMgPSA=</text>
+        <text encoding="base64">PD4=</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeV9pbmRleCA9IF8uZmluZEluZGV4KHRoaXMucmVjb3JkcywgKHt5fSkgPT4geSA9PT0geWVhcikKICAgICAgY29uc3QgeSA9IHRoaXMucmVjb3Jkcy5zcGxpY2UoeV9pbmRleCwgMSkKICAgICAgdGhpcy5yZWNvcmRzLnNwbGljZSh5X2luZGV4LCAwLCB7bW9udGg6IG1vbnRoLCBjb250ZW50OiBbXX0pCg==</text>
+        <text encoding="base64">cmVxdWlyZSgnc2hlbGxqcy9nbG9iYWwnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMK</text>
+        <text encoding="base64">ICB2YXIgdXJpID0gJ2h0dHA6Ly9sb2NhbGhvc3Q6JyArIHBvcnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKG53Y29uZmlnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvbmZpZyA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVjb3Jkcy5wdXNoKHt5ZWFyOiB5ZWFyLCBjb250ZW50OiBbXX0pCg==</text>
+        <text encoding="base64">ICAgIGNzb250Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVjb3Jkc1tyZWNvcmRzLmZpbmRJbmRleCh5ID0+IHkueWVhcildLnB1c2goe21vbnRoOiBtb250aCwgY29udGVudDogW119KQo=</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVjb3Jkc1tyZWNvcmRzLmZpbmRJbmRleCh5ID0+IHkueWVhcildCiAgICAgICAgLmNvbnRlbnRbcmVjb3Jkc10K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGZzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1054,7 +1078,6 @@
         <entry encoding="base64">JzwsJz5zL1JlZ2lzdGVyL0luc3RydWN0aW9uL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3N0YXRpYy9jb25zdC9n</entry>
         <entry encoding="base64">JzwsJz5zL09QL0lOL2c=</entry>
-        <entry>wn</entry>
         <entry encoding="base64">JzwsJz5zLy5tZXRob2RcKCcoXHcrKScsIGZ1bmN0aW9uL1wxL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzsvL2c=</entry>
         <entry encoding="base64">JzwsJz5zLy4uLmFyZ3MvaW5wdXQvZw==</entry>
@@ -1063,6 +1086,7 @@
         <entry encoding="base64">JzwsJz5zLyQvOnRhZ3Mubm9fcmVjb3JkZWQs</entry>
         <entry>q</entry>
         <entry>wp</entry>
+        <entry>wn</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
