@@ -278,11 +278,6 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/ComingApp/server/admin/event_code.js" timestamp="1476440536373">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/computer-simulator/src/main.js" timestamp="1476096023866">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="1" column="23" />
@@ -400,11 +395,6 @@
         <mark key="]" line="3" column="77" />
         <mark key="." line="3" column="77" />
         <mark key="^" line="3" column="77" />
-      </file>
-      <file name="$USER_HOME$/Workspace/computer-simulator/src/core/EventEmitter.js" timestamp="1476332071382">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/MilestoneCreate.vue" timestamp="1472631109492">
         <mark key="'" line="5" column="76" />
@@ -524,11 +514,6 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="22" />
-      </file>
-      <file name="$USER_HOME$/Workspace/ComingApp/server/socket/index.js" timestamp="1476417921262">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/model/recording.js" timestamp="1472726929332">
         <mark key="'" line="11" column="13" />
@@ -674,11 +659,6 @@
       <file name="$USER_HOME$/Workspace/ComingApp/server/api/user_api.js" timestamp="1476436417215">
         <mark key="'" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/store/store.js" timestamp="1476644546808">
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="12" column="1" />
-        <mark key="." line="12" column="1" />
-      </file>
       <file name="$USER_HOME$/Workspace/ComingApp/server/admin/views/event_code.pug" timestamp="1476438432374">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -736,6 +716,12 @@
         <mark key="]" line="7" column="18" />
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/Workspace/nw-vue/config/vue-packages.js" timestamp="1477282057020">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+        <mark key="^" line="5" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/computer-simulator/src/core/index.js" timestamp="1476323672840">
         <mark key="'" line="64" column="0" />
@@ -799,11 +785,6 @@
         <mark key="." line="54" column="12" />
         <mark key="^" line="54" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/34goldcoin/www/index.html" timestamp="1476642428716">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="61" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/config.js" timestamp="1472738385791">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="17" column="48" />
@@ -830,16 +811,6 @@
         <mark key="." line="31" column="28" />
         <mark key="^" line="31" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/main.js" timestamp="1476669755524">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/storge/keys.js" timestamp="1476723089810">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/core/Storage.js" timestamp="1476891764229">
         <mark key="[" line="26" column="62" />
         <mark key="]" line="26" column="62" />
@@ -853,12 +824,12 @@
         <mark key="^" line="24" column="5" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/nw-vue/build/webpack.base.conf.js" timestamp="1477237388525">
-        <mark key="'" line="23" column="2" />
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="22" column="3" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="22" column="3" />
+      <file name="$USER_HOME$/Workspace/nw-vue/build/webpack.base.conf.js" timestamp="1477281994489">
+        <mark key="'" line="20" column="2" />
+        <mark key="[" line="19" column="46" />
+        <mark key="]" line="19" column="68" />
+        <mark key="." line="19" column="68" />
+        <mark key="^" line="19" column="68" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/middleware/uploader.js" timestamp="1472439432305">
         <mark key="[" line="22" column="12" />
@@ -1016,10 +987,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG53Y29uZmlnKQo=</text>
+        <text encoding="base64">ICAvdnVlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>package</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
@@ -1028,31 +999,31 @@
         <text encoding="base64">ICAgIC8vICAgY29uc29sZS5sb2coYGNvcHkgZGVwZW5kZW5jaWVzIG5vZGVfbW9kdWxlcyR7cH1gKQogICAgLy8gICBjcCgnLXInLCBgbm9kZV9tb2R1bGVzLyR7cH1gLCAndG1wL2J1aWxkL25vZGVfbW9kdWxlcy8nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG53Y29uZmlnKQo=</text>
+        <text encoding="base64">ICAvdnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGRlcHMuZm9yRWFjaChmdW5jdGlvbihwKXsKICAgIC8vICAgY29uc29sZS5sb2coYGNvcHkgZGVwZW5kZW5jaWVzIG5vZGVfbW9kdWxlcyR7cH1gKQogICAgLy8gICBjcCgnLXInLCBgbm9kZV9tb2R1bGVzLyR7cH1gLCAndG1wL2J1aWxkL25vZGVfbW9kdWxlcy8nKQogICAgLy8gfSkK</text>
+        <text encoding="base64">ICAgICAgJ3Z1ZScsCiAgICAgICd2dWV4JywKICAgICAgL152dWUtLiokLywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG53Y29uZmlnID0gcmVxdWlyZSgnLi9ud2J1aWxkJykuYnVpbGQKICAgIGNvbnN0IG53ID0gbmV3IE53QnVpbGRlcihud2NvbmZpZykKICAgIG53Lm9uKCdsb2cnLCBjb25zb2xlLmxvZykKICAgIHlpZWxkIG53LmJ1aWxkKCkK</text>
+        <text encoding="base64">ICAgICAgLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG53Y29uZmlnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1rZGlyKCd0bXAvYnVpbGQvbm9kZV9tb2R1bGVzJykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
