@@ -933,6 +933,11 @@
         <mark key="^" line="15" column="6" />
         <mark key="." line="15" column="6" />
       </file>
+      <file name="$USER_HOME$/Workspace/1024/config/manifest.js" timestamp="1477310782521">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/components/Hello.vue" timestamp="1472529833464">
         <mark key="'" line="2" column="9" />
         <mark key="[" line="36" column="16" />
@@ -1070,10 +1075,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sdk</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>sdk</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>down</text>
@@ -1082,31 +1087,31 @@
         <text>nodeExternals</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAicHJlc2V0cyI6IFtdLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAicHJlc2V0cyI6IFtdLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAicHJlc2V0cyI6IFsiZXMyMDE1IiwgInN0YWdlLTIiXSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICJwcmVzZXRzIjogWyJlczIwMTUiLCAic3RhZ2UtMiJdLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ3aGl0ZWxpc3QiOiBbImVzNi5tb2R1bGVzIl0sCiAgICAiYmxhY2tsaXN0IjogWyJyZWdlbmVyYXRvciIsICJydW50aW1lIl0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgImVzNi5hcnJvd0Z1bmN0aW9ucyIsCg==</text>
+        <text encoding="base64">ICAicHJlc2V0cyI6IFsiZXMyMDE1IiwgInN0YWdlLTIiXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgImVzNi5jbGFzc2VzIiwK</text>
+        <text encoding="base64">Ly8gICJwcmVzZXRzIjogWyJlczIwMTUiLCAic3RhZ2UtMiJdLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
