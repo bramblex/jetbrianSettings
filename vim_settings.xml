@@ -800,6 +800,13 @@
         <mark key="]" line="26" column="43" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/1024/src/core/killvill.js" timestamp="1477313184030">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="1162" column="5" />
+      </file>
       <file name="$USER_HOME$/Workspace/sg/index.html" timestamp="1473245877117">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="52" column="56" />
@@ -972,8 +979,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
-      <jump line="49" column="4" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
       <jump line="50" column="45" filename="$USER_HOME$/Workspace/computer-simulator/src/core/SimpleEventEmitter.js" />
       <jump line="13" column="10" filename="$USER_HOME$/Workspace/computer-simulator/src/core/FSM.js" />
       <jump line="59" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/FSM.js" />
@@ -1072,13 +1077,15 @@
       <jump line="49" column="2" filename="$USER_HOME$/Workspace/nw-vue/package.json" />
       <jump line="12" column="5" filename="$USER_HOME$/Workspace/nw-vue/package.json" />
       <jump line="22" column="0" filename="$USER_HOME$/Workspace/nwjs-vue/.babelrc" />
+      <jump line="1163" column="0" filename="$USER_HOME$/Workspace/1024/src/core/killvill.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Workspace/1024/src/core/killvill.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>down</text>
@@ -1087,31 +1094,31 @@
         <text>nodeExternals</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24ob3JnaW5VcmwpewogIGNvbnN0IGRlY29kZVN0ciA9IC8uKlw/aHR0cDovZwogIGNvbnN0IGRlY29kZVNpZyA9IC8vZwp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAicHJlc2V0cyI6IFtdLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAidXNlIHN0cmljdCI7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAicHJlc2V0cyI6IFsiZXMyMDE1IiwgInN0YWdlLTIiXSwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICJwcmVzZXRzIjogWyJlczIwMTUiLCAic3RhZ2UtMiJdLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
