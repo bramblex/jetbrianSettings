@@ -29,14 +29,14 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/1024/src/components/XHeader.vue" timestamp="1477391975830">
+      <file name="$USER_HOME$/Workspace/1024/src/components/XHeader.vue" timestamp="1477393503218">
         <mark key="'" line="6" column="57" />
-        <mark key="k" line="71" column="38" />
-        <mark key="[" line="27" column="21" />
-        <mark key="]" line="27" column="24" />
-        <mark key="n" line="71" column="38" />
-        <mark key="." line="27" column="24" />
-        <mark key="^" line="27" column="24" />
+        <mark key="k" line="75" column="38" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="n" line="75" column="38" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" timestamp="1472866761567">
         <mark key="'" line="179" column="0" />
@@ -115,11 +115,6 @@
         <mark key="." line="26" column="51" />
         <mark key="^" line="22" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/nwjs-vue/build/build.js" timestamp="1477291942641">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Autress/app/contract/template/template.html" timestamp="1472202591726">
         <mark key="[" line="12" column="7" />
         <mark key="]" line="12" column="6" />
@@ -185,6 +180,11 @@
         <mark key="^" line="22" column="23" />
         <mark key="." line="9" column="23" />
       </file>
+      <file name="$USER_HOME$/Workspace/1024/src/components/About.vue" timestamp="1477394802803">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/nwjs-vue/build/webpack.dev.conf.js" timestamp="1477292447880">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -210,11 +210,13 @@
         <mark key="." line="23" column="15" />
         <mark key="^" line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/1024/src/App.vue" timestamp="1477392004605">
-        <mark key="[" line="36" column="18" />
-        <mark key="]" line="36" column="19" />
-        <mark key="." line="36" column="19" />
-        <mark key="^" line="36" column="19" />
+      <file name="$USER_HOME$/Workspace/1024/src/App.vue" timestamp="1477394260921">
+        <mark key="'" line="14" column="12" />
+        <mark key="[" line="96" column="0" />
+        <mark key="k" line="96" column="8" />
+        <mark key="]" line="97" column="29" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="13" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/computer-simulator/src/components/Header.vue" timestamp="1476090566243">
         <mark key="'" line="0" column="0" />
@@ -317,16 +319,16 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/1024/src/assets/layout.less" timestamp="1477389741264">
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="17" column="25" />
-        <mark key="." line="17" column="25" />
-        <mark key="^" line="17" column="27" />
+      <file name="$USER_HOME$/Workspace/1024/src/assets/layout.less" timestamp="1477394476617">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="27" />
+        <mark key="." line="23" column="27" />
+        <mark key="^" line="23" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/1024/src/components/XSlider.vue" timestamp="1477390796276">
+      <file name="$USER_HOME$/Workspace/1024/src/components/XSlider.vue" timestamp="1477394221397">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="31" column="14" />
-        <mark key="]" line="31" column="20" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="32" />
         <mark key="." line="31" column="20" />
         <mark key="^" line="31" column="20" />
       </file>
@@ -423,11 +425,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/nwjs-vue/build/webpack.prod.conf.js" timestamp="1477295185440">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/server/api/index.js" timestamp="1474981473163">
         <mark key="[" line="5" column="0" />
@@ -842,6 +839,12 @@
         <mark key="^" line="66" column="84" />
         <mark key="." line="52" column="56" />
       </file>
+      <file name="$USER_HOME$/Workspace/1024/src/components/XContent.vue" timestamp="1477394413361">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+      </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/client/build/webpack.base.conf.js" timestamp="1475073636462">
         <mark key="'" line="35" column="17" />
         <mark key="[" line="3" column="0" />
@@ -982,12 +985,12 @@
         <mark key="." line="21" column="16" />
         <mark key="^" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/1024/src/main.js" timestamp="1477392014952">
-        <mark key="'" line="14" column="7" />
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="10" column="15" />
+      <file name="$USER_HOME$/Workspace/1024/src/main.js" timestamp="1477393850647">
+        <mark key="'" line="15" column="7" />
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+        <mark key="^" line="10" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/router_map.js" timestamp="1473738480759">
         <mark key="[" line="19" column="24" />
@@ -997,9 +1000,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="4" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
-      <jump line="83" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
-      <jump line="44" column="2" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
       <jump line="131" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
       <jump line="24" column="8" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/store/store.js" />
       <jump line="30" column="4" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/store/store.js" />
@@ -1097,46 +1097,49 @@
       <jump line="8" column="1" filename="$USER_HOME$/Workspace/1024/src/assets/color.less" />
       <jump line="38" column="0" filename="$USER_HOME$/Workspace/1024/src/components/XSlider.vue" />
       <jump line="6" column="57" filename="$USER_HOME$/Workspace/1024/src/components/XHeader.vue" />
+      <jump line="14" column="12" filename="$USER_HOME$/Workspace/1024/src/App.vue" />
+      <jump line="4" column="0" filename="$USER_HOME$/Workspace/1024/src/components/XContent.vue" />
+      <jump line="6" column="4" filename="$USER_HOME$/Workspace/1024/src/components/About.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>关于</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>关于</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>cur</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtuYW1lOiAn5YWz5LqOJywgbGluazogJy9hYm91dCd9Cg==</text>
+      <register name="0" type="4">
+        <text>@content-margin-horizontal</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aW4uCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHdpbiA9IG53LldpbmRvdy5nZXQoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB3aW4gPSBudy5XaW5kb3cuZ2V0KCkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">PHN0eWxlIGxhbmc+Cjwvc3R5bGU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aW4ub24oJ2Nsb3NlJywgZnVuY3Rpb24oKXsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHdpbi5taW5pbWl6ZSh0cnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aW4ub24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCB3aW4gPSBudy5XaW5kb3cuZ2V0KCkKICB3aW4ub24oJ2Nsb3NlJywgZnVuY3Rpb24oKXsKICAgIGlmIChjb25maXJtKCflhbPpl63lupTnlKjlsIbkuI3kvJrnu6fnu63nm5HmjqfvvIznoa7orqTlhbPpl63vvJ8nKSl7CiAgICAgIHdpbi5jbG9zZSh0cnVlKQogICAgfSBlbHNlIHsKICAgICAgd2luLm1pbmltaXplKHRydWUpCiAgICB9CiAgfSkK</text>
+        <text encoding="base64">ICAgIDxoMT57eyBtc2cgfX08L2gxPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
