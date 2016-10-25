@@ -206,11 +206,11 @@
         <mark key="." line="23" column="15" />
         <mark key="^" line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/1024/src/App.vue" timestamp="1477378517692">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="^" line="12" column="12" />
-        <mark key="." line="117" column="0" />
+      <file name="$USER_HOME$/Workspace/1024/src/App.vue" timestamp="1477381117897">
+        <mark key="[" line="40" column="17" />
+        <mark key="]" line="41" column="12" />
+        <mark key="." line="41" column="12" />
+        <mark key="^" line="41" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/computer-simulator/src/components/Header.vue" timestamp="1476090566243">
         <mark key="'" line="0" column="0" />
@@ -744,11 +744,10 @@
         <mark key="." line="10" column="13" />
         <mark key="^" line="26" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/1024/index.html" timestamp="1477378398442">
+      <file name="$USER_HOME$/Workspace/1024/index.html" timestamp="1477380832197">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="41" />
       </file>
       <file name="$USER_HOME$/Workspace/computer-simulator/src/core/Register.js" timestamp="1476190677001">
         <mark key="'" line="3" column="2" />
@@ -1135,44 +1134,44 @@
       <jump line="9" column="1" filename="$USER_HOME$/Workspace/1024/src/assets/color.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>cl-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>@size</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY29sIj48ZGl2PjEyMzwvZGl2PjwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VnVlLnVzZShFbGVtZW50KQo=</text>
+        <text encoding="base64">ICAjYXBwIHsKICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VnVlLnVzZShFbGVtZW50KQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEVsZW1lbnQgZnJvbSAnZWxlbWVudC11aScK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICdlbGVtZW50LXVpL2xpYi90aGVtZS1kZWZhdWx0L2luZGV4LmNzcycK</text>
+        <text encoding="base64">CiAgICA8ZGl2IGlkPSJoZWFkZXIiPgoKICAgICAgPGRpdiBjbGFzcz0ibGVmdCI+PC9kaXY+CgogICAgICA8ZGl2IGNsYXNzPSJjZW50ZXIiPgogICAgICAgIGNsLTEwMjQKICAgICAgPC9kaXY+CgogICAgICA8ZGl2IGNsYXNzPSJyaWdodCI+CiAgICAgICAgPGRpdj48L2Rpdj4KICAgICAgICA8ZGl2PjwvZGl2PgogICAgICAgIDxkaXY+PC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CgogICAgPGRpdiBpZD0ic2xpZGVyIj4KICAgIDwvZGl2PgoKICAgIDxkaXYgaWQ9ImNvbnRlbnQiPgogICAgICA8cm91dGVyLXZpZXc+PC9yb3V0ZXItdmlldz4KICAgIDwvZGl2PgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+PC9zdHlsZT4K</text>
+        <text encoding="base64">ICAgIDxzdHlsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+PC9zdHlsZT4K</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0ic3RhdGljL2Nzcy9mbGV4Ym94Z3JpZC5taW4uY3NzIiB0eXBlPSJ0ZXh0L2NzcyIgPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBodAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjaGVhZGVyLCAjY29udGVudCwgI2Zvb3RlcnsKICAgIHdpZHRoOiAxMDAlOwogIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
