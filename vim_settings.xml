@@ -29,14 +29,14 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/1024/src/components/XHeader.vue" timestamp="1477393503218">
+      <file name="$USER_HOME$/Workspace/1024/src/components/XHeader.vue" timestamp="1477409323847">
         <mark key="'" line="6" column="57" />
-        <mark key="k" line="75" column="38" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="n" line="75" column="38" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="16" />
+        <mark key="k" line="80" column="38" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="n" line="80" column="38" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="30" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" timestamp="1472866761567">
         <mark key="'" line="179" column="0" />
@@ -211,13 +211,13 @@
         <mark key="." line="23" column="15" />
         <mark key="^" line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/1024/src/App.vue" timestamp="1477394260921">
+      <file name="$USER_HOME$/Workspace/1024/src/App.vue" timestamp="1477407953986">
         <mark key="'" line="14" column="12" />
-        <mark key="[" line="96" column="0" />
-        <mark key="k" line="96" column="8" />
-        <mark key="]" line="97" column="29" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="13" column="19" />
+        <mark key="k" line="101" column="8" />
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="36" />
+        <mark key="." line="14" column="36" />
+        <mark key="^" line="14" column="36" />
       </file>
       <file name="$USER_HOME$/Workspace/computer-simulator/src/components/Header.vue" timestamp="1476090566243">
         <mark key="'" line="0" column="0" />
@@ -280,6 +280,12 @@
         <mark key="]" line="2" column="64" />
         <mark key="." line="2" column="64" />
         <mark key="^" line="2" column="64" />
+      </file>
+      <file name="$USER_HOME$/Workspace/1024/src/components/Settings.vue" timestamp="1477408681057">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/computer-simulator/src/components/content/AppCPU.vue" timestamp="1476111678875">
         <mark key="'" line="0" column="0" />
@@ -986,12 +992,12 @@
         <mark key="." line="21" column="16" />
         <mark key="^" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/1024/src/main.js" timestamp="1477393850647">
-        <mark key="'" line="15" column="7" />
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="30" />
-        <mark key="." line="10" column="30" />
-        <mark key="^" line="10" column="30" />
+      <file name="$USER_HOME$/Workspace/1024/src/main.js" timestamp="1477408635308">
+        <mark key="'" line="23" column="7" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/router_map.js" timestamp="1473738480759">
         <mark key="[" line="19" column="24" />
@@ -1001,9 +1007,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="0" filename="$USER_HOME$/Workspace/computer-simulator/src/core/CPU.js" />
-      <jump line="24" column="8" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/store/store.js" />
-      <jump line="30" column="4" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/store/store.js" />
       <jump line="34" column="9" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/store/store.js" />
       <jump line="5" column="1" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/components/Hello.vue" />
       <jump line="44" column="0" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/components/Hello.vue" />
@@ -1101,10 +1104,13 @@
       <jump line="14" column="12" filename="$USER_HOME$/Workspace/1024/src/App.vue" />
       <jump line="4" column="0" filename="$USER_HOME$/Workspace/1024/src/components/XContent.vue" />
       <jump line="6" column="4" filename="$USER_HOME$/Workspace/1024/src/components/About.vue" />
+      <jump line="4" column="0" filename="$USER_HOME$/Workspace/1024/src/components/Settings.vue" />
+      <jump line="0" column="9" filename="$USER_HOME$/Workspace/1024/src/components/Settings.vue" />
+      <jump line="19" column="0" filename="$USER_HOME$/Workspace/1024/src/components/Settings.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMuJGNvbmZpcm0oJ+aYr+WQpuWFs+mXreeql+WPoycsICfmj5DnpLonLCB7Ci8vICAgICAgICAgIHR5cGU6ICd3YXJuaW5nJwovLyAgICAgICAgfSkudGhlbigoKSA9PiB7Ci8vICAgICAgICAgIHdpbi5jbG9zZSh0cnVlKQovLyAgICAgICAgfSkKLy8gICAgICAgIGlmIChjb25maXJtKCfnoa7lrprlhbPpl63lupTnlKjnqIvluo/vvJ8nKSl7Ci8vICAgICAgICAgIHdpbi5jbG9zZSh0cnVlKQovLyAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1112,35 +1118,35 @@
       <register name="/" type="4">
         <text>cur</text>
       </register>
-      <register name="0" type="4">
-        <text>@content-margin-horizontal</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgd2luLmNsb3NlKHRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMuJGNvbmZpcm0oJ+aYr+WQpuWFs+mXreeql+WPoycsICfmj5DnpLonLCB7Ci8vICAgICAgICAgIHR5cGU6ICd3YXJuaW5nJwovLyAgICAgICAgfSkudGhlbigoKSA9PiB7Ci8vICAgICAgICAgIHdpbi5jbG9zZSh0cnVlKQovLyAgICAgICAgfSkKLy8gICAgICAgIGlmIChjb25maXJtKCfnoa7lrprlhbPpl63lupTnlKjnqIvluo/vvJ8nKSl7Ci8vICAgICAgICAgIHdpbi5jbG9zZSh0cnVlKQovLyAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIOeJiOacrO+8mgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuJG1lc3NhZ2UoewogICAgICAgICAgICB0eXBlOiAnc3VjY2VzcycsCiAgICAgICAgICAgIG1lc3NhZ2U6ICfliKDpmaTmiJDlip8hJwogICAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">LmNhdGNoKCgpID0+IHsKICAgICAgICAgIHRoaXMuJG1lc3NhZ2UoewogICAgICAgICAgICB0eXBlOiAnaW5mbycsCiAgICAgICAgICAgIG1lc3NhZ2U6ICflt7Llj5bmtojliKDpmaQnCiAgICAgICAgICB9KTsKICAgICAgICB9KTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
