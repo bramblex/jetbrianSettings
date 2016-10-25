@@ -180,10 +180,11 @@
         <mark key="^" line="22" column="23" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/1024/src/components/About.vue" timestamp="1477394802803">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Workspace/1024/src/components/About.vue" timestamp="1477405920480">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/nwjs-vue/build/webpack.dev.conf.js" timestamp="1477292447880">
         <mark key="[" line="14" column="0" />
@@ -1103,10 +1104,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>cur</text>
@@ -1115,31 +1116,31 @@
         <text>@content-margin-horizontal</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHN0eWxlIGxhbmc+Cjwvc3R5bGU+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIOeJiOacrO+8mgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxoMT57eyBtc2cgfX08L2gxPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
