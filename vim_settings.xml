@@ -439,6 +439,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/P4A/pipe/src/core/Pipe.js" timestamp="1477974219804">
+        <mark key="'" line="4" column="4" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="61" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/NodeProjectTemplate/config/development.config.js" timestamp="1474904126342">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="8" column="16" />
@@ -478,6 +484,11 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="16" />
       </file>
+      <file name="$USER_HOME$/Workspace/P4A/pipe/src/core/pipe.js" timestamp="1477973638546">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/Recording.vue" timestamp="1473662274880">
         <mark key="'" line="176" column="0" />
         <mark key="[" line="9" column="28" />
@@ -503,6 +514,12 @@
         <mark key="]" line="68" column="22" />
         <mark key="." line="68" column="22" />
         <mark key="^" line="68" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspace/P4A/pipe/src/core/FIlter.js" timestamp="1477974256463">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/computer-simulator/src/core/Bus.js" timestamp="1476352202850">
         <mark key="[" line="36" column="0" />
@@ -1010,7 +1027,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="9" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/store/store.js" />
       <jump line="5" column="1" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/components/Hello.vue" />
       <jump line="44" column="0" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/components/Hello.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/components/Hello.vue" />
@@ -1110,46 +1126,47 @@
       <jump line="4" column="0" filename="$USER_HOME$/Workspace/1024/src/components/Settings.vue" />
       <jump line="0" column="9" filename="$USER_HOME$/Workspace/1024/src/components/Settings.vue" />
       <jump line="19" column="0" filename="$USER_HOME$/Workspace/1024/src/components/Settings.vue" />
+      <jump line="4" column="4" filename="$USER_HOME$/Workspace/P4A/pipe/src/core/Pipe.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMuJGNvbmZpcm0oJ+aYr+WQpuWFs+mXreeql+WPoycsICfmj5DnpLonLCB7Ci8vICAgICAgICAgIHR5cGU6ICd3YXJuaW5nJwovLyAgICAgICAgfSkudGhlbigoKSA9PiB7Ci8vICAgICAgICAgIHdpbi5jbG9zZSh0cnVlKQovLyAgICAgICAgfSkKLy8gICAgICAgIGlmIChjb25maXJtKCfnoa7lrprlhbPpl63lupTnlKjnqIvluo/vvJ8nKSl7Ci8vICAgICAgICAgIHdpbi5jbG9zZSh0cnVlKQovLyAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>opreation</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>opreation</text>
       </register>
       <register name="/" type="4">
         <text>cur</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgd2luLmNsb3NlKHRydWUpCg==</text>
+        <text encoding="base64">Ly8gY29uc3QgU2ltcGxlRXZlbnRFbWl0dGVyID0gcmVxdWlyZSgnLi9TaW1wbGVFdmVudEVtaXR0ZXInKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMuJGNvbmZpcm0oJ+aYr+WQpuWFs+mXreeql+WPoycsICfmj5DnpLonLCB7Ci8vICAgICAgICAgIHR5cGU6ICd3YXJuaW5nJwovLyAgICAgICAgfSkudGhlbigoKSA9PiB7Ci8vICAgICAgICAgIHdpbi5jbG9zZSh0cnVlKQovLyAgICAgICAgfSkKLy8gICAgICAgIGlmIChjb25maXJtKCfnoa7lrprlhbPpl63lupTnlKjnqIvluo/vvJ8nKSl7Ci8vICAgICAgICAgIHdpbi5jbG9zZSh0cnVlKQovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Y29uc3QgU2ltcGxlRXZlbnRFbWl0dGVyID0gcmVxdWlyZSgnLi9TaW1wbGVFdmVudEVtaXR0ZXInKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Y2xhc3MgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuJG1lc3NhZ2UoewogICAgICAgICAgICB0eXBlOiAnc3VjY2VzcycsCiAgICAgICAgICAgIG1lc3NhZ2U6ICfliKDpmaTmiJDlip8hJwogICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LmNhdGNoKCgpID0+IHsKICAgICAgICAgIHRoaXMuJG1lc3NhZ2UoewogICAgICAgICAgICB0eXBlOiAnaW5mbycsCiAgICAgICAgICAgIG1lc3NhZ2U6ICflt7Llj5bmtojliKDpmaQnCiAgICAgICAgICB9KTsKICAgICAgICB9KTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBydW4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
