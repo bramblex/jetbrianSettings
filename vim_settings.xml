@@ -45,6 +45,12 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/Workspace/P4A/pipe/src/main.js" timestamp="1477980753496">
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="30" column="14" />
+        <mark key="." line="30" column="14" />
+        <mark key="^" line="30" column="14" />
+      </file>
       <file name="$USER_HOME$/Workspace/computer-simulator/index.html" timestamp="1476098510586">
         <mark key="'" line="13" column="6" />
         <mark key="[" line="5" column="0" />
@@ -421,6 +427,12 @@
         <mark key="." line="7" column="80" />
         <mark key="^" line="7" column="80" />
       </file>
+      <file name="$USER_HOME$/Workspace/P4A/pipe/src/App.vue" timestamp="1477980453036">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/model/db.js" timestamp="1472409864764">
         <mark key="[" line="6" column="42" />
         <mark key="]" line="8" column="19" />
@@ -658,6 +670,11 @@
         <mark key="]" line="8" column="1" />
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="23" />
+      </file>
+      <file name="$USER_HOME$/Workspace/P4A/pipe/index.html" timestamp="1477980508589">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/1024/src/components/Hello.vue" timestamp="1477315593210">
         <mark key="[" line="2" column="14" />
@@ -1136,53 +1153,53 @@
       <jump line="4" column="5" filename="$USER_HOME$/Workspace/P4A/pipe/src/core/FIlter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>#app</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>#app</text>
       </register>
       <register name="/" type="4">
-        <text>cur</text>
+        <text>index.html</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgU2ltcGxlRXZlbnRFbWl0dGVyID0gcmVxdWlyZSgnLi9TaW1wbGVFdmVudEVtaXR0ZXInKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDwhLS0gYnVpbHQgZmlsZXMgd2lsbCBiZSBhdXRvIGluamVjdGVkIC0tPgogIDwhLS08L2JvZHk+LS0+CjwhLS08L2h0bWw+LS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dCAK</text>
+        <text encoding="base64">PCEtLTxodG1sPi0tPgogIDwhLS08aGVhZD4tLT4KICAgIDwhLS08bWV0YSBjaGFyc2V0PSJ1dGYtOCI+LS0+CiAgICA8IS0tPHRpdGxlPnBpcGU8L3RpdGxlPi0tPgogIDwhLS08L2hlYWQ+LS0+CiAgPCEtLTxib2R5Pi0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyB7cGF0aDogJy8nLCByZWRpcmVjdDogJy8nfSwKICAvLyB7cGF0aDogJy9hYm91dCcsIGNvbXBvbmVudDogQWJvdXR9LAogIC8vIHtwYXRoOiAnL3NldHRpbmdzJywgY29tcG9uZW50OiBTZXR0aW5nc30sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IEFib3V0IGZyb20gJy4vY29tcG9uZW50cy9BYm91dC52dWUnCi8vIGltcG9ydCBTZXR0aW5ncyBmcm9tICcuL2NvbXBvbmVudHMvU2V0dGluZ3MudnVlJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbmZpZzogSlNPTi5wYXJzZShsb2NhbFN0b3JhZ2VbJ2NvbmZpZyddIHx8ICdudWxsJykgfHwgX2RlZmF1bHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGxvY2FsU3RvcmFnZVsnY29uZmlnJ10gPSBKU09OLnN0cmluZ2lmeSh0aGlzLmNvbmZpZykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgRmlsZSBleHRlbmRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBAaW1wb3J0ICdhc3NldHMvY29sb3IubGVzcyc7CiAgQGltcG9ydCAnYXNzZXRzL2xheW91dC5sZXNzJzsKCiAgaHRtbCwgYm9keSwgI2FwcHsKICAgIHBhZGRpbmc6MDsKICAgIG1hcmdpbjowOwogICAgaGVpZ2h0OiBAY2xpZW50LWhlaWdodDsKICAgIHdpZHRoOiBAY2xpZW50LXdpZHRoOwogICAgb3ZlcmZsb3c6IGF1dG87CiAgfQoKICBodG1sIHsKICAgIG92ZXJmbG93OiBoaWRkZW47CiAgfQoKICAubGF5b3V0IHsKICAgIGhlaWdodDogQGNsaWVudC1oZWlnaHQ7CiAgICB3aWR0aDogQGNsaWVudC13aWR0aDsKICAgIG92ZXJmbG93OiBhdXRvOwoKICAgIC5sYXlvdXQtaGVhZGVyLXJvdyB7CiAgICAgIHdpZHRoOiBAY2xpZW50LXdpZHRoOwogICAgICBoZWlnaHQ6IEBoZWFkZXItaGVpZ2h0OwogICAgfQoKICAgIC5sYXlvdXQtY29udGVudC1yb3cgewogICAgICB3aWR0aDogQGNsaWVudC13aWR0aDsKICAgICAgaGVpZ2h0OiBAY29udGVudC1oZWlnaHQ7CiAgICAgIGNsZWFyOiBib3RoOwoKICAgICAgZGl2IHsKICAgICAgICBmbG9hdDogbGVmdDsKICAgICAgfQoKICAgICAgLmxheW91dC1zbGlkZXItY29sdW1uIHsKICAgICAgICBoZWlnaHQ6IEBjb250ZW50LWhlaWdodDsKICAgICAgICB3aWR0aDogQHNsaWRlci13aWR0aDsKICAgICAgfQoKICAgICAgLmxheW91dC1jb250ZW50LWNvbHVtbiB7CiAgICAgICAgaGVpZ2h0OiBAY29udGVudC1oZWlnaHQ7CiAgICAgICAgd2lkdGg6IEBjb250ZW50LXdpZHRoOwogICAgICB9CiAgICB9CiAgfQoKCiAgLyojYXBwIHsqLwogICAgLyotd2Via2l0LWFwcC1yZWdpb246IGRyYWc7Ki8KICAvKn0qLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cur</last-search>
+      <last-search>index.html</last-search>
       <last-offset />
-      <last-pattern>cur</last-pattern>
+      <last-pattern>index.html</last-pattern>
       <last-replace>Slider</last-replace>
       <last-substitute>Header</last-substitute>
       <last-dir>1</last-dir>
@@ -1190,7 +1207,6 @@
     </search>
     <history>
       <history-search>
-        <entry>...args</entry>
         <entry>aruments</entry>
         <entry>search</entry>
         <entry>'</entry>
@@ -1210,6 +1226,7 @@
         <entry>id</entry>
         <entry>Header</entry>
         <entry>cur</entry>
+        <entry>index.html</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1IvSS9n</entry>
