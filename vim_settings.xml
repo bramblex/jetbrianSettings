@@ -45,11 +45,11 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/P4A/pipe/src/main.js" timestamp="1477983553984">
+      <file name="$USER_HOME$/Workspace/P4A/pipe/src/main.js" timestamp="1477985201765">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="24" column="31" />
+        <mark key="." line="20" column="37" />
+        <mark key="^" line="22" column="31" />
       </file>
       <file name="$USER_HOME$/Workspace/computer-simulator/index.html" timestamp="1476098510586">
         <mark key="'" line="13" column="6" />
@@ -120,6 +120,12 @@
         <mark key="]" line="29" column="8" />
         <mark key="." line="26" column="51" />
         <mark key="^" line="22" column="33" />
+      </file>
+      <file name="$USER_HOME$/Workspace/P4A/pipe/config/manifest.js" timestamp="1477985681244">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="14" />
+        <mark key="." line="13" column="14" />
+        <mark key="^" line="13" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/contract/template/template.html" timestamp="1472202591726">
         <mark key="[" line="12" column="7" />
@@ -433,11 +439,11 @@
         <mark key="." line="7" column="80" />
         <mark key="^" line="7" column="80" />
       </file>
-      <file name="$USER_HOME$/Workspace/P4A/pipe/src/App.vue" timestamp="1477980453036">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Workspace/P4A/pipe/src/App.vue" timestamp="1477985618257">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/model/db.js" timestamp="1472409864764">
         <mark key="[" line="6" column="42" />
@@ -1177,11 +1183,11 @@
       <jump line="4" column="5" filename="$USER_HOME$/Workspace/P4A/pipe/src/core/FIlter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyB7cGF0aDogJy9zZXR0aW5ncycsIGNvbXBvbmVudDogU2V0dGluZ3N9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>index.html</text>
@@ -1190,31 +1196,31 @@
         <text encoding="base64">aW5jcmVhc2Ug</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyB7cGF0aDogJy9zZXR0aW5ncycsIGNvbXBvbmVudDogU2V0dGluZ3N9LAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyB7cGF0aDogJy8nLCByZWRpcmVjdDogJy8nfSwK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICBidXR0b25zOiBbCiAgICAgICAgICB7bmFtZTogJ+ebkeaOpycsIGxpbms6ICcvaW5kZXgnfSwKICAgICAgICAgIHtuYW1lOiAn6K6+572uJywgbGluazogJy9zZXR0aW5ncyd9LAogICAgICAgICAge25hbWU6ICflhbPkuo4nLCBsaW5rOiAnL2Fib3V0J30KICAgICAgICBdLAogICAgICAgIGNvbmZpZzogX19kZWZhdWx0X18KICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IEFib3V0IGZyb20gJy4vY29tcG9uZW50cy9BYm91dC52dWUnCi8vIGltcG9ydCBTZXR0aW5ncyBmcm9tICcuL2NvbXBvbmVudHMvU2V0dGluZ3MudnVlJwoK</text>
+        <text encoding="base64">ICAgIHdhdGNoOiB7CiAgICAgIGNvbmZpZygpewogICAgICAgIGNvbnNvbGUubG9nKCdjb25maWcgY2hhbmdlZCcpCiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAidXNlIHN0cmljdCI7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBfX2RlZmF1bHRfXyA9IHsKICAgIGFhYTogJ2JiYicsCiAgICBjY2M6ICdkZGQnLAogICAgZWVlOiAxMDAsCiAgICBhYWE6IHRydWUKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvLyB7cGF0aDogJy9zZXR0aW5ncycsIGNvbXBvbmVudDogU2V0dGluZ3N9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBleHBvcnQK</text>
+        <text encoding="base64">ICAvLyB7cGF0aDogJy8nLCByZWRpcmVjdDogJy8nfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtdXRhdGlvbnMK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IEFib3V0IGZyb20gJy4vY29tcG9uZW50cy9BYm91dC52dWUnCi8vIGltcG9ydCBTZXR0aW5ncyBmcm9tICcuL2NvbXBvbmVudHMvU2V0dGluZ3MudnVlJwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
