@@ -42,10 +42,11 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/blx-fsm/src/fsm-rule-analyzer.js" timestamp="1480382478705">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Workspace/blx-fsm/src/fsm-rule-analyzer.js" timestamp="1480386031131">
+        <mark key="[" line="37" column="61" />
+        <mark key="]" line="38" column="22" />
+        <mark key="." line="38" column="22" />
+        <mark key="^" line="38" column="22" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" timestamp="1472866761567">
         <mark key="'" line="179" column="0" />
@@ -370,11 +371,11 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/blx-fsm/src/fsm-rule-parser.jison" timestamp="1480383941730">
-        <mark key="[" line="54" column="91" />
-        <mark key="]" line="54" column="108" />
-        <mark key="." line="54" column="108" />
-        <mark key="^" line="54" column="108" />
+      <file name="$USER_HOME$/Workspace/blx-fsm/src/fsm-rule-parser.jison" timestamp="1480385107437">
+        <mark key="'" line="31" column="1" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/computer-simulator/src/main.js" timestamp="1476096023866">
         <mark key="'" line="8" column="0" />
@@ -528,6 +529,11 @@
         <mark key="]" line="9" column="34" />
         <mark key="." line="9" column="34" />
         <mark key="^" line="9" column="34" />
+      </file>
+      <file name="$USER_HOME$/Workspace/blx-fsm/src/blx-fsm.js" timestamp="1480385106697">
+        <mark key="'" line="156" column="6" />
+        <mark key="[" line="156" column="6" />
+        <mark key="]" line="156" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/ProjectTemplate/app/client/src/components/VuexDemo.vue" timestamp="1473842135412">
         <mark key="'" line="0" column="0" />
@@ -1104,8 +1110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/Workspace/nw-vue/build/dev-server.js" />
-      <jump line="5" column="13" filename="$USER_HOME$/Workspace/nw-vue/reslove_deps.js" />
       <jump line="18" column="29" filename="$USER_HOME$/Workspace/nw-vue/resolve_deps.js" />
       <jump line="66" column="0" filename="$USER_HOME$/Workspace/nw-vue/build/build.js" />
       <jump line="74" column="0" filename="$USER_HOME$/Workspace/nw-vue/build/build.js" />
@@ -1204,46 +1208,48 @@
       <jump line="187" column="20" filename="$USER_HOME$/Workspace/blx-fsm/src/fsm-rule-parser.js" />
       <jump line="188" column="77" filename="$USER_HOME$/Workspace/blx-fsm/src/fsm-rule-parser.js" />
       <jump line="378" column="220" filename="$USER_HOME$/Workspace/blx-fsm/src/fsm-rule-parser.js" />
+      <jump line="156" column="6" filename="$USER_HOME$/Workspace/blx-fsm/src/blx-fsm.js" />
+      <jump line="31" column="1" filename="$USER_HOME$/Workspace/blx-fsm/src/fsm-rule-parser.jison" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>second</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>second</text>
       </register>
       <register name="/" type="4">
         <text>showPosition</text>
       </register>
       <register name="0" type="4">
-        <text>JSON.stringify(yy.lexer._input)</text>
+        <text>validate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKAogICAgICAgICAgICAgIEpTT04uc3RyaW5naWZ5KHl5LmxleGVyLl9pbnB1dCksIEpTT04uc3RyaW5naWZ5KHl5LmxleGVyLm1hdGNoZWQpKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgdmFyIHJ1bGVFcnJvciA9IChmdW5jdGlvbigpewogICAgIHZhciBfcnVsZUVycm9yID0gZnVuY3Rpb24gcnVsZUVycm9yKG1zZywgbGluZSwgY29sdW1uKXt9OwogICAgIF9ydWxlRXJyb3IucHJvdG90eXBlID0gRXJyb3I7CiAgICAgcmV0dXJuIF9ydWxlRXJyb3I7CiAgIH0pKCk7CiAgIHZhciBkZWZpbmVkX3N0YXRlcywgc3RhcnRfc3RhdGU7</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIHRoaXMubWVzc2FnZSA9IG1zZzsKICAgICAgIHRoaXMuaGFzaCA9IGhhc2g7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICB2YXIgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHRoaXMpCg==</text>
+        <text encoding="base64">ICAgIG5leHRTdGF0ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHIgPSB7fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1299,8 +1305,8 @@
         <entry encoding="base64">JzwsJz5zL0BzaXplL0BjbG9zZS1idXR0b24tc2l6ZQ==</entry>
         <entry encoding="base64">JzwsJz5zL2lkL2NsYXNzL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0hlYWRlci9TbGlkZXIvZw==</entry>
-        <entry>wp</entry>
         <entry>wn</entry>
+        <entry>wp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
