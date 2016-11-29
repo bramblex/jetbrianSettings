@@ -42,11 +42,10 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/blx-fsm/src/fsm-rule-analyzer.js" timestamp="1480386031131">
-        <mark key="[" line="37" column="61" />
-        <mark key="]" line="38" column="22" />
-        <mark key="." line="38" column="22" />
-        <mark key="^" line="38" column="22" />
+      <file name="$USER_HOME$/Workspace/blx-fsm/src/fsm-rule-analyzer.js" timestamp="1480387952253">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/views/RecordingCreate.vue" timestamp="1472866761567">
         <mark key="'" line="179" column="0" />
@@ -1212,41 +1211,41 @@
       <jump line="31" column="1" filename="$USER_HOME$/Workspace/blx-fsm/src/fsm-rule-parser.jison" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>second</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>second</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>showPosition</text>
       </register>
-      <register name="0" type="4">
-        <text>validate</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8vIGZ1bmN0aW9uIGdldFNlY29uZFNldCAoZmlyc3Rfc2V0KSB7CiAgICAvLyAgIHJldHVybiBmaXJzdF9zZXQKICAgIC8vICAgICAubWFwKGZpcnN0ID0+CiAgICAvLyAgICAgICBib2R5CiAgICAvLyAgICAgICAgIC5maWx0ZXIoKFtfZmlyc3RdKSA9PiBmaXJzdCA9PT0gX2ZpcnN0KQogICAgLy8gICAgICAgICAubWFwKChbLCxzZWNvbmRdKSA9PiBzZWNvbmQpCiAgICAvLyAgICAgKQogICAgLy8gICAgIC5yZWR1Y2UoKGwsIHIpID0+IFsuLi5sLCByXSkKICAgIC8vIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGdldFNlY29uZFNldCAoZmlyc3Rfc2V0KSB7CiAgICAgIHJldHVybiBmaXJzdF9zZXQKICAgICAgICAubWFwKGZpcnN0ID0+CiAgICAgICAgICBib2R5CiAgICAgICAgICAgIC5maWx0ZXIoKFtfZmlyc3RdKSA9PiBmaXJzdCA9PT0gX2ZpcnN0KQogICAgICAgICAgICAubWFwKChbLCxzZWNvbmRdKSA9PiBzZWNvbmQpCiAgICAgICAgKQogICAgICAgIC5yZWR1Y2UoKGwsIHIpID0+IFsuLi5sLCByXSkKICAgIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5leHRTdGF0ZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHIgPSB7fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
