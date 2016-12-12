@@ -872,6 +872,13 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="43" column="46" />
       </file>
+      <file name="$USER_HOME$/Workspace/io-request/src/server.js" timestamp="1481552772968">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="40" column="20" />
+        <mark key="]" line="40" column="20" />
+        <mark key="^" line="40" column="24" />
+        <mark key="." line="40" column="20" />
+      </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/main.js" timestamp="1473752380854">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="0" column="12" />
@@ -1015,6 +1022,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/io-request/test/test.js" timestamp="1481552726189">
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="38" column="31" />
+        <mark key="." line="38" column="31" />
+        <mark key="^" line="26" column="1" />
+      </file>
       <file name="$USER_HOME$/Workspace/34goldcoin/34goldcoin/src/storge/keys.js" timestamp="1476723089810">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -1110,7 +1123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="2" filename="$USER_HOME$/Workspace/nw-vue/package.json" />
       <jump line="12" column="5" filename="$USER_HOME$/Workspace/nw-vue/package.json" />
       <jump line="22" column="0" filename="$USER_HOME$/Workspace/nwjs-vue/.babelrc" />
       <jump line="1163" column="0" filename="$USER_HOME$/Workspace/1024/src/core/killvill.js" />
@@ -1210,57 +1222,56 @@
       <jump line="34" column="7" filename="$USER_HOME$/Workspace/blx-fsm/src/fsm-rule-analyzer.js" />
       <jump line="35" column="7" filename="$USER_HOME$/Workspace/blx-fsm/src/fsm-rule-analyzer.js" />
       <jump line="4" column="39" filename="$USER_HOME$/Workspace/blx-fsm/src/fsm-rule-analyzer.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/Workspace/io-request/src/server.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>brige</text>
       </register>
       <register name="-" type="4">
-        <text>un</text>
+        <text>brige</text>
       </register>
       <register name="/" type="4">
-        <text>reduce</text>
+        <text>data</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y2FubnRfcmVhY2hlZF9zZXQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoKewogIGRlZmluZTogWydzMCcsICdzMScsICdzMiddLAogIHN0YXJ0OiAnczAnLAogIGJvZHk6IFsKICAgIFsnczAnLCAnbmV4dCcsICdzMSddLAogICAgWydzMScsICduZXh0JywgJ3MyJ10KICBdCn0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHtvazogZmFsc2UsIHVudXNlZF9zZXQsIGNhbm50X3JlYWNoZWRfc2V0IH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-      used_set, unused_set, can_reached_set, cannt_reached_set
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LyoKewogIGRlZmluZTogWydzMCcsICdzMScsICdzMiddLAogIHN0YXJ0OiAnczAnLAogIGJvZHk6IFsKICAgIFsnczAnLCAnbmV4dCcsICdzMSddLAogICAgWydzMScsICduZXh0JywgJ3MyJ10KICBdCn0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHtvazogZmFsc2UsIHVudXNlZF9zZXQsIGNhbm50X3JlYWNoZWRfc2V0IH0K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>reduce</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>reduce</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>Slider</last-replace>
       <last-substitute encoding="base64">XDxmc21SdWxlUGFyc2VyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1268,7 +1279,6 @@
     </search>
     <history>
       <history-search>
-        <entry>var</entry>
         <entry>1rem</entry>
         <entry>@size</entry>
         <entry>id</entry>
@@ -1288,6 +1298,7 @@
         <entry>throw</entry>
         <entry>showPosition</entry>
         <entry>reduce</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1IvSS9n</entry>
