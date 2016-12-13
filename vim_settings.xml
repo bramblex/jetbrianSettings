@@ -137,12 +137,11 @@
         <mark key="." line="10" column="13" />
         <mark key="^" line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/io-request/src/client.js" timestamp="1481553412716">
+      <file name="$USER_HOME$/Workspace/io-request/src/client.js" timestamp="1481589256957">
         <mark key="'" line="7" column="6" />
-        <mark key="[" line="52" column="52" />
-        <mark key="]" line="52" column="52" />
-        <mark key="^" line="52" column="52" />
-        <mark key="." line="52" column="52" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Autress/app/contract/template/template.html" timestamp="1472202591726">
         <mark key="[" line="12" column="7" />
@@ -308,11 +307,10 @@
         <mark key="." line="2" column="64" />
         <mark key="^" line="2" column="64" />
       </file>
-      <file name="$USER_HOME$/Workspace/io-request/src/channel.js" timestamp="1481553616905">
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="13" column="6" />
-        <mark key="." line="13" column="6" />
-        <mark key="^" line="13" column="6" />
+      <file name="$USER_HOME$/Workspace/io-request/src/channel.js" timestamp="1481553920831">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/computer-simulator/src/components/content/AppCPU.vue" timestamp="1476111678875">
         <mark key="'" line="0" column="0" />
@@ -885,11 +883,11 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="43" column="46" />
       </file>
-      <file name="$USER_HOME$/Workspace/io-request/src/server.js" timestamp="1481553116358">
+      <file name="$USER_HOME$/Workspace/io-request/src/server.js" timestamp="1481554660829">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/betogether.today/client/src/main.js" timestamp="1473752380854">
         <mark key="'" line="18" column="0" />
@@ -946,6 +944,9 @@
         <mark key="]" line="52" column="56" />
         <mark key="^" line="66" column="84" />
         <mark key="." line="52" column="56" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1481589333143">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/1024/src/components/XContent.vue" timestamp="1477394413361">
         <mark key="[" line="5" column="18" />
@@ -1237,11 +1238,11 @@
       <jump line="7" column="6" filename="$USER_HOME$/Workspace/io-request/src/client.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>method</text>
       </register>
       <register name="/" type="4">
         <text>nextMessageId</text>
@@ -1250,31 +1251,31 @@
         <text encoding="base64">Y2FubnRfcmVhY2hlZF9zZXQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBpb0NoYW5uZWwgKHt0YXJnZXQsIH0pIHsKICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc29ja2V0Lm9uKCdpby1jaGFubmVsJywgKCkgPT4gewogICAgICB9KQo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvLyBpb0NoYW5uZWwgKHtmcm9tLCBtZWhvZCwgZGF0YX0pCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{target_id, response}</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjcmVhdGVDaGlubmVsIChzb3VyY2UsIHRhcmdldCkgewogICAgc291cmNlLm9uKCdpby1jaGFubmVsLXRvLScpCiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHNvdXJjZS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
